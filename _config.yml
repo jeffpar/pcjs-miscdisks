@@ -1,0 +1,9 @@
+theme: jekyll-theme-midnight
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "*.log"
+  - "*.sh"
+  - tmp
+  - "**/archive"
+  - /.history
