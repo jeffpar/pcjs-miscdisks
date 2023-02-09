@@ -1,0 +1,4421 @@
+{
+  "@server": "/miscdisks",
+  "app": {
+    "@title": "Applications",
+    "ibm": {
+      "@title": "IBM",
+      "tobias": {
+        "@hidden": true,
+        "@title": "Andrew Tobias",
+        "@versions": {
+          "1.00": {
+            "@title": "Managing Your Money with the IBM PCjr 1.00",
+            "@media": [
+              {
+                "@title": "Andrew Tobias Money 1.00 (Disk 1)",
+                "@diskette": "TOBIAS100-PCJR-DISK1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Andrew Tobias Money 1.00 (Disk 2)",
+                "@diskette": "TOBIAS100-PCJR-DISK2.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "basic": {
+        "@title": "BASIC",
+        "@versions": {
+          "1.00": {
+            "@title": "Programs from PC DOS 1.00"
+          },
+          "1.00/donkey": {
+            "@title": "DONKEY.BAS from PC DOS 1.00"
+          }
+        }
+      },
+      "multiplan": {
+        "@title": "Multiplan",
+        "@versions": {
+          "1.00": {
+            "@title": "IBM Multiplan 1.00",
+            "@media": [
+              {
+                "@title": "IBM Multiplan 1.00 (Program)",
+                "@diskette": "MULTIPLAN-IBM100-PROGRAM.json",
+                "@photo": ".jpg",
+                "@format": "PC160K",
+                "@args": "--sectorID=11:0:8:61",
+                "@kryoflux": true,
+                "@archive": "MULTIPLAN-IBM100-PROGRAM-BACKUP.img"
+              },
+              {
+                "@title": "IBM Multiplan 1.00 (Tutorial)",
+                "@diskette": "MULTIPLAN-IBM100-TUTORIAL.json",
+                "@photo": ".jpg",
+                "@format": "PC160K"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "lotus": {
+      "@title": "Lotus",
+      "123": {
+        "@title": "1-2-3",
+        "@versions": {
+          "1a": {
+            "@title": "1-2-3 1A",
+            "@media": [
+              {
+                "@title": "Lotus 1-2-3 1A (1-System)",
+                "@diskette": "123-1A-DISK1-SYSTEM-PATCHED.json",
+                "@format": "PC320K"
+              },
+              {
+                "@title": "Lotus 1-2-3 1A (2-Utility)",
+                "@diskette": "123-1A-DISK2-UTILITY.json",
+                "@format": "PC320K"
+              },
+              {
+                "@title": "Lotus 1-2-3 1A (3-Graph)",
+                "@diskette": "123-1A-DISK3-GRAPH.json",
+                "@format": "PC320K"
+              },
+              {
+                "@title": "Lotus 1-2-3 1A (4-Tutorial)",
+                "@diskette": "123-1A-DISK4-TUTORIAL.json",
+                "@format": "PC320K"
+              }
+            ]
+          },
+          "1aa": {
+            "@title": "1-2-3 1A*",
+            "@media": [
+              {
+                "@title": "Lotus 1-2-3 1A* (1-System)",
+                "@diskette": "123-1AA-DISK1-SYSTEM-PATCHED.json",
+                "@format": "PC320K",
+                "@kryoflux": true
+              },
+              {
+                "@title": "Lotus 1-2-3 1A* (2-Utility)",
+                "@diskette": "123-1AA-DISK2-UTILITY.json",
+                "@format": "PC320K",
+                "@kryoflux": true
+              },
+              {
+                "@title": "Lotus 1-2-3 1A* (3-Graph)",
+                "@diskette": "123-1AA-DISK3-GRAPH.json",
+                "@format": "PC320K",
+                "@kryoflux": true
+              },
+              {
+                "@title": "Lotus 1-2-3 1A* (4-Tutorial)",
+                "@diskette": "123-1AA-DISK4-TUTORIAL.json",
+                "@format": "PC320K",
+                "@kryoflux": true
+              }
+            ],
+            "@source": "https://winworldpc.com/product/lotus-1-2-3/1x"
+          }
+        }
+      }
+    },
+    "microsoft": {
+      "@title": "Microsoft",
+      "chart": {
+        "@title": "Microsoft Chart",
+        "@versions": {
+          "2.02": {
+            "@title": "Microsoft Chart 2.02",
+            "@media": [
+              {
+                "@title": "MS Chart 2.02 (Modified)",
+                "@diskette": "CHART202.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "multiplan": {
+        "@title": "Microsoft Multiplan",
+        "@versions": {
+          "1.06": {
+            "@title": "Microsoft Multiplan 1.06",
+            "@media": [
+              {
+                "@title": "MS Multiplan 1.06 (Modified)",
+                "@diskette": "MULTIPLAN106.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "2.00": {
+            "@title": "Microsoft Multiplan 2.00",
+            "@media": [
+              {
+                "@title": "MS Multiplan 2.00 (Modified)",
+                "@diskette": "MULTIPLAN200.json",
+                "@format": "PC320K",
+                "@archive": "folder"
+              }
+            ]
+          },
+          "2.01": {
+            "@title": "Microsoft Multiplan 2.01",
+            "@media": [
+              {
+                "@title": "MS Multiplan 2.01 (INSTALL)",
+                "@diskette": "MULTIPLAN201-INSTALL.json",
+                "@format": "PC320K",
+                "@archive": "folder",
+                "@label": "MP201INST"
+              },
+              {
+                "@title": "MS Multiplan 2.01 (PROGRAM)",
+                "@diskette": "MULTIPLAN201-PROGRAM.json",
+                "@format": "PC320K",
+                "@archive": "folder",
+                "@label": "MP201PROG"
+              }
+            ]
+          }
+        }
+      },
+      "word": {
+        "@title": "Microsoft Word",
+        "@versions": {
+          "1.10": {
+            "@title": "Microsoft Word 1.10",
+            "@media": [
+              {
+                "@title": "MS Word 1.10",
+                "@diskette": "MSWORD-110.json",
+                "@format": "PC320K",
+                "@kryoflux": true,
+                "@args": "--suppData=/software/pcx86/app/microsoft/word/1.15/index.md"
+              }
+            ]
+          },
+          "1.15": {
+            "@title": "Microsoft Word 1.15",
+            "@media": [
+              {
+                "@title": "MS Word 1.15 (Program)",
+                "@diskette": "MSWORD-115-PROGRAM-BACKUP.json",
+                "@format": "PC360K",
+                "@kryoflux": true,
+                "@args": "--suppData=/software/pcx86/app/microsoft/word/1.15/index.md"
+              },
+              {
+                "@title": "MS Word 1.15 (Utilities)",
+                "@diskette": "MSWORD-115-UTILITIES.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 1.15 (Learning)",
+                "@diskette": "MSWORD-100-LEARNING.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "3.00": {
+            "@title": "Microsoft Word 3.00",
+            "@media": [
+              {
+                "@title": "MS Word 3.00 (Disk 1)",
+                "@diskette": "WORD30-DISK1-PROGRAM.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.00 (Disk 2)",
+                "@diskette": "WORD30-DISK2-SPELL.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.00 (Disk 3)",
+                "@diskette": "WORD30-DISK3-UTILITIES.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.00 (Disk 4)",
+                "@diskette": "WORD30-DISK4-PRINTER.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.00 (Disk 5)",
+                "@diskette": "WORD30-DISK5-LEARNMOU.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.00 (Disk 6)",
+                "@diskette": "WORD30-DISK6-LEARNKBD.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "3.10": {
+            "@title": "Microsoft Word 3.10",
+            "@media": [
+              {
+                "@title": "MS Word 3.10 (Disk 1)",
+                "@diskette": "WORD31-DISK1-PROGRAM.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.10 (Disk 2)",
+                "@diskette": "WORD31-DISK2-SPELL.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.10 (Disk 3)",
+                "@diskette": "WORD31-DISK3-THESAURUS.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.10 (Disk 4)",
+                "@diskette": "WORD31-DISK4-UTILITIES.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.10 (Disk 5)",
+                "@diskette": "WORD31-DISK5-PRINTER.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.10 (Disk 6)",
+                "@diskette": "WORD31-DISK6-PRINTER.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.10 (Disk 7)",
+                "@diskette": "WORD31-DISK7-LEARNMOU.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 3.10 (Disk 8)",
+                "@diskette": "WORD31-DISK8-LEARNKBD.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "5.00": {
+            "@title": "Microsoft Word 5.00",
+            "@media": [
+              {
+                "@title": "MS Word 5.00 (Program 1)",
+                "@diskette": "WORD50-PROGRAM1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Program 2)",
+                "@diskette": "WORD50-PROGRAM2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Spell)",
+                "@diskette": "WORD50-SPELL.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Thesaurus)",
+                "@diskette": "WORD50-THESAURUS.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Utilities 1)",
+                "@diskette": "WORD50-UTILITIES1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Utilities 2)",
+                "@diskette": "WORD50-UTILITIES2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Utilities 3)",
+                "@diskette": "WORD50-UTILITIES3.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Utilities/Print)",
+                "@diskette": "WORD50-UTILPRINT.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Printers 1)",
+                "@diskette": "WORD50-PRINTERS1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Printers 2)",
+                "@diskette": "WORD50-PRINTERS2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Learning Kbd)",
+                "@diskette": "WORD50-LEARNKBD.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Learning Mouse)",
+                "@diskette": "WORD50-LEARNMOU.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Word 5.00 (Learning Adv)",
+                "@diskette": "WORD50-LEARNADV.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "winword": {
+        "@title": "Word for Windows",
+        "@versions": {
+          "2.0c": {
+            "@title": "Word for Windows 2.0c",
+            "@hardware": {
+              "config": "/machines/pcx86/ibm/5170/vga/2048kb/machine.xml",
+              "drives": "[{name:\"20Mb Hard Disk\",type:2,path:\"/harddisks/pcx86/20mb/PCDOS330-WIN310-VGA.json\"}]"
+            },
+            "@media": [
+              {
+                "@title": "Word for Windows 2.0c (Disk 1)",
+                "@diskette": "WINWORD20-DISK1.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "Word for Windows 2.0c (Disk 2)",
+                "@diskette": "WINWORD20-DISK2.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "Word for Windows 2.0c (Disk 3)",
+                "@diskette": "WINWORD20-DISK3.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "Word for Windows 2.0c (Disk 4)",
+                "@diskette": "WINWORD20-DISK4.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "Word for Windows 2.0c (Disk 5)",
+                "@diskette": "WINWORD20-DISK5.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "Word for Windows 2.0c (Disk 6)",
+                "@diskette": "WINWORD20-DISK6.json",
+                "@format": "PC1440K"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "other": {
+      "@title": "Other",
+      "dbase2": {
+        "@title": "dBASE II",
+        "@versions": {
+          "2.4": {
+            "@title": "dBASE II 2.4",
+            "@media": [
+              {
+                "@title": "dBASE II 2.4 (PROGRAM)",
+                "@diskette": "DBII-240-PROG.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "dBASE II 2.4 (DEMO)",
+                "@diskette": "DBII-240-DEMO.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "dBASE II 2.4 (TUTORIAL1)",
+                "@diskette": "DBII-240-ODT1.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "dBASE II 2.4 (TUTORIAL2)",
+                "@diskette": "DBII-240-ODT2.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "dBASE II 2.4 (TUTORIAL3)",
+                "@diskette": "DBII-240-ODT3.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "dBASE II 2.4 (SAMPLES)",
+                "@diskette": "DBII-240-SAMP.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "dBASE II 2.4 (EDITOR)",
+                "@diskette": "DBII-240-SCED.json",
+                "@format": "PC160K"
+              }
+            ]
+          }
+        }
+      },
+      "dbase3": {
+        "@title": "dBASE III",
+        "@versions": {
+          "1.0": {
+            "@title": "dBASE III 1.0",
+            "@media": [
+              {
+                "@title": "dBASE III 1.0 (Disk 1)",
+                "@diskette": "DBIII-100-DISK1-KF.json",
+                "@format": "PC360K",
+                "@args": "--sectorError=39:0:5:272",
+                "@kryoflux": true
+              },
+              {
+                "@title": "dBASE III 1.0 (Disk 2)",
+                "@diskette": "DBIII-100-DISK2.json",
+                "@format": "PC360K",
+                "@kryoflux": true
+              },
+              {
+                "@title": "dBASE III 1.0 (Locked)",
+                "@diskette": "DBIII-100-LOCKED.json",
+                "@format": "PC360K",
+                "@args": "--sectorError=39:0:2:204"
+              },
+              {
+                "@title": "dBASE III 1.0 (Patched)",
+                "@diskette": "DBIII-100-PATCHED.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "dBASE III 1.0 (Samples)",
+                "@diskette": "DBIII-100-SAMPLES.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "sc1": {
+        "@title": "SuperCalc",
+        "@versions": {
+          "1.10": {
+            "@title": "SuperCalc 1.10",
+            "@hardware": {
+              "options": "PC DOS 1.10"
+            },
+            "@media": [
+              {
+                "@title": "SuperCalc 1.10",
+                "@diskette": "SC1_V110.json",
+                "@format": "PC160K",
+                "@kryoflux": true,
+                "@photo": ".png"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "SuperCalc 1.10 Manual",
+                "@file": "SuperCalc-1981.png",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9iMMVOsUIxq7s1s6Mog?e=0Nyc1a",
+                "@cover": ".png",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "SuperCalc 1.10 Addendum",
+                "@file": "SuperCalc-Addendum.png",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9iMMWJlszoT0Y5LL21g?e=fgkSWn",
+                "@cover": ".png",
+                "@source": "PCjs"
+              }
+            ]
+          }
+        }
+      },
+      "sc2": {
+        "@title": "SuperCalc2",
+        "@versions": {
+          "1.00": {
+            "@title": "SuperCalc2 1.00",
+            "@media": [
+              {
+                "@title": "SuperCalc2 1.00",
+                "@diskette": "SC2_V100.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "sc3": {
+        "@title": "SuperCalc3",
+        "@versions": {
+          "1.00": {
+            "@title": "SuperCalc3 1.00",
+            "@media": [
+              {
+                "@title": "SuperCalc3 1.00 Setup",
+                "@diskette": "SC3_V100-SETUP.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "SuperCalc3 1.00 Utility",
+                "@diskette": "SC3_V100-UTILITY.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "thinktank": {
+        "@title": "ThinkTank",
+        "@versions": {
+          "1987": {
+            "@title": "ThinkTank (1987)",
+            "@media": [
+              {
+                "@title": "ThinkTank (DOS)",
+                "@diskette": "THINKTANK-DOS.json",
+                "@format": "PC320K",
+                "@archive": "folder",
+                "@label": "ThinkTank"
+              },
+              {
+                "@title": "ThinkTank (OS/2)",
+                "@diskette": "THINKTANK-OS2.json",
+                "@format": "PC1200K",
+                "@archive": "folder",
+                "@label": "ThinkTank"
+              }
+            ],
+            "@author": "Living Videotext",
+            "@releaseDate": "September 25, 1987",
+            "@version": "2.41NP"
+          }
+        }
+      },
+      "visicalc": {
+        "@title": "VisiCalc",
+        "@versions": {
+          "1981": {
+            "@title": "VisiCalc (1981)",
+            "@media": [
+              {
+                "@title": "VisiCalc (1981)",
+                "@diskette": "VISICALC-1981.json",
+                "@format": "PC160K",
+                "@archive": "folder",
+                "@label": "VISICALC81"
+              }
+            ]
+          }
+        }
+      },
+      "wordstar": {
+        "@title": "WordStar",
+        "@versions": {
+          "": {
+            "@title": "Overview",
+            "@redirect_from": "/disks/pcx86/apps/other/wordstar/"
+          },
+          "3.20": {
+            "@title": "WordStar 3.20",
+            "@media": [
+              {
+                "@title": "WordStar 3.20 (Original)",
+                "@diskette": "WS320-ORIG.json",
+                "@photo": ".png",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "WordStar 3.20 (MailMerge)",
+                "@diskette": "MM320-ORIG.json",
+                "@photo": ".png",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "WordStar 3.20 (Backup)",
+                "@diskette": "WS320-BACKUP.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "WordStar 3.20 (Recreated)",
+                "@diskette": "WS320-RECREATED.json",
+                "@format": "PC160K"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "WordStar Binder",
+                "@file": "WordStar_3.2_Binder.png",
+                "@link": "https://1drv.ms/u/s!ArcO_mFRe1Z9gqlTMVtF-s8OxtSNpA",
+                "@cover": ".png",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "WordStar 3.0 Training Guide",
+                "@file": "WordStar_3.0_Training_Guide.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqlYINZ_GQ3Y6NVSUA?e=cUZyft",
+                "@cover": ".png",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "WordStar 3.2 General Information",
+                "@file": "WordStar_3.2_General_Information.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqkVkrQ_SzATTmls_Q?e=D3kVDU",
+                "@cover": ".png",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "WordStar 3.2 Reference Manual",
+                "@file": "WordStar_3.2_Reference_Manual.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqkWhsTCHW7gkQ2W7A?e=VLlYyf",
+                "@cover": ".png",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "WordStar 3.2 Technical Information",
+                "@file": "WordStar_3.2_Technical_Information.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqkUQdVG_FL8aYm3fg?e=yffrXl",
+                "@cover": ".png",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "WordStar 3.0 Reference Card",
+                "@file": "WordStar_3.0_Reference_Card.png",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqkTDr8PVob3Mpvnxg?e=XPFAEC",
+                "@cover": ".png",
+                "@source": "PCjs"
+              }
+            ]
+          },
+          "3.24": {
+            "@title": "WordStar 3.24",
+            "@media": [
+              {
+                "@title": "WordStar 3.24",
+                "@diskette": "WS324-MOUNTABLE.json",
+                "@format": "PC160K"
+              }
+            ]
+          },
+          "3.30": {
+            "@title": "WordStar 3.30",
+            "@media": [
+              {
+                "@title": "WordStar 3.30 (Disk 1)",
+                "@diskette": "WS330-DISK1-INST.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "WordStar 3.30 (Disk 2)",
+                "@diskette": "WS330-DISK2-PROG.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "WordStar 3.30 (Disk 3)",
+                "@diskette": "WS330-DISK3-SPELL.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "WordStar 3.30 (Disk 4)",
+                "@diskette": "WS330-DISK4-STIDX.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "WordStar 3.30 (Disk 5)",
+                "@diskette": "WS330-DISK5-MMRG.json",
+                "@format": "PC160K"
+              }
+            ]
+          },
+          "4.00": {
+            "@title": "WordStar 4.00",
+            "@media": [
+              {
+                "@title": "WordStar 4.00 (INSTALL)",
+                "@diskette": "WS400-DISK1-INST.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "WordStar 4.00 (PROGRAM)",
+                "@diskette": "WS400-DISK2-PROG.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "WordStar 4.00 (DICTIONARY)",
+                "@diskette": "WS400-DISK3-DICT.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "WordStar 4.00 (TUTOR)",
+                "@diskette": "WS400-DISK4-TUTOR.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "WordStar 4.00 (WORD FINDER1)",
+                "@diskette": "WS400-DISK5-WORDFINDER1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "WordStar 4.00 (WORD FINDER2)",
+                "@diskette": "WS400-DISK6-WORDFINDER2.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "pcjr": {
+            "@title": "WordStar for PCjr",
+            "@media": [
+              {
+                "@title": "WordStar for PCjr (Disk 1)",
+                "@diskette": "WSPCJR100-DISK1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "WordStar for PCjr (Disk 2)",
+                "@diskette": "WSPCJR100-DISK2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "WordStar for PCjr (Disk 3)",
+                "@diskette": "WSPCJR100-DISK3.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "demo": {
+    "@title": "Demos",
+    "ibm": {
+      "@title": "IBM",
+      "exploring": {
+        "@title": "Exploring the IBM PC",
+        "@versions": {
+          "1.00-CGA": {
+            "@title": "Exploring the IBM PC (CGA)",
+            "@bootable": true,
+            "@hardware": {
+              "machine": "/machines/pcx86/ibm/5150/cga/",
+              "options": "5150,cga"
+            },
+            "@media": [
+              {
+                "@diskette": "EXPLORING-THE-IBM-PC-100-CGA.json",
+                "@format": "PC160K",
+                "@photo": ".jpg"
+              }
+            ]
+          },
+          "1.00-MDA": {
+            "@title": "Exploring the IBM PC (MDA)",
+            "@bootable": true,
+            "@hardware": {
+              "machine": "/machines/pcx86/ibm/5150/mda/",
+              "options": "5150,mda"
+            },
+            "@media": [
+              {
+                "@diskette": "EXPLORING-THE-IBM-PC-100-MDA.json",
+                "@format": "PC160K",
+                "@photo": ".jpg"
+              }
+            ]
+          },
+          "1.00-AT": {
+            "@title": "Exploring the IBM PC AT 1.00",
+            "@bootable": true,
+            "@hardware": {
+              "machine": "/machines/pcx86/ibm/5170/cga/",
+              "options": "5170,cga"
+            },
+            "@media": [
+              {
+                "@diskette": "EXPLORING-THE-IBM-PC-AT-100.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              }
+            ]
+          },
+          "2.00-AT": {
+            "@title": "Exploring the IBM PC AT 2.00",
+            "@bootable": true,
+            "@hardware": {
+              "machine": "/machines/pcx86/ibm/5170/cga/",
+              "options": "5170,cga"
+            },
+            "@media": [
+              {
+                "@diskette": "EXPLORING-THE-IBM-PC-AT-200.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              }
+            ]
+          }
+        }
+      },
+      "ega": {
+        "@title": "IBM EGA Demos and Utilities",
+        "@versions": {
+          "": {
+            "@title": "Fantasy Land",
+            "@media": [
+              {
+                "@title": "IBM EGA Fantasy Land Demo",
+                "@diskette": "EGA-FLAND.json",
+                "@photo": ".jpg",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "IBM EGA Utilities",
+                "@diskette": "EGA-UTILS.json",
+                "@format": "PC320K"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "lang": {
+    "@title": "Languages",
+    "borland": {
+      "@title": "Borland",
+      "pascal": {
+        "@title": "Turbo Pascal",
+        "@versions": {
+          "2.00b": {
+            "@title": "Borland Turbo Pascal 2.00B",
+            "@media": [
+              {
+                "@title": "Borland Turbo Pascal 2.00B",
+                "@diskette": "TURBO-PASCAL-200B.json",
+                "@format": "PC160K"
+              }
+            ]
+          },
+          "3.00b": {
+            "@title": "Borland Turbo Pascal 3.00B",
+            "@media": [
+              {
+                "@title": "Borland Turbo Pascal 3.00B",
+                "@diskette": "TURBO-PASCAL-300B.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "3.01a": {
+            "@title": "Borland Turbo Pascal 3.01A",
+            "@media": [
+              {
+                "@title": "Borland Turbo Pascal 3.01A",
+                "@diskette": "TURBO-PASCAL-301A-8087-BCD.json",
+                "@photo": ".jpg",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "3.02a": {
+            "@title": "Borland Turbo Pascal 3.02A",
+            "@media": [
+              {
+                "@title": "Borland Turbo Pascal 3.02A",
+                "@diskette": "TURBO-PASCAL-302A.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "4.00": {
+            "@title": "Borland Turbo Pascal 4.00",
+            "@media": [
+              {
+                "@title": "Borland Turbo Pascal 4.00 (Disk 1)",
+                "@diskette": "TURBO-PASCAL-400-DISK1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 4.00 (Disk 2)",
+                "@diskette": "TURBO-PASCAL-400-DISK2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 4.00 (Disk 3)",
+                "@diskette": "TURBO-PASCAL-400-DISK3.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "5.00": {
+            "@title": "Borland Turbo Pascal 5.00",
+            "@media": [
+              {
+                "@title": "Borland Turbo Pascal 5.00 (Disk 1)",
+                "@subtitle": "INSTALL",
+                "@diskette": "TURBO-PASCAL-500-DISK1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 5.00 (Disk 2)",
+                "@subtitle": "HELP/UTILITIES",
+                "@diskette": "TURBO-PASCAL-500-DISK2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 5.00 (Disk 3)",
+                "@subtitle": "BGI/DEMOS/DOC/TURBO3",
+                "@diskette": "TURBO-PASCAL-500-DISK3.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "5.50": {
+            "@title": "Borland Turbo Pascal 5.50",
+            "@media": [
+              {
+                "@title": "Borland Turbo Pascal 5.50 (INSTALL)",
+                "@diskette": "TURBO-PASCAL-550-INSTALL.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 5.50 (UTILITY)",
+                "@diskette": "TURBO-PASCAL-550-UTILITY.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 5.50 (BGI)",
+                "@diskette": "TURBO-PASCAL-550-BGI.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 5.50 (HELP)",
+                "@diskette": "TURBO-PASCAL-550-HELP.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "6.00": {
+            "@title": "Borland Turbo Pascal 6.00",
+            "@media": [
+              {
+                "@title": "Borland Turbo Pascal 6.00 (Disk 1)",
+                "@diskette": "TURBO-PASCAL-600-DISK1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 6.00 (Disk 2)",
+                "@diskette": "TURBO-PASCAL-600-DISK2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 6.00 (Disk 3)",
+                "@diskette": "TURBO-PASCAL-600-DISK3.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland Turbo Pascal 6.00 (Disk 4)",
+                "@diskette": "TURBO-PASCAL-600-DISK4.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "dresearch": {
+      "@title": "Digital Research",
+      "pascal": {
+        "@title": "Pascal/MT+",
+        "@versions": {
+          "3.11": {
+            "@title": "Pascal/MT+ 3.11",
+            "@media": [
+              {
+                "@title": "DR Pascal/MT+ 3.11 (Disk 1)",
+                "@diskette": "PASCALMT311-DISK1.json",
+                "@photo": ".jpg",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "DR Pascal/MT+ 3.11 (Disk 2)",
+                "@diskette": "PASCALMT311-DISK2.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "DR Pascal/MT+ 3.11 (Disk 3)",
+                "@diskette": "PASCALMT311-DISK3.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "DR Pascal/MT+ 3.11 (Disk 4)",
+                "@diskette": "PASCALMT311-DISK4.json",
+                "@format": "PC160K"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "Pascal/MT+ Notices",
+                "@file": "PASCALMT-311-NOTICES.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFwfKz6L5KLLFOXnA?e=AZ6rJu",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "Pascal/MT+ Programmer's Guide",
+                "@file": "PASCALMT-311-PROGRAMMERS-GUIDE.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFzf2rfPk25Wvnkbg?e=YaU25Z",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "Pascal/MT+ Reference Manual",
+                "@file": "PASCALMT-311-REFERENCE-MANUAL.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFywvuwHRIOLy9fgA?e=6JWrqA",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ibm": {
+      "@title": "IBM",
+      "apl": {
+        "@title": "APL",
+        "@versions": {
+          "1.00": {
+            "@title": "IBM APL 1.00",
+            "@media": [
+              {
+                "@title": "IBM APL 1.00",
+                "@diskette": "APL-100.json",
+                "@format": "PC320K"
+              }
+            ]
+          }
+        }
+      },
+      "basic": {
+        "@title": "BASIC",
+        "compiler": {
+          "@title": "BASIC Compiler",
+          "@versions": {
+            "1.00": {
+              "@title": "IBM BASIC Compiler 1.00",
+              "@media": [
+                {
+                  "@title": "IBM BASIC Compiler 1.00 (Disk 1)",
+                  "@diskette": "BASCOM100-DISK1.json",
+                  "@format": "PC160K"
+                },
+                {
+                  "@title": "IBM BASIC Compiler 1.00 (Disk 2)",
+                  "@diskette": "BASCOM100-DISK2.json",
+                  "@format": "PC160K"
+                }
+              ]
+            },
+            "2.00": {
+              "@title": "IBM BASIC Compiler 2.00",
+              "@media": [
+                {
+                  "@title": "IBM BASIC Compiler 2.00",
+                  "@diskette": "BASCOM200-DISK1.json",
+                  "@format": "PC360K"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "cobol": {
+        "@title": "COBOL",
+        "@versions": {
+          "1.00": {
+            "@title": "IBM COBOL 1.00",
+            "@media": [
+              {
+                "@title": "IBM COBOL 1.00 (Disk 1)",
+                "@diskette": "IBM-COBOL-100-DISK1.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "IBM COBOL 1.00 (Disk 2)",
+                "@diskette": "IBM-COBOL-100-DISK2.json",
+                "@format": "PC160K"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "IBM COBOL Compiler 1.00",
+                "@file": "IBM_COBOL_Compiler_V1_1982-03.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heNgckNGawAfsQxs-w?e=P9m6LU",
+                "@embed": "https://onedrive.live.com/embed?cid=7D567B5161FE0EB7&resid=7D567B5161FE0EB7%2194688&authkey=ANqaZ9JL50ssPKw&em=2",
+                "@cover": ".jpg",
+                "@source": "https://winworldpc.com/product/ibm-cobol-compiler/1x"
+              }
+            ]
+          }
+        }
+      },
+      "masm": {
+        "@title": "Macro Assembler",
+        "@versions": {
+          "1.00": {
+            "@title": "IBM Macro Assembler 1.00",
+            "@media": [
+              {
+                "@title": "IBM Macro Assembler 1.00",
+                "@diskette": "IBM-MASM-100.json",
+                "@format": "PC160K",
+                "@source": "https://winworldpc.com/product/ibm-macro-assembler/100"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "IBM Macro Assembler 1.00",
+                "@file": "IBM_Macro_Assembler_100.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heM9R4ZXrrB1ZRzjwA?e=IMhky8",
+                "@embed": "https://onedrive.live.com/embed?cid=7D567B5161FE0EB7&resid=7D567B5161FE0EB7%2194653&authkey=AI7jcPAR_KQyyK0&em=2",
+                "@cover": ".jpg",
+                "@source": "https://winworldpc.com/product/ibm-macro-assembler/100"
+              }
+            ]
+          },
+          "2.00": {
+            "@title": "IBM Macro Assembler 2.00",
+            "@media": [
+              {
+                "@title": "IBM Macro Assembler 2.00",
+                "@diskette": "IBM-MASM-200.json",
+                "@photo": ".jpg",
+                "@format": "PC320K"
+              }
+            ]
+          }
+        }
+      },
+      "pascal": {
+        "@title": "Pascal",
+        "@versions": {
+          "1.00": {
+            "@title": "IBM Pascal Compiler 1.00",
+            "@media": [
+              {
+                "@title": "IBM Pascal 1.00 (Disk 1)",
+                "@diskette": "PASCAL100-DISK1.json",
+                "@format": "PC160K",
+                "@archive": "folder"
+              },
+              {
+                "@title": "IBM Pascal 1.00 (Disk 2)",
+                "@diskette": "PASCAL100-DISK2.json",
+                "@format": "PC160K",
+                "@archive": "folder"
+              },
+              {
+                "@title": "IBM Pascal 1.00 (Disk 3)",
+                "@diskette": "PASCAL100-DISK3.json",
+                "@format": "PC160K",
+                "@archive": "folder"
+              },
+              {
+                "@title": "IBM Pascal 1.00 (Combined)",
+                "@diskette": "PASCAL100-DISKS.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "logitech": {
+      "@title": "Logitech",
+      "modula2": {
+        "@title": "Modula-2/86",
+        "@versions": {
+          "1.00": {
+            "@title": "Modula-2/86 1.00",
+            "@media": [
+              {
+                "@title": "Modula-2/86 1.00 (1-System)",
+                "@diskette": "LOGITECH-MODULA2-DISK1-SYSTEM.json",
+                "@format": "PC320K",
+                "@archive": "folder"
+              },
+              {
+                "@title": "Modula-2/86 1.00 (2-Linker)",
+                "@diskette": "LOGITECH-MODULA2-DISK2-LINKER.json",
+                "@format": "PC360K",
+                "@archive": "folder"
+              },
+              {
+                "@title": "Modula-2/86 1.00 (3-Compiler)",
+                "@diskette": "LOGITECH-MODULA2-DISK3-COMPILER.json",
+                "@format": "PC360K",
+                "@archive": "folder"
+              }
+            ]
+          },
+          "1.10": {
+            "@title": "Modula-2/86 1.10",
+            "@media": [
+              {
+                "@title": "Modula-2/86 1.10 (1-System)",
+                "@diskette": "LOGITECH-MODULA2-DISK1-SYSTEM.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Modula-2/86 1.10 (2-Compiler)",
+                "@diskette": "LOGITECH-MODULA2-DISK2-COMPILER.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Modula-2/86 1.10 (3-Linker)",
+                "@diskette": "LOGITECH-MODULA2-DISK3-LINKER.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Modula-2/86 1.10 (4-Debugger)",
+                "@diskette": "LOGITECH-MODULA2-DISK4-DEBUGGER.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "microsoft": {
+      "@title": "Microsoft",
+      "basic": {
+        "@title": "BASIC",
+        "compiler": {
+          "@title": "BASIC Compiler",
+          "@versions": {
+            "5.36": {
+              "@title": "MS BASIC Compiler 5.36",
+              "@media": [
+                {
+                  "@diskette": "BASCOM536.json",
+                  "@format": "PC360K"
+                }
+              ]
+            }
+          }
+        },
+        "qbasic": {
+          "@title": "QBasic",
+          "@versions": {
+            "1.10": {
+              "@title": "MS QBasic 1.10",
+              "@media": [
+                {
+                  "@diskette": "QBASIC110.json",
+                  "@format": "PC360K",
+                  "@archive": "folder"
+                }
+              ]
+            }
+          }
+        },
+        "quickbasic": {
+          "@title": "QuickBASIC",
+          "@versions": {
+            "1.00": {
+              "@title": "MS QuickBASIC 1.00",
+              "@media": [
+                {
+                  "@diskette": "MS-QUICKBASIC-100.json",
+                  "@photo": ".jpg",
+                  "@format": "PC360K"
+                }
+              ]
+            },
+            "2.00": {
+              "@title": "MS QuickBASIC 2.00",
+              "@media": [
+                {
+                  "@title": "MS QuickBASIC 2.00 (Disk 1)",
+                  "@diskette": "MS-QUICKBASIC-200-DISK1.json",
+                  "@photo": ".jpg",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickBASIC 2.00 (Personal)",
+                  "@diskette": "MS-QUICKBASIC-200-JP.json",
+                  "@format": "PC360K"
+                }
+              ]
+            },
+            "2.01": {
+              "@title": "MS QuickBASIC 2.01",
+              "@media": [
+                {
+                  "@title": "MS QuickBASIC 2.01 (Disk 1)",
+                  "@diskette": "MS-QUICKBASIC-201-DISK1.json",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickBASIC 2.01 (Disk 2)",
+                  "@diskette": "MS-QUICKBASIC-201-DISK2.json",
+                  "@format": "PC360K"
+                }
+              ]
+            },
+            "3.00": {
+              "@title": "MS QuickBASIC 3.00",
+              "@media": [
+                {
+                  "@title": "MS QuickBASIC 3.00 (Disk 1)",
+                  "@diskette": "MS-QUICKBASIC-300-DISK1.json",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickBASIC 3.00 (Disk 2)",
+                  "@diskette": "MS-QUICKBASIC-300-DISK2.json",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickBASIC 3.00 (Disk 3)",
+                  "@diskette": "MS-QUICKBASIC-300-DISK3.json",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickBASIC 3.00 (Disk 4)",
+                  "@diskette": "MS-QUICKBASIC-300-DISK4.json",
+                  "@format": "PC360K"
+                }
+              ]
+            },
+            "4.00": {
+              "@title": "MS QuickBASIC 4.00",
+              "@media": [
+                {
+                  "@title": "MS QuickBASIC 4.00 (Disk 1)",
+                  "@diskette": "MS-QUICKBASIC-400-DISK1.json",
+                  "@format": "PC720K"
+                },
+                {
+                  "@title": "MS QuickBASIC 4.00 (Disk 2)",
+                  "@diskette": "MS-QUICKBASIC-400-DISK2.json",
+                  "@format": "PC720K"
+                }
+              ]
+            },
+            "4.50": {
+              "@title": "MS QuickBASIC 4.50",
+              "@media": [
+                {
+                  "@title": "MS QuickBASIC 4.50 (Disk 1)",
+                  "@diskette": "MS-QUICKBASIC-450-DISK1.json",
+                  "@format": "PC720K"
+                },
+                {
+                  "@title": "MS QuickBASIC 4.50 (Disk 2)",
+                  "@diskette": "MS-QUICKBASIC-450-DISK2.json",
+                  "@format": "PC720K"
+                }
+              ]
+            }
+          }
+        },
+        "vb": {
+          "@title": "Visual Basic",
+          "@versions": {
+            "1.00": {
+              "@title": "MS Visual Basic 1.00",
+              "@media": [
+                {
+                  "@title": "MS Visual Basic 1.00 (Disk 1)",
+                  "@diskette": "VB100-DISK1.json",
+                  "@format": "PC1200K"
+                },
+                {
+                  "@title": "MS Visual Basic 1.00 (Disk 2)",
+                  "@diskette": "VB100-DISK2.json",
+                  "@format": "PC1200K"
+                },
+                {
+                  "@title": "MS Visual Basic 1.00 (Disk 3)",
+                  "@diskette": "VB100-DISK3.json",
+                  "@format": "PC1200K"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "c": {
+        "@title": "C Compiler",
+        "@versions": {
+          "1.03": {
+            "@title": "Microsoft C Compiler 1.03",
+            "@hardware": {
+              "options": "ibm,5160",
+              "drives": "[{name:\"PC-DOS 2.00 w/Tools (10Mb)\",type:3,path:\"/harddisks/pcx86/10mb/PCDOS200-C400.json\"}]",
+              "autoType": "$date\\r$time\\r"
+            },
+            "@media": [
+              {
+                "@title": "MS C 1.03 Beta (Disk 1)",
+                "@diskette": "MSC103-BETA-DISK1.json",
+                "@format": "PC160K",
+                "@kryoflux": true
+              },
+              {
+                "@title": "MS C 1.03 Beta (Disk 2)",
+                "@diskette": "MSC103-BETA-DISK2.json",
+                "@format": "PC160K",
+                "@kryoflux": true
+              }
+            ]
+          },
+          "1.04": {
+            "@title": "Microsoft C Compiler 1.04",
+            "@hardware": {
+              "options": "ibm,5160",
+              "drives": "[{name:\"PC-DOS 2.00 w/Tools (10Mb)\",type:3,path:\"/harddisks/pcx86/10mb/PCDOS200-C400.json\"}]",
+              "autoType": "$date\\r$time\\r"
+            },
+            "@media": [
+              {
+                "@title": "MS C 1.04 (Disk 1)",
+                "@diskette": "MSC104-DISK1.json",
+                "@format": "PC160K"
+              },
+              {
+                "@title": "MS C 1.04 (Disk 2)",
+                "@diskette": "MSC104-DISK2.json",
+                "@format": "PC160K"
+              }
+            ]
+          },
+          "2.03": {
+            "@title": "Microsoft C Compiler 2.03",
+            "@media": [
+              {
+                "@title": "MS C 2.03 (Installed)",
+                "@diskette": "MSC203-INSTALLED.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "3.00": {
+            "@title": "Microsoft C Compiler 3.00",
+            "@media": [
+              {
+                "@title": "MS C 3.00 (Disk 1)",
+                "@diskette": "MSC300-DISK1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 3.00 (Disk 2)",
+                "@diskette": "MSC300-DISK2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 3.00 (Disk 3)",
+                "@diskette": "MSC300-DISK3.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "4.00": {
+            "@title": "Microsoft C Compiler 4.00",
+            "@media": [
+              {
+                "@title": "MS C 4.00 (Disk 1)",
+                "@diskette": "MSC-048014-400-DISK1-COMPILER.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 4.00 (Disk 2)",
+                "@diskette": "MSC-048014-400-DISK2-UTILITIES.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 4.00 (Disk 3)",
+                "@diskette": "MSC-048014-400-DISK3-LIBSMALL.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 4.00 (Disk 4)",
+                "@diskette": "MSC-048014-400-DISK4-LIBMEDIUM.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 4.00 (Disk 5)",
+                "@diskette": "MSC-048014-400-DISK5-LIBLARGE.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 4.00 (Disk 6)",
+                "@diskette": "MSC-048014-400-DISK6-STARTUP.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 4.00 (Disk 7)",
+                "@diskette": "MSC-048014-400-DISK7-CODEVIEW.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 4.00 (Disk 8)",
+                "@diskette": "MSC-048014-400-DISK8-DEVKIT.json",
+                "@format": "PC360K"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "About Leaflet",
+                "@file": "MSC400-1986-ABOUT.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFP5vwCuIxIAxJoRQ?e=4n7LG8",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/msc40/ms-c-4.0-about-1986.pdf"
+              },
+              {
+                "@title": "C Compiler User's Guide",
+                "@file": "MSC400-1986-UGUIDE.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFWpIc8MH4i6ZF_rQ?e=sI7bfC",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/msc40/ms-c-4.0-uguide-1986.pdf"
+              },
+              {
+                "@title": "CodeView Debugger",
+                "@file": "MSC400-1986-CODEVIEW.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFR869lAzrhBEyvqA?e=R8GTis",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/msc40/ms-c-4.0-codeview-1986.pdf"
+              },
+              {
+                "@title": "C Language Reference",
+                "@file": "MSC400-1986-CLR.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFQQtXhdBT9dmTdWg?e=ApXnCC",
+                "@cover": ".jpg",
+                "@source": ""
+              },
+              {
+                "@title": "Run-Time Library Reference",
+                "@file": "MSC400-1986-RTLREF.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFTv-HXbZG3BMdQMQ?e=DbCWgk",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/msc40/ms-c-4.0-rtlref-1986.pdf"
+              }
+            ]
+          },
+          "5.00": {
+            "@title": "Microsoft C Compiler 5.00",
+            "@media": [
+              {
+                "@title": "MS C 5.00 (SETUP)",
+                "@diskette": "MSC500-DISK1-SETUP.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              },
+              {
+                "@title": "MS C 5.00 (COMPILER)",
+                "@diskette": "MSC500-DISK2-COMPILER.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              },
+              {
+                "@title": "MS C 5.00 (UTILITY1)",
+                "@diskette": "MSC500-DISK3-UTILITY1.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              },
+              {
+                "@title": "MS C 5.00 (INCLIBS)",
+                "@diskette": "MSC500-DISK4-INCLIBS.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              },
+              {
+                "@title": "MS C 5.00 (LIBMC)",
+                "@diskette": "MSC500-DISK5-LIBMC.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              },
+              {
+                "@title": "MS C 5.00 (LIBL)",
+                "@diskette": "MSC500-DISK6-LIBL.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              },
+              {
+                "@title": "MS C 5.00 (CODEVIEW)",
+                "@diskette": "MSC500-DISK7-CODEVIEW.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              },
+              {
+                "@title": "MS C 5.00 (QUICKC)",
+                "@diskette": "MSC500-DISK8-QUICKC.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              },
+              {
+                "@title": "MS C 5.00 (UTILITY2)",
+                "@diskette": "MSC500-DISK9-UTILITY2.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/microsoft-c-c/5x"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "MS C 5.0 User's Guide (1987 PRE)",
+                "@file": "MSC50-USERGUIDE-PRE-1987.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBfaLiJ-xzV75I_qw?e=QohYIb",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-ug-pre-1987.pdf"
+              },
+              {
+                "@title": "MS C 5.0 User's Guide (1987 PRE UPD)",
+                "@file": "MSC50-UG-LR-PRE-UPD-1987.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heB0GJAPrVz_cZ7CAA?e=n2c3hG",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-ug-lr-pre-upd-1987.pdf"
+              },
+              {
+                "@title": "MS C 5.0 User's Guide (1987)",
+                "@file": "MSC50-USERGUIDE-1987.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heB5iaYUjobUab38cg?e=wIMD34",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-ug-1987.pdf"
+              },
+              {
+                "@title": "MS C 5.0 Language Reference (1987 PRE)",
+                "@file": "MSC50-LANGREF-PRE-1987.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heB1ZSfSgAzKkJE44w?e=DXAADz",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-lr-pre-1987.pdf"
+              },
+              {
+                "@title": "MS C 5.0 Run-Time Library Reference (1987 PRE)",
+                "@file": "MSC50-RTL-PRE-1987.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBgLW-dwbFUOrnmvg?e=CkwBGO",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-rtl-pre-1987.pdf"
+              },
+              {
+                "@title": "MS C 5.0 Run-Time Library Reference (1987 PRE UPD)",
+                "@file": "MSC50-RTL-PRE-UPD-1987.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBvuqj2ATEdvqx9IQ?e=krdcbO",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-rtl-pre-upd-1987.pdf"
+              },
+              {
+                "@title": "MS C 5.0 Run-Time Library Reference for OS/2 (1987 UPD)",
+                "@file": "MSC50-RTL-OS2-UPD-1987.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBz9FKds8vVT21KEw?e=yTBRjV",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-rtl-os2-upd-1987.pdf"
+              }
+            ]
+          },
+          "5.10": {
+            "@title": "Microsoft C Compiler 5.10",
+            "@media": [
+              {
+                "@title": "MS C 5.10 (SETUP)",
+                "@diskette": "MSC510-01521-SETUP.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (COMPILER1)",
+                "@diskette": "MSC510-01522-COMPILER1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (COMPILER2)",
+                "@diskette": "MSC510-01523-COMPILER2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (UTILITY1)",
+                "@diskette": "MSC510-01524-UTILITIES1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (UTILITY2)",
+                "@diskette": "MSC510-01525-UTILITIES2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (INCLUDE)",
+                "@diskette": "MSC510-01526-INCLUDE.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (LIBSM)",
+                "@diskette": "MSC510-01527-LIBSM.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (LIBLC)",
+                "@diskette": "MSC510-01528-LIBLC.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (LIBFP)",
+                "@diskette": "MSC510-01529-LIBFP.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (CODEVIEW)",
+                "@diskette": "MSC510-01532-CODEVIEW.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10 (QUICKC)",
+                "@diskette": "MSC510-01534-QUICKC.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "5.10-os2": {
+            "@title": "Microsoft C Compiler for OS/2 5.10",
+            "@media": [
+              {
+                "@title": "MS C 5.10-OS/2 (SETUP)",
+                "@diskette": "MSC510-DISK01-SETUP.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (COMPILER1)",
+                "@diskette": "MSC510-DISK02-COMPILER1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (COMPILER2)",
+                "@diskette": "MSC510-DISK03-COMPILER2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (UTILITY1)",
+                "@diskette": "MSC510-DISK04-UTILITY1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (UTILITY2)",
+                "@diskette": "MSC510-DISK05-UTILITY2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (INCLUDE)",
+                "@diskette": "MSC510-DISK06-INCLUDE.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (LIBSM)",
+                "@diskette": "MSC510-DISK07-LIBSM.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (LIBLC)",
+                "@diskette": "MSC510-DISK08-LIBLC.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (LIBFP)",
+                "@diskette": "MSC510-DISK09-LIBFP.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (CVDOS)",
+                "@diskette": "MSC510-DISK10-CVDOS.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (QCDOS)",
+                "@diskette": "MSC510-DISK11-QCDOS.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (UTILITY3)",
+                "@diskette": "MSC510-DISK12-UTILITY3.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (LIBOS2)",
+                "@diskette": "MSC510-DISK13-LIBOS2.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS C 5.10-OS/2 (CVOS2)",
+                "@diskette": "MSC510-DISK14-CVOS2.json",
+                "@format": "PC1200K"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "MS C 5.1 Update for MS OS/2 and MS-DOS (1988)",
+                "@file": "MSC51-UPDATE-1988.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBuypY9jGc9RdsSRg?e=0QxeVw",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.1-update-1988.pdf"
+              }
+            ]
+          },
+          "qcwin": {
+            "@title": "Microsoft QuickC for Windows 1.00",
+            "@media": [
+              {
+                "@title": "MS QuickC for Windows (1 of 5)",
+                "@diskette": "MSQCWIN-DISK1.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS QuickC for Windows (2 of 5)",
+                "@diskette": "MSQCWIN-DISK2.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS QuickC for Windows (3 of 5)",
+                "@diskette": "MSQCWIN-DISK3.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS QuickC for Windows (4 of 5)",
+                "@diskette": "MSQCWIN-DISK4.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS QuickC for Windows (5 of 5)",
+                "@diskette": "MSQCWIN-DISK5.json",
+                "@format": "PC1200K"
+              }
+            ]
+          }
+        }
+      },
+      "cobol": {
+        "@title": "COBOL",
+        "@versions": {
+          "1.12": {
+            "@title": "MS COBOL 1.12",
+            "@media": [
+              {
+                "@title": "MS COBOL 1.12 (Disk 1)",
+                "@diskette": "MS-COBOL-112-DISK1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS COBOL 1.00 (Disk 2)",
+                "@diskette": "MS-COBOL-112-DISK2.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "masm": {
+        "@title": "Macro Assembler",
+        "@versions": {
+          "1.00-1981": {
+            "@title": "Macro Assembler 1.00-1981",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 1.00 (1981)",
+                "@diskette": "MASM100-1981.json",
+                "@format": "PC160K",
+                "@archive": "folder",
+                "@label": "MASM100",
+                "@source": "http://www.os2museum.com"
+              }
+            ]
+          },
+          "1.00": {
+            "@title": "Macro Assembler 1.00",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 1.00 (1982)",
+                "@diskette": "MASM100.json",
+                "@format": "PC160K",
+                "@source": "https://winworldpc.com/product/macro-assembler/1x"
+              }
+            ]
+          },
+          "1.06": {
+            "@title": "Macro Assembler 1.06",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 1.06",
+                "@diskette": "MASM106.json",
+                "@format": "PC160K",
+                "@source": "https://winworldpc.com/product/macro-assembler/1x"
+              }
+            ]
+          },
+          "1.10": {
+            "@title": "Macro Assembler 1.10",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 1.10",
+                "@diskette": "MASM110.json",
+                "@format": "PC320K",
+                "@archive": "folder"
+              }
+            ]
+          },
+          "1.12": {
+            "@title": "Macro Assembler 1.12",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 1.12",
+                "@diskette": "MASM112.json",
+                "@format": "PC320K",
+                "@archive": "folder"
+              }
+            ]
+          },
+          "1.25": {
+            "@title": "Macro Assembler 1.25",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 1.25",
+                "@diskette": "MASM125.json",
+                "@format": "PC320K",
+                "@archive": "folder"
+              }
+            ]
+          },
+          "2.04": {
+            "@title": "Macro Assembler 2.04",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 2.04",
+                "@diskette": "MASM204.json",
+                "@format": "PC160K",
+                "@archive": "folder"
+              }
+            ]
+          },
+          "3.00": {
+            "@title": "Macro Assembler 3.00",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 3.00",
+                "@diskette": "MASM-016014-300.json",
+                "@format": "PC360K"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "MS Macro Assembler Reference Manual (1984)",
+                "@file": "MASM30_Reference_Manual-1984.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gt4TMtBw579j2buNcw?e=MF2hsa",
+                "@cover": ".jpg",
+                "@source": "https://winworldpc.com/product/macro-assembler/3x"
+              },
+              {
+                "@title": "MS Macro Assembler User's Guide (1984)",
+                "@file": "MASM30_Users_Guide-1984.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heM-dT-jTCe_z5Ld6A?e=IVcl3W",
+                "@cover": ".jpg",
+                "@source": "https://winworldpc.com/product/macro-assembler/3x"
+              }
+            ]
+          },
+          "3.01": {
+            "@title": "Macro Assembler 3.01",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 3.01",
+                "@diskette": "MASM-016014-301.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "4.00": {
+            "@title": "Macro Assembler 4.00",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 4.00",
+                "@diskette": "MASM-016014-400.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "5.00": {
+            "@title": "Macro Assembler 5.00",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 5.00 (Disk 1)",
+                "@diskette": "MASM500-DISK1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "MS Macro Assembler 5.00 (Disk 2)",
+                "@diskette": "MASM500-DISK2.json",
+                "@format": "PC360K"
+              }
+            ],
+            "@documents": [
+              {
+                "@title": "MASM 5.00 Reference",
+                "@file": "MASM50-POCKETREF.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFkTtanp1C-Mq0Yug?e=BRbCsV",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MASM 5.00 Programmer's Guide",
+                "@file": "MASM50-PROGGUIDE.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBnDrC9pXwVwxYw1A?e=OZkNow",
+                "@cover": ".jpg",
+                "@source": "http://www.os2museum.com/files/docs/os210sdk/masm-5.0-pg-1987.pdf"
+              },
+              {
+                "@title": "MASM 5.00 Mixed-Language Programming Guide",
+                "@file": "MASM50-MLPROGGUIDE.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFtJNuM0Uh1XIG9zw?e=OH72cR",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MASM 5.00 CodeView and Utilities Guide",
+                "@file": "MASM50-UTILGUIDE.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqIKJ6ua82VVg6_sbA?e=eibMfp",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MASM 5.00 Box",
+                "@file": "MASM50-BOX.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFd2ImZBX2LOqqivw?e=fxpie0",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MASM 5.00 Brochure",
+                "@file": "MASM50-BROCHURE.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFc87PWpzo9W45Huw?e=h5XatC",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MASM 5.00 READ THIS FIRST",
+                "@file": "MASM50-READTHISFIRST.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFitllWejDc8P374g?e=z67BRs",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MASM 5.10 Letters",
+                "@file": "MASM51-LETTERS.pdf",
+                "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFmfQPP91sz4S6MDQ?e=AkicZR",
+                "@cover": ".jpg",
+                "@source": "PCjs"
+              }
+            ]
+          },
+          "5.10": {
+            "@title": "Macro Assembler 5.10",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 5.10 (Disk 1)",
+                "@diskette": "MASM51-01510-DISK1.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/macro-assembler/5x"
+              },
+              {
+                "@title": "MS Macro Assembler 5.10 (Disk 2)",
+                "@diskette": "MASM51-01511-DISK2.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/macro-assembler/5x"
+              },
+              {
+                "@title": "MS Macro Assembler 5.10 (Disk 3)",
+                "@diskette": "MASM51-01512-DISK3.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/macro-assembler/5x"
+              },
+              {
+                "@title": "MS Macro Assembler 5.10 (Disk 4)",
+                "@diskette": "MASM51-01514-DISK4.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/macro-assembler/5x"
+              },
+              {
+                "@title": "MS Macro Assembler 5.10 (Disk 5)",
+                "@diskette": "MASM51-03159-DISK5.json",
+                "@format": "PC1200K",
+                "@source": "https://winworldpc.com/product/macro-assembler/5x"
+              },
+              {
+                "@title": "MS Macro Assembler 5.10 (Update)",
+                "@diskette": "MASM51-UPDATE.json",
+                "@format": "PC360K",
+                "@source": "https://winworldpc.com/product/macro-assembler/5x"
+              }
+            ]
+          },
+          "5.10x": {
+            "@title": "Macro Assembler 5.10 (Feb 1988)",
+            "@media": [
+              {
+                "@title": "MS MASM 5.10 (Feb 1988 Disk 1)",
+                "@diskette": "MASM51X-01510-DISK1.json",
+                "@format": "PC360K",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MS MASM 5.10 (Feb 1988 Disk 2)",
+                "@diskette": "MASM51X-01511-DISK2.json",
+                "@format": "PC360K",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MS MASM 5.10 (Feb 1988 Disk 3)",
+                "@diskette": "MASM51X-01512-DISK3.json",
+                "@format": "PC360K",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MS MASM 5.10 (Feb 1988 Disk 4)",
+                "@diskette": "MASM51X-01514-DISK4.json",
+                "@format": "PC360K",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MS MASM 5.10 (Feb 1988 Disk 5)",
+                "@diskette": "MASM51X-03159-DISK5.json",
+                "@format": "PC1200K",
+                "@source": "PCjs"
+              },
+              {
+                "@title": "MS Macro Assembler 5.10A (Update)",
+                "@diskette": "MASM51A-UPDATE.json",
+                "@format": "PC360K",
+                "@source": "PCjs"
+              }
+            ]
+          },
+          "6.00": {
+            "@title": "Macro Assembler 6.00",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 6.00 (Disk 1)",
+                "@diskette": "MASM600-DISK1.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "MS Macro Assembler 6.00 (Disk 2)",
+                "@diskette": "MASM600-DISK2.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "MS Macro Assembler 6.00 (Disk 3)",
+                "@diskette": "MASM600-DISK3.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "MS Macro Assembler 6.00 (Disk 4)",
+                "@diskette": "MASM600-DISK4.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "MS Macro Assembler 6.00 (Disk 5)",
+                "@diskette": "MASM600-DISK5.json",
+                "@format": "PC1440K"
+              }
+            ]
+          },
+          "6.11": {
+            "@title": "Macro Assembler 6.11",
+            "@media": [
+              {
+                "@title": "MS Macro Assembler 6.11 (Disk 1)",
+                "@diskette": "MASM611-DISK1.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "MS Macro Assembler 6.11 (Disk 2)",
+                "@diskette": "MASM611-DISK2.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "MS Macro Assembler 6.11 (Disk 3)",
+                "@diskette": "MASM611-DISK3.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "MS Macro Assembler 6.11 (Disk 4)",
+                "@diskette": "MASM611-DISK4.json",
+                "@format": "PC1440K"
+              },
+              {
+                "@title": "MS Macro Assembler 6.11 (Disk 5)",
+                "@diskette": "MASM611-DISK5.json",
+                "@format": "PC1440K"
+              }
+            ]
+          }
+        }
+      },
+      "pascal": {
+        "@title": "Pascal",
+        "compiler": {
+          "@title": "MS Pascal",
+          "@versions": {
+            "3.31": {
+              "@title": "MS Pascal 3.31",
+              "@media": [
+                {
+                  "@title": "MS Pascal 3.31 (Disk 1)",
+                  "@diskette": "PASCAL331-DISK1.json",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS Pascal 3.31 (Disk 2)",
+                  "@diskette": "PASCAL331-DISK2.json",
+                  "@format": "PC360K"
+                }
+              ]
+            },
+            "4.00": {
+              "@title": "MS Pascal 4.00",
+              "@media": [
+                {
+                  "@title": "MS Pascal 4.00 (Disk 1)",
+                  "@diskette": "PASCAL400-DISK1.json",
+                  "@format": "PC360K",
+                  "@archive": "folder"
+                },
+                {
+                  "@title": "MS Pascal 4.00 (Disk 2)",
+                  "@diskette": "PASCAL400-DISK2.json",
+                  "@format": "PC360K",
+                  "@archive": "folder"
+                },
+                {
+                  "@title": "MS Pascal 4.00 (Disk 3)",
+                  "@diskette": "PASCAL400-DISK3.json",
+                  "@format": "PC360K",
+                  "@archive": "folder"
+                },
+                {
+                  "@title": "MS Pascal 4.00 (Disk 4)",
+                  "@diskette": "PASCAL400-DISK4.json",
+                  "@format": "PC360K",
+                  "@archive": "folder"
+                },
+                {
+                  "@title": "MS Pascal 4.00 (Disk 5)",
+                  "@diskette": "PASCAL400-DISK5.json",
+                  "@format": "PC360K",
+                  "@archive": "folder"
+                },
+                {
+                  "@title": "MS Pascal 4.00 (Disk 6)",
+                  "@diskette": "PASCAL400-DISK6.json",
+                  "@format": "PC360K",
+                  "@archive": "folder"
+                },
+                {
+                  "@title": "MS Pascal 4.00 (Disk 7)",
+                  "@diskette": "PASCAL400-DISK7.json",
+                  "@format": "PC320K",
+                  "@archive": "folder"
+                },
+                {
+                  "@title": "MS Pascal 4.00 (Disk 8)",
+                  "@diskette": "PASCAL400-DISK8.json",
+                  "@format": "PC320K",
+                  "@archive": "folder"
+                },
+                {
+                  "@title": "MS Pascal 4.00 (Disk 9)",
+                  "@diskette": "PASCAL400-DISK9.json",
+                  "@format": "PC320K",
+                  "@archive": "folder"
+                }
+              ]
+            }
+          }
+        },
+        "quickpascal": {
+          "@title": "MS QuickPascal",
+          "@versions": {
+            "1.00": {
+              "@title": "MS QuickPascal 1.00",
+              "@media": [
+                {
+                  "@title": "MS QuickPascal 1.00 (360K Disk 1)",
+                  "@subtitle": "Setup/Utilities",
+                  "@diskette": "QUICKPASCAL-100-DISK1.json",
+                  "@photo": ".jpg",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickPascal 1.00 (360K Disk 2)",
+                  "@subtitle": "Libraries",
+                  "@diskette": "QUICKPASCAL-100-DISK2.json",
+                  "@photo": ".jpg",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickPascal 1.00 (360K Disk 3)",
+                  "@subtitle": "Program",
+                  "@diskette": "QUICKPASCAL-100-DISK3.json",
+                  "@photo": ".jpg",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickPascal 1.00 (360K Disk 4)",
+                  "@subtitle": "Microsoft QuickPascal Express",
+                  "@diskette": "QUICKPASCAL-100-DISK4.json",
+                  "@photo": ".jpg",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickPascal 1.00 (360K Disk 5)",
+                  "@subtitle": "Microsoft QuickPascal Advisor",
+                  "@diskette": "QUICKPASCAL-100-DISK5.json",
+                  "@photo": ".jpg",
+                  "@format": "PC360K"
+                },
+                {
+                  "@title": "MS QuickPascal 1.00 (720K Disk 1)",
+                  "@subtitle": "Setup/Program/Utilities",
+                  "@diskette": "QUICKPASCAL-100-720K-DISK1-SETUP.json",
+                  "@format": "PC720K"
+                },
+                {
+                  "@title": "MS QuickPascal 1.00 (720K Disk 2)",
+                  "@subtitle": "QuickPascal Advisor/QuickPascal Express",
+                  "@diskette": "QUICKPASCAL-100-720K-DISK2-ADVISOR.json",
+                  "@format": "PC720K"
+                },
+                {
+                  "@title": "MS QuickPascal 1.00 (720K Disk 3)",
+                  "@subtitle": "Libraries",
+                  "@diskette": "QUICKPASCAL-100-720K-DISK3-LIBRARIES.json",
+                  "@format": "PC720K"
+                }
+              ],
+              "@documents": [
+                {
+                  "@title": "Microsoft QuickPascal: Pascal By Example",
+                  "@file": "MS_QuickPascal_100_Pascal_by_Example.pdf",
+                  "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFVsisy9Gka2J_GxA?e=rNYD3n",
+                  "@cover": ".jpg",
+                  "@source": "PCjs"
+                },
+                {
+                  "@title": "Microsoft QuickPascal: Up and Running",
+                  "@file": "MS_QuickPascal_100_Up_and_Running.pdf",
+                  "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFOML1HOTUKRFZLEQ?e=f3fHKv",
+                  "@cover": ".jpg",
+                  "@source": "PCjs"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "other": {
+      "@title": "Other",
+      "ratbas": {
+        "@title": "RatBas",
+        "@versions": {
+          "1982": {
+            "@title": "RatBas (1982)",
+            "@media": [
+              {
+                "@title": "RatBas (1982)",
+                "@diskette": "RATBAS-213.json",
+                "@format": "PC160K"
+              }
+            ],
+            "@author": [
+              "William F. Sharpe",
+              "Brent D. Weaver"
+            ],
+            "@publisher": "Wells Fargo Investment Advisors",
+            "@version": "2.13"
+          }
+        }
+      }
+    }
+  },
+  "pcjs": {
+    "@title": "PCjs Archives",
+    "@hidden": true,
+    "@versions": {
+      "jeffpar": {
+        "@media": [
+          {
+            "@title": "Jeff's MS-DOS 3.20 Tools",
+            "@diskette": "JEFFPAR1-MSDOS320-TOOLS.json",
+            "@format": "PC360K"
+          },
+          {
+            "@title": "Jeff's PC DOS 1.00 with MASM",
+            "@diskette": "JEFFPAR2-PCDOS100-MASM100-160K.img",
+            "@link": "/software/pcjs/JEFFPAR2-PCDOS100-MASM100-160K.img",
+            "@localonly": true,
+            "@format": "PC160K"
+          }
+        ]
+      }
+    }
+  },
+  "sw": {
+    "@title": "Shareware",
+    "books": {
+      "@title": "Books",
+      "@versions": {
+        "dos_internals": {
+          "@title": "DOS Internals (1994)",
+          "@media": [
+            {
+              "@diskette": "DOS-INTERN.json",
+              "@format": "PC1200K"
+            }
+          ],
+          "@documents": [
+            {
+              "@title": "DOS Internals (1994)",
+              "@file": "dos_internals/",
+              "@link": "",
+              "@cover": "",
+              "@source": ""
+            }
+          ]
+        },
+        "graphics_for_the_ibm_pc": {
+          "@title": "Graphics for the IBM PC",
+          "@media": [
+            {
+              "@diskette": "BASIC-GRAPHICS.json",
+              "@archive": "folder"
+            }
+          ],
+          "@documents": [
+            {
+              "@title": "Graphics for the IBM PC (1984)",
+              "@file": "Graphics_for_the_IBM_PC.pdf",
+              "@link": "/software/pcx86/sw/books/graphics_for_the_ibm_pc/",
+              "@doclink": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqBjvPCIs98PvKf1UA?e=gEOQUS",
+              "@cover": "/documents/books/programming/covers/Graphics_for_the_IBM_PC.jpg",
+              "@source": "PCjs",
+              "tags": "graphics"
+            }
+          ]
+        },
+        "inside_the_ibm_pc": {
+          "@title": "Inside the IBM PC",
+          "@media": [
+            {
+              "@title": "Inside the IBM PC (Disk 1)",
+              "@diskette": "INSIDE-THE-IBM-PC-1A.json",
+              "@kryoflux": true
+            },
+            {
+              "@title": "Inside the IBM PC (Disk 2)",
+              "@diskette": "INSIDE-THE-IBM-PC-1B.json",
+              "@kryoflux": true
+            },
+            {
+              "@title": "Inside the IBM PC (Disk 3)",
+              "@diskette": "INSIDE-THE-IBM-PC-2A.json"
+            }
+          ],
+          "@documents": [
+            {
+              "@title": "Inside the IBM PC (1983)",
+              "@file": "Inside_the_IBM_PC-1983.pdf",
+              "@link": "/software/pcx86/sw/books/inside_the_ibm_pc/",
+              "@doclink": "https://1drv.ms/b/s!ArcO_mFRe1Z9heNXH482S8MFYjo4LQ?e=URcAbM",
+              "@embed": "https://onedrive.live.com/embed?cid=7D567B5161FE0EB7&resid=7D567B5161FE0EB7%2194679&authkey=ABB7WIsESPdRXgY&em=2",
+              "@cover": "/documents/books/programming/covers/Inside_the_IBM_PC-1983.jpg",
+              "@source": "PCjs",
+              "tags": "norton"
+            }
+          ]
+        },
+        "unauthorized_windows_95": {
+          "@title": "Unauthorized Windows 95",
+          "@media": [
+            {
+              "@title": "Unauthorized Windows 95 (BIN)",
+              "@diskette": "UNAUTH_W95B.json",
+              "@format": "PC1440K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "Unauthorized Windows 95 (SRC)",
+              "@diskette": "UNAUTH_W95S.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            }
+          ],
+          "@documents": [
+            {
+              "@title": "Unauthorized Windows 95 (1995)",
+              "@file": "Unauthorized_Windows_95.pdf",
+              "@link": "/software/pcx86/sw/books/unauthorized_windows_95/",
+              "@cover": "/documents/books/programming/covers/Unauthorized_Windows_95.jpg",
+              "@source": "",
+              "tags": "windows"
+            }
+          ]
+        },
+        "undocumented_dos": {
+          "@title": "Undocumented DOS",
+          "@media": [
+            {
+              "@title": "Undocumented DOS (Disk 1)",
+              "@diskette": "UNDOC_DOS-DISK1.json",
+              "@format": "PC1200K"
+            },
+            {
+              "@title": "Undocumented DOS (Disk 2)",
+              "@diskette": "UNDOC_DOS-DISK2.json",
+              "@format": "PC1200K"
+            },
+            {
+              "@title": "Undocumented DOS (2nd Ed. BIN)",
+              "@diskette": "UNDOC_DOS-2ED-BIN.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "Undocumented DOS (2nd Ed. SRC)",
+              "@diskette": "UNDOC_DOS-2ED-SRC.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            }
+          ],
+          "@documents": [
+            {
+              "@title": "Undocumented DOS (2nd Edition)",
+              "@file": "Undocumented_DOS--Second_Edition.pdf",
+              "@link": "/software/pcx86/sw/books/undocumented_dos/",
+              "@cover": "/documents/books/programming/covers/Undocumented_DOS--Second_Edition.jpg",
+              "@source": "",
+              "tags": "dos"
+            }
+          ]
+        },
+        "undocumented_pc": {
+          "@title": "The Undocumented PC",
+          "@media": [
+            {
+              "@title": "Undocumented PC",
+              "@diskette": "UNDOC_PC.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            }
+          ],
+          "@documents": [
+            {
+              "@title": "The Undocumented PC (2nd Edition)",
+              "@file": "The_Undocumented_PC--Second_Edition.pdf",
+              "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqB2ir5cexJmwbxuTA?e=ucWAij",
+              "@cover": "/documents/books/programming/covers/The_Undocumented_PC--Second_Edition.jpg",
+              "@source": "PCjs"
+            }
+          ]
+        },
+        "undocumented_windows": {
+          "@title": "Undocumented Windows",
+          "@media": [
+            {
+              "@title": "Undocumented Windows",
+              "@diskette": "UNDOC_WIN.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            }
+          ]
+        }
+      }
+    },
+    "magazines": {
+      "@title": "Magazines",
+      "@versions": {
+        "pcdm": {
+          "@title": "PC Disk Magazine",
+          "@media": [
+            {
+              "@title": "PC Disk Magazine (Disk 01)",
+              "@diskette": "PCDISKMAG-DISK1.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 02)",
+              "@diskette": "PCDISKMAG-DISK2.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 03)",
+              "@diskette": "PCDISKMAG-DISK3.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 04)",
+              "@diskette": "PCDISKMAG-DISK4.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 05)",
+              "@diskette": "PCDISKMAG-DISK5.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 06)",
+              "@diskette": "PCDISKMAG-DISK6.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 07)",
+              "@diskette": "PCDISKMAG-DISK7.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 08)",
+              "@diskette": "PCDISKMAG-DISK8.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 08 Demo)",
+              "@diskette": "PCDISKMAG-DISK8-DEMO.json",
+              "@photo": ".jpg",
+              "@format": "PC320K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 09)",
+              "@diskette": "PCDISKMAG-DISK9.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "PC Disk Magazine (Disk 10)",
+              "@diskette": "PCDISKMAG-DISK10.json",
+              "@photo": ".jpg",
+              "@format": "PC320K"
+            }
+          ]
+        },
+        "pcm": {
+          "@title": "PC Magazine Diskettes",
+          "@media": [
+            {
+              "@title": "PC Magazine (Vol. 06 No. 08)",
+              "@diskette": "PCMAG-VOL06N08.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 09)",
+              "@diskette": "PCMAG-VOL06N09.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 10)",
+              "@diskette": "PCMAG-VOL06N10.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 11)",
+              "@diskette": "PCMAG-VOL06N11.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 12)",
+              "@diskette": "PCMAG-VOL06N12.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 13)",
+              "@diskette": "PCMAG-VOL06N13.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 14)",
+              "@diskette": "PCMAG-VOL06N14.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 15)",
+              "@diskette": "PCMAG-VOL06N15.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 16)",
+              "@diskette": "PCMAG-VOL06N16.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 17)",
+              "@diskette": "PCMAG-VOL06N17.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 18)",
+              "@diskette": "PCMAG-VOL06N18.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 19)",
+              "@diskette": "PCMAG-VOL06N19.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 20)",
+              "@diskette": "PCMAG-VOL06N20.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 21)",
+              "@diskette": "PCMAG-VOL06N21.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 06 No. 22)",
+              "@diskette": "PCMAG-VOL06N22.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 01)",
+              "@diskette": "PCMAG-VOL07N01.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 02)",
+              "@diskette": "PCMAG-VOL07N02.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 03)",
+              "@diskette": "PCMAG-VOL07N03.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 05)",
+              "@diskette": "PCMAG-VOL07N05.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 06)",
+              "@diskette": "PCMAG-VOL07N06.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 07)",
+              "@diskette": "PCMAG-VOL07N07.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 08)",
+              "@diskette": "PCMAG-VOL07N08.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 09)",
+              "@diskette": "PCMAG-VOL07N09.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 10)",
+              "@diskette": "PCMAG-VOL07N10.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 12)",
+              "@diskette": "PCMAG-VOL07N12.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 13)",
+              "@diskette": "PCMAG-VOL07N13.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 14)",
+              "@diskette": "PCMAG-VOL07N14.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 15)",
+              "@diskette": "PCMAG-VOL07N15.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 16)",
+              "@diskette": "PCMAG-VOL07N16.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 17)",
+              "@diskette": "PCMAG-VOL07N17.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 18)",
+              "@diskette": "PCMAG-VOL07N18.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 19)",
+              "@diskette": "PCMAG-VOL07N19.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 20)",
+              "@diskette": "PCMAG-VOL07N20.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 21)",
+              "@diskette": "PCMAG-VOL07N21.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 07 No. 22)",
+              "@diskette": "PCMAG-VOL07N22.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 01)",
+              "@diskette": "PCMAG-VOL08N01.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 02)",
+              "@diskette": "PCMAG-VOL08N02.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 03)",
+              "@diskette": "PCMAG-VOL08N03.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 04)",
+              "@diskette": "PCMAG-VOL08N04.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 05)",
+              "@diskette": "PCMAG-VOL08N05.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 06)",
+              "@diskette": "PCMAG-VOL08N06.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 07)",
+              "@diskette": "PCMAG-VOL08N07.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 08)",
+              "@diskette": "PCMAG-VOL08N08.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 09)",
+              "@diskette": "PCMAG-VOL08N09.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 10)",
+              "@diskette": "PCMAG-VOL08N10.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 11)",
+              "@diskette": "PCMAG-VOL08N11.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 12)",
+              "@diskette": "PCMAG-VOL08N12.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 13)",
+              "@diskette": "PCMAG-VOL08N13.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 14)",
+              "@diskette": "PCMAG-VOL08N14.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 15)",
+              "@diskette": "PCMAG-VOL08N15.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 16)",
+              "@diskette": "PCMAG-VOL08N16.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 17)",
+              "@diskette": "PCMAG-VOL08N17.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 18)",
+              "@diskette": "PCMAG-VOL08N18.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 19)",
+              "@diskette": "PCMAG-VOL08N19.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 20)",
+              "@diskette": "PCMAG-VOL08N20.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 21)",
+              "@diskette": "PCMAG-VOL08N21.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 08 No. 22)",
+              "@diskette": "PCMAG-VOL08N22.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 01)",
+              "@diskette": "PCMAG-VOL09N01.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 02)",
+              "@diskette": "PCMAG-VOL09N02.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 03)",
+              "@diskette": "PCMAG-VOL09N03.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 04)",
+              "@diskette": "PCMAG-VOL09N04.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 05)",
+              "@diskette": "PCMAG-VOL09N05.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 06)",
+              "@diskette": "PCMAG-VOL09N06.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 07)",
+              "@diskette": "PCMAG-VOL09N07.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 08)",
+              "@diskette": "PCMAG-VOL09N08.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 09)",
+              "@diskette": "PCMAG-VOL09N09.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 10)",
+              "@diskette": "PCMAG-VOL09N10.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 11)",
+              "@diskette": "PCMAG-VOL09N11.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 12)",
+              "@diskette": "PCMAG-VOL09N12.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 13)",
+              "@diskette": "PCMAG-VOL09N13.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 14)",
+              "@diskette": "PCMAG-VOL09N14.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 15)",
+              "@diskette": "PCMAG-VOL09N15.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 16)",
+              "@diskette": "PCMAG-VOL09N16.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 17)",
+              "@diskette": "PCMAG-VOL09N17.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 19)",
+              "@diskette": "PCMAG-VOL09N19.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 20)",
+              "@diskette": "PCMAG-VOL09N20.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 21)",
+              "@diskette": "PCMAG-VOL09N21.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 09 No. 22)",
+              "@diskette": "PCMAG-VOL09N22.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 01)",
+              "@diskette": "PCMAG-VOL10N01.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 02)",
+              "@diskette": "PCMAG-VOL10N02.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 03)",
+              "@diskette": "PCMAG-VOL10N03.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 04)",
+              "@diskette": "PCMAG-VOL10N04.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 05)",
+              "@diskette": "PCMAG-VOL10N05.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 06)",
+              "@diskette": "PCMAG-VOL10N06.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 07)",
+              "@diskette": "PCMAG-VOL10N07.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 08)",
+              "@diskette": "PCMAG-VOL10N08.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 09)",
+              "@diskette": "PCMAG-VOL10N09.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 10)",
+              "@diskette": "PCMAG-VOL10N10.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 11)",
+              "@diskette": "PCMAG-VOL10N11.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 12)",
+              "@diskette": "PCMAG-VOL10N12.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 13)",
+              "@diskette": "PCMAG-VOL10N13.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 14)",
+              "@diskette": "PCMAG-VOL10N14.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 15)",
+              "@diskette": "PCMAG-VOL10N15.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 16)",
+              "@diskette": "PCMAG-VOL10N16.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 17)",
+              "@diskette": "PCMAG-VOL10N17.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 18)",
+              "@diskette": "PCMAG-VOL10N18.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 19)",
+              "@diskette": "PCMAG-VOL10N19.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 20)",
+              "@diskette": "PCMAG-VOL10N20.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 21)",
+              "@diskette": "PCMAG-VOL10N21.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 10 No. 22)",
+              "@diskette": "PCMAG-VOL10N22.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 01)",
+              "@diskette": "PCMAG-VOL11N01.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 02)",
+              "@diskette": "PCMAG-VOL11N02.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 03)",
+              "@diskette": "PCMAG-VOL11N03.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 04)",
+              "@diskette": "PCMAG-VOL11N04.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 05)",
+              "@diskette": "PCMAG-VOL11N05.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 06)",
+              "@diskette": "PCMAG-VOL11N06.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 07)",
+              "@diskette": "PCMAG-VOL11N07.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 08)",
+              "@diskette": "PCMAG-VOL11N08.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 09)",
+              "@diskette": "PCMAG-VOL11N09.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 10)",
+              "@diskette": "PCMAG-VOL11N10.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 11)",
+              "@diskette": "PCMAG-VOL11N11.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 12)",
+              "@diskette": "PCMAG-VOL11N12.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 13)",
+              "@diskette": "PCMAG-VOL11N13.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 14)",
+              "@diskette": "PCMAG-VOL11N14.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 15)",
+              "@diskette": "PCMAG-VOL11N15.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 16)",
+              "@diskette": "PCMAG-VOL11N16.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 17)",
+              "@diskette": "PCMAG-VOL11N17.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 18)",
+              "@diskette": "PCMAG-VOL11N18.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 19)",
+              "@diskette": "PCMAG-VOL11N19.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 20)",
+              "@diskette": "PCMAG-VOL11N20.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 21)",
+              "@diskette": "PCMAG-VOL11N21.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 11 No. 22)",
+              "@diskette": "PCMAG-VOL11N22.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 01)",
+              "@diskette": "PCMAG-VOL12N01.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 02)",
+              "@diskette": "PCMAG-VOL12N02.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 03)",
+              "@diskette": "PCMAG-VOL12N03.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 04)",
+              "@diskette": "PCMAG-VOL12N04.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 05)",
+              "@diskette": "PCMAG-VOL12N05.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 06)",
+              "@diskette": "PCMAG-VOL12N06.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 07)",
+              "@diskette": "PCMAG-VOL12N07.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 08)",
+              "@diskette": "PCMAG-VOL12N08.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 09)",
+              "@diskette": "PCMAG-VOL12N09.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 10)",
+              "@diskette": "PCMAG-VOL12N10.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 11)",
+              "@diskette": "PCMAG-VOL12N11.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 12)",
+              "@diskette": "PCMAG-VOL12N12.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 13)",
+              "@diskette": "PCMAG-VOL12N13.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 14)",
+              "@diskette": "PCMAG-VOL12N14.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 15)",
+              "@diskette": "PCMAG-VOL12N15.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 16)",
+              "@diskette": "PCMAG-VOL12N16.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 17)",
+              "@diskette": "PCMAG-VOL12N17.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 18)",
+              "@diskette": "PCMAG-VOL12N18.json",
+              "@format": "PC1440K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 19)",
+              "@diskette": "PCMAG-VOL12N19.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 20)",
+              "@diskette": "PCMAG-VOL12N20.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 21)",
+              "@diskette": "PCMAG-VOL12N21.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 12 No. 22)",
+              "@diskette": "PCMAG-VOL12N22.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 01)",
+              "@diskette": "PCMAG-VOL13N01.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 02)",
+              "@diskette": "PCMAG-VOL13N02.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 03)",
+              "@diskette": "PCMAG-VOL13N03.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 04)",
+              "@diskette": "PCMAG-VOL13N04.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 05)",
+              "@diskette": "PCMAG-VOL13N05.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 06)",
+              "@diskette": "PCMAG-VOL13N06.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 07)",
+              "@diskette": "PCMAG-VOL13N07.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 08)",
+              "@diskette": "PCMAG-VOL13N08.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 09)",
+              "@diskette": "PCMAG-VOL13N09.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 10)",
+              "@diskette": "PCMAG-VOL13N10.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 11)",
+              "@diskette": "PCMAG-VOL13N11.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 12)",
+              "@diskette": "PCMAG-VOL13N12.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 13)",
+              "@diskette": "PCMAG-VOL13N13.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 14)",
+              "@diskette": "PCMAG-VOL13N14.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 15)",
+              "@diskette": "PCMAG-VOL13N15.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 16)",
+              "@diskette": "PCMAG-VOL13N16.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 17)",
+              "@diskette": "PCMAG-VOL13N17.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 18)",
+              "@diskette": "PCMAG-VOL13N18.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 19)",
+              "@diskette": "PCMAG-VOL13N19.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 20)",
+              "@diskette": "PCMAG-VOL13N20.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 21)",
+              "@diskette": "PCMAG-VOL13N21.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 13 No. 22)",
+              "@diskette": "PCMAG-VOL13N22.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 14 No. 01)",
+              "@diskette": "PCMAG-VOL14N01.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 14 No. 02)",
+              "@diskette": "PCMAG-VOL14N02.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 14 No. 03)",
+              "@diskette": "PCMAG-VOL14N03.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 14 No. 04)",
+              "@diskette": "PCMAG-VOL14N04.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 14 No. 05)",
+              "@diskette": "PCMAG-VOL14N05.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine (Vol. 14 No. 06)",
+              "@diskette": "PCMAG-VOL14N06.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Magazine Utils Vol1",
+              "@diskette": "PCMAG-UTIL-VOL1-1986.json",
+              "@format": "PC320K"
+            },
+            {
+              "@title": "PC Magazine Utils Vol2",
+              "@diskette": "PCMAG-UTIL-VOL2.json",
+              "@format": "PC360K"
+            }
+          ]
+        },
+        "pctj": {
+          "@title": "PC Tech Journal Diskettes",
+          "@media": [
+            {
+              "@title": "PC Tech Journal (1985-12)",
+              "@diskette": "PCTJ8512.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1986-03)",
+              "@diskette": "PCTJ8603.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1986-10)",
+              "@diskette": "PCTJ8610.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1986-12)",
+              "@diskette": "PCTJ8612.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1987-02)",
+              "@diskette": "PCTJ8702.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1987-06)",
+              "@diskette": "PCTJ8706.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1987-07)",
+              "@diskette": "PCTJ8707.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1987-10)",
+              "@diskette": "PCTJ8710.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1987-11)",
+              "@diskette": "PCTJ8711.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1988-04)",
+              "@diskette": "PCTJ8804.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1988-05)",
+              "@diskette": "PCTJ8805.json",
+              "@format": "PC320K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1988-06)",
+              "@diskette": "PCTJ8806.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1988-07)",
+              "@diskette": "PCTJ8807.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1988-08)",
+              "@diskette": "PCTJ8808.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1988-09)",
+              "@diskette": "PCTJ8809.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1988-11)",
+              "@diskette": "PCTJ8811.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1988-12)",
+              "@diskette": "PCTJ8812.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (1989-01)",
+              "@diskette": "PCTJ8901.json",
+              "@format": "PC160K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (Benchmarks)",
+              "@diskette": "PCTBENCH.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            },
+            {
+              "@title": "PC Tech Journal (Best Of)",
+              "@diskette": "PCTJBEST.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            }
+          ]
+        }
+      }
+    },
+    "misc": {
+      "@title": "Miscellaneous",
+      "@versions": {
+        "pcsig08": {
+          "@title": "PC-SIG Library 8th Edition"
+        },
+        "scbc": {
+          "@title": "Small Computer Book Club",
+          "@media": [
+            {
+              "@title": "Small Computer Book Club (1990)",
+              "@diskette": "SCBC-1990.json",
+              "@photo": ".jpg",
+              "@format": "PC360K"
+            }
+          ]
+        },
+        "unprot": {
+          "@title": "Unprotect Assortment",
+          "@media": [
+            {
+              "@title": "Unprotect Files (UNPROT 1 & 2)",
+              "@diskette": "UNPROT-1-2.json",
+              "@format": "PC1200K",
+              "@archive": "folder"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "util": {
+    "@title": "Utilities",
+    "borland": {
+      "@title": "Borland",
+      "sidekick": {
+        "@title": "Sidekick",
+        "@versions": {
+          "1.11c": {
+            "@title": "Sidekick 1.11C",
+            "@media": [
+              {
+                "@title": "Borland Sidekick 1.11C",
+                "@diskette": "SIDEKICK-111C.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "1.56": {
+            "@title": "Sidekick 1.56",
+            "@media": [
+              {
+                "@title": "Borland Sidekick 1.56",
+                "@diskette": "SIDEKICK-156.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "skplus": {
+        "@title": "SideKick Plus",
+        "@versions": {
+          "1.00a": {
+            "@title": "SideKick Plus 1.00A",
+            "@media": [
+              {
+                "@title": "Borland SideKick Plus 1.00A (Disk 1)",
+                "@diskette": "SIDEKICK-PLUS-100A-INSTALL1.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland SideKick Plus 1.00A (Disk 2)",
+                "@diskette": "SIDEKICK-PLUS-100A-INSTALL2.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland SideKick Plus 1.00A (Disk 3)",
+                "@diskette": "SIDEKICK-PLUS-100A-HELP.json",
+                "@format": "PC360K"
+              },
+              {
+                "@title": "Borland SideKick Plus 1.00A (Disk 4)",
+                "@diskette": "SIDEKICK-PLUS-100A-EXAMPLES.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ibm": {
+      "@title": "IBM",
+      "prodebug": {
+        "@title": "IBM Professional Debug",
+        "@versions": {
+          "1.00": {
+            "@title": "IBM Professional Debug 1.00",
+            "@media": [
+              {
+                "@title": "IBM Professional Debug Facility 1.00",
+                "@diskette": "IBM-DEBUG-100.json",
+                "@format": "PC180K"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "microsoft": {
+      "@title": "Microsoft",
+      "unfiled": {
+        "@title": "Unfiled",
+        "@versions": {
+          "": {
+            "@title": "MS Unfiled Utilities",
+            "@media": [
+              {
+                "@diskette": "MSUTIL-UNFILED.json",
+                "@archive": "folder"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "norton": {
+      "@title": "Norton Utilities",
+      "@versions": {
+        "2.00": {
+          "@title": "Norton Utilities 2.00",
+          "@media": [
+            {
+              "@title": "Norton Utilities 2.00 (Side A)",
+              "@diskette": "NU200-SIDEA.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "Norton Utilities 2.00 (Side B)",
+              "@diskette": "NU200-SIDEB.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            }
+          ]
+        },
+        "2.01": {
+          "@title": "Norton Utilities 2.01",
+          "@media": [
+            {
+              "@title": "Norton Utilities 2.01 (1983-07-04-A)",
+              "@diskette": "NU201-1983-07-04-SIDEA.json",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "Norton Utilities 2.01 (1983-07-04-B)",
+              "@diskette": "NU201-1983-07-04-SIDEB.json",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "Norton Utilities 2.01 (1983-11-03-A)",
+              "@diskette": "NU201-1983-11-03-SIDEA.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "Norton Utilities 2.01 (1983-11-03-B)",
+              "@diskette": "NU201-1983-11-03-SIDEB.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            }
+          ]
+        },
+        "3.00": {
+          "@title": "Norton Utilities 3.00",
+          "@media": [
+            {
+              "@title": "Norton Utilities 3.00 (1984-12-07)",
+              "@diskette": "NU300-1984-12-07.json",
+              "@photo": ".jpg",
+              "@format": "PC160K"
+            },
+            {
+              "@title": "Norton Utilities 3.00 (1985-01-14)",
+              "@diskette": "NU300-1985-01-14.json",
+              "@format": "PC160K",
+              "@archive": "NU30-850114"
+            },
+            {
+              "@title": "Norton Utilities 3.00 (1985-01-21)",
+              "@diskette": "NU300-1985-01-21.json",
+              "@format": "PC360K"
+            }
+          ]
+        },
+        "3.10": {
+          "@title": "Norton Utilities 3.10",
+          "@media": [
+            {
+              "@title": "Norton Utilities 3.10 (1985-11-01)",
+              "@diskette": "NU310-1985-11-01.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 3.10 (1986-01-21)",
+              "@diskette": "NU310-1986-01-21.json",
+              "@format": "PC320K"
+            }
+          ]
+        },
+        "4.00": {
+          "@title": "Norton Utilities 4.00",
+          "@media": [
+            {
+              "@title": "Norton Utilities 4.00 (1987-03-01 #1)",
+              "@diskette": "NU400-1987-03-01-DISK1.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 4.00 (1987-03-01 #2)",
+              "@diskette": "NU400-1987-03-01-DISK2.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 4.00 (1987-05-15 #1)",
+              "@diskette": "NU400-1987-05-15-DISK1.json",
+              "@photo": ".jpg",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 4.00 (1987-05-15 #2)",
+              "@diskette": "NU400-1987-05-15-DISK2.json",
+              "@photo": ".jpg",
+              "@format": "PC360K"
+            }
+          ]
+        },
+        "4.00/advanced": {
+          "@title": "Norton Utilities 4.00 (Adv)",
+          "@media": [
+            {
+              "@title": "Norton Utilities 4.00 (Adv 1)",
+              "@diskette": "NU400-ADV-DISK1.json",
+              "@photo": ".jpg",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 4.00 (Adv 2)",
+              "@diskette": "NU400-ADV-DISK2.json",
+              "@photo": ".jpg",
+              "@format": "PC360K"
+            }
+          ]
+        },
+        "4.50/advanced": {
+          "@title": "Norton Utilities 4.50 (Adv)",
+          "@media": [
+            {
+              "@title": "Norton Utilities 4.50 (Adv 1)",
+              "@diskette": "NU450-ADV-DISK1.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 4.50 (Adv 2)",
+              "@diskette": "NU450-ADV-DISK2.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 4.50 (Adv 3)",
+              "@diskette": "NU450-ADV-DISK3.json",
+              "@format": "PC360K"
+            }
+          ]
+        },
+        "5.00": {
+          "@title": "Norton Utilities 5.00",
+          "@media": [
+            {
+              "@title": "Norton Utilities 5.00 (Disk 1)",
+              "@diskette": "NU500-DISK1.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 5.00 (Disk 2)",
+              "@diskette": "NU500-DISK2.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 5.00 (Disk 3)",
+              "@diskette": "NU500-DISK3.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 5.00 (Disk 4)",
+              "@diskette": "NU500-DISK4.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 5.00 (Disk 5)",
+              "@diskette": "NU500-DISK5.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 5.00 (Install)",
+              "@diskette": "NU500-DISK6-INSTALL.json",
+              "@format": "PC360K"
+            }
+          ]
+        },
+        "6.01": {
+          "@title": "Norton Utilities 6.01",
+          "@media": [
+            {
+              "@title": "Norton Utilities 6.01 (Install)",
+              "@diskette": "NU601-DISK1OF8.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 6.01 (Emergency 1)",
+              "@diskette": "NU601-DISK2OF8.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 6.01 (Emergency 2)",
+              "@diskette": "NU601-DISK3OF8.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 6.01 (Utility 1)",
+              "@diskette": "NU601-DISK4OF8.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 6.01 (Utility 2)",
+              "@diskette": "NU601-DISK5OF8.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 6.01 (Utility 3)",
+              "@diskette": "NU601-DISK6OF8.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 6.01 (Utility 4)",
+              "@diskette": "NU601-DISK7OF8.json",
+              "@format": "PC360K"
+            },
+            {
+              "@title": "Norton Utilities 6.01 (Utility 5)",
+              "@diskette": "NU601-DISK8OF8.json",
+              "@format": "PC360K"
+            }
+          ]
+        }
+      }
+    },
+    "other": {
+      "@title": "Other",
+      "enhdebug": {
+        "@title": "Enhanced DEBUG",
+        "@versions": {
+          "1.32b": {
+            "@title": "Enhanced DEBUG 1.32b",
+            "@media": [
+              {
+                "@title": "Enhanced DEBUG 1.32b",
+                "@diskette": "ENHDEBUG.json",
+                "@format": "PC360K",
+                "@archive": "folder"
+              }
+            ]
+          }
+        }
+      },
+      "flickerfree": {
+        "@title": "FlickerFree",
+        "@versions": {
+          "1.0": {
+            "@title": "FlickerFree 1.0",
+            "@media": [
+              {
+                "@title": "FlickerFree 1.0",
+                "@diskette": "FLICKERFREE.json",
+                "@format": "PC180K"
+              }
+            ]
+          }
+        }
+      },
+      "objasm": {
+        "@title": "OBJASM",
+        "@versions": {
+          "2.0": {
+            "@title": "OBJASM 2.0",
+            "@media": [
+              {
+                "@title": "OBJASM 2.0 (Bin)",
+                "@diskette": "OBJASM_BIN.json",
+                "@format": "PC320K",
+                "@archive": "folder"
+              },
+              {
+                "@title": "OBJASM 2.0 (Src)",
+                "@diskette": "OBJASM_SRC.json",
+                "@format": "PC320K",
+                "@archive": "folder"
+              }
+            ]
+          }
+        }
+      },
+      "pathminder": {
+        "@title": "PathMinder",
+        "@versions": {
+          "2.11": {
+            "@title": "PathMinder 2.11",
+            "@media": [
+              {
+                "@title": "PathMinder 2.11",
+                "@diskette": "PATHMINDER-211.json",
+                "@format": "PC180K"
+              }
+            ]
+          }
+        }
+      },
+      "pctools": {
+        "@title": "PC Tools",
+        "@versions": {
+          "1.03": {
+            "@title": "PC Tools 1.03",
+            "@media": [
+              {
+                "@title": "Central Point PC Tools 1.03",
+                "@diskette": "PCTOOLS103.json",
+                "@format": "PC360K"
+              }
+            ]
+          },
+          "4.30": {
+            "@title": "PC Tools 4.30",
+            "@media": [
+              {
+                "@title": "Central Point PC Tools 4.30",
+                "@diskette": "PCTOOLS430.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      },
+      "pfm": {
+        "@title": "PFM (Paul's File Manager)",
+        "@versions": {
+          "3.14": {
+            "@title": "PFM 3.14",
+            "@media": [
+              {
+                "@title": "PFM (Paul's File Manager) 3.14",
+                "@diskette": "COMPAQ-PFM.json",
+                "@format": "PC320K",
+                "@archive": "folder"
+              }
+            ]
+          }
+        }
+      },
+      "spacemaker": {
+        "@title": "Spacemaker",
+        "@versions": {
+          "1.06": {
+            "@title": "Spacemaker 1.06",
+            "@media": [
+              {
+                "@title": "Realia Spacemaker 1.06",
+                "@diskette": "SM106.json",
+                "@format": "PC160K",
+                "@archive": "folder"
+              }
+            ]
+          }
+        }
+      },
+      "spy": {
+        "@title": "SPY",
+        "@versions": {
+          "0.1": {
+            "@title": "SPY 0.1",
+            "@media": [
+              {
+                "@title": "SPY 386 Monitor 0.1",
+                "@diskette": "SPY01.json",
+                "@format": "PC1200K",
+                "@archive": "folder"
+              }
+            ]
+          }
+        }
+      },
+      "unp": {
+        "@title": "UNP",
+        "@versions": {
+          "4.11": {
+            "@title": "UNP 4.11",
+            "@media": [
+              {
+                "@title": "UNP (Executable Unpacker) 4.11",
+                "@diskette": "UNP411_BIN.json",
+                "@format": "PC160K",
+                "@archive": "folder"
+              },
+              {
+                "@title": "UNP (Executable Unpacker) Source",
+                "@diskette": "UNP411_SRC.json",
+                "@format": "PC1200K",
+                "@archive": "folder"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
