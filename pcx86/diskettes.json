@@ -2494,13 +2494,6 @@
             }
           ],
           "@documents": [
-            {
-              "@title": "DOS Internals (1994)",
-              "@file": "dos_internals/",
-              "@link": "",
-              "@cover": "",
-              "@source": ""
-            }
           ]
         },
         "graphics_for_the_ibm_pc": {
@@ -3917,7 +3910,7 @@
           ]
         },
         "unprot": {
-          "@title": "Unprotect Assortment",
+          "@title": "Unprotect Collection",
           "@media": [
             {
               "@title": "Unprotect Files (UNPROT 1 & 2)",
