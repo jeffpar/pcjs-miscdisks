@@ -12,7 +12,8 @@
   "diskSize": 1228800,
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/sw/magazines/bbd/archive/ODM90/"
+  "archive": "/miscdisks/pcx86/sw/magazines/bbd/archive/ODM90/",
+  "source": "https://archive.org/details/odm90"
 },
 "volTable": [
  {

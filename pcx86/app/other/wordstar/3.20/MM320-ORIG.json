@@ -13,7 +13,7 @@
   "bootSector": "[0,235,39,144,8,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/diskettes/pcx86/app/other/wordstar/3.20/archive/MM320-ORIG.img"
+  "archive": "/miscdisks/pcx86/app/other/wordstar/3.20/archive/MM320-ORIG.img"
 },
 "volTable": [
  {

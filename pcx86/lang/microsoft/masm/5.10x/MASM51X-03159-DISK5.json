@@ -13,7 +13,7 @@
   "bootSector": "[0,235,41,144,73,66,77,32,49,48,46,49,0,2,1,1,0,2,224,0,96,9,249,7,0,15,0,2,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/diskettes/pcx86/lang/microsoft/masm/5.10x/archive/MASM51X-03159-DISK5.img",
+  "archive": "/miscdisks/pcx86/lang/microsoft/masm/5.10x/archive/MASM51X-03159-DISK5.img",
   "source": "PCjs"
 },
 "volTable": [

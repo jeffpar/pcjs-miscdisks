@@ -12,7 +12,8 @@
   "diskSize": 368640,
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/sw/magazines/bbd/archive/BBD02/"
+  "archive": "/miscdisks/pcx86/sw/magazines/bbd/archive/BBD02/",
+  "source": "https://archive.org/details/msdos_bbd02"
 },
 "volTable": [
  {

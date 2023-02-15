@@ -13,7 +13,7 @@
   "bootSector": "[0,235,39,144,8,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/diskettes/pcx86/util/norton/2.00/archive/NU200-SIDEB.img"
+  "archive": "/miscdisks/pcx86/util/norton/2.00/archive/NU200-SIDEB.img"
 },
 "volTable": [
  {

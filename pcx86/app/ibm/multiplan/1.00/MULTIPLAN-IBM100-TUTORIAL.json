@@ -13,7 +13,7 @@
   "bootSector": "[0,235,47,20,0,0,0,96,0,32,55,45,77,97,121,45,56,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/diskettes/pcx86/app/ibm/multiplan/1.00/archive/MULTIPLAN-IBM100-TUTORIAL.img"
+  "archive": "/miscdisks/pcx86/app/ibm/multiplan/1.00/archive/MULTIPLAN-IBM100-TUTORIAL.img"
 },
 "volTable": [
  {

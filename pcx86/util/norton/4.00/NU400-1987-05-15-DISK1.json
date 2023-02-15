@@ -13,7 +13,7 @@
   "bootSector": "[0,235,42,144,32,78,111,114,116,111,110,32,0,2,2,1,0,2,112,0,208,2,253,2,0,9,0,2,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/diskettes/pcx86/util/norton/4.00/archive/NU400-1987-05-15-DISK1.img"
+  "archive": "/miscdisks/pcx86/util/norton/4.00/archive/NU400-1987-05-15-DISK1.img"
 },
 "volTable": [
  {

@@ -12,7 +12,8 @@
   "diskSize": 1474560,
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/sw/magazines/bbd/archive/ODM83/"
+  "archive": "/miscdisks/pcx86/sw/magazines/bbd/archive/ODM83/",
+  "source": "https://archive.org/details/odm83"
 },
 "volTable": [
  {

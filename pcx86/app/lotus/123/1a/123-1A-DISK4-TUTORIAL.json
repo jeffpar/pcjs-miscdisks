@@ -13,7 +13,7 @@
   "bootSector": "[0,235,44,144,42,83,121,55,89,73,72,67,0,2,2,1,0,2,112,0,128,2,255,1,0,8,0,2,0,0,0,0,0,10,223,2,37]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/diskettes/pcx86/app/lotus/123/1a/archive/123-1A-DISK4-TUTORIAL.img"
+  "archive": "/miscdisks/pcx86/app/lotus/123/1a/archive/123-1A-DISK4-TUTORIAL.img"
 },
 "volTable": [
  {

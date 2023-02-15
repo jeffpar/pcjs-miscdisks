@@ -13,7 +13,7 @@
   "bootSector": "[0,235,60,144,41,116,50,73,50,73,72,67,0,2,1,1,0,2,224,0,64,11,240,9,0,18,0,2,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/diskettes/pcx86/app/microsoft/winword/2.0c/archive/WINWORD20-DISK4.img"
+  "archive": "/miscdisks/pcx86/app/microsoft/winword/2.0c/archive/WINWORD20-DISK4.img"
 },
 "volTable": [
  {

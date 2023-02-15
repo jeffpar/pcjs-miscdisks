@@ -12,7 +12,8 @@
   "diskSize": 1228800,
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/sw/magazines/bbd/archive/BBD03/"
+  "archive": "/miscdisks/pcx86/sw/magazines/bbd/archive/BBD03/",
+  "source": "https://archive.org/details/bbd03_201608"
 },
 "volTable": [
  {
