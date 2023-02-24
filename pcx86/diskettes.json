@@ -147,6 +147,9 @@
         "@versions": {
           "2.0": {
             "@title": "Microsoft Excel 2.0",
+            "@hardware": {
+              "config": "/machines/pcx86/ibm/5170/ega/1024kb/rev3/machine.xml"
+            },
             "@media": [
               {
                 "@title": "MS Excel 2.0 (1200K Disk 1)",
@@ -220,6 +223,10 @@
           },
           "5.0a": {
             "@title": "Microsoft Excel 5.0a",
+            "@hardware": {
+              "config": "/machines/pcx86/ibm/5170/vga/2048kb/machine.xml",
+              "drives": "[{name:\"20Mb Hard Disk\",type:2,path:\"/harddisks/pcx86/20mb/PCDOS330-WIN310-VGA.json\"}]"
+            },
             "@media": [
               {
                 "@title": "MS Excel 5.0a (Disk 1)",
