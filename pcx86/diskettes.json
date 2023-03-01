@@ -45,7 +45,7 @@
               {
                 "@title": "IBM Multiplan 1.00 (Program)",
                 "@diskette": "MULTIPLAN-IBM100-PROGRAM.json",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@format": "PC160K",
                 "@args": "--sectorID=11:0:8:61",
                 "@kryoflux": true,
@@ -54,7 +54,7 @@
               {
                 "@title": "IBM Multiplan 1.00 (Tutorial)",
                 "@diskette": "MULTIPLAN-IBM100-TUTORIAL.json",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@format": "PC160K"
               }
             ]
@@ -155,7 +155,7 @@
                 "@title": "MS Excel 2.0 (1200K Disk 1)",
                 "@diskette": "EXCEL20-1200K-DISK1-SETUP.json",
                 "@format": "PC1200K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 2.0 (1200K Disk 2)",
@@ -181,43 +181,43 @@
                 "@title": "MS Excel 2.0 (720K Disk 1)",
                 "@diskette": "EXCEL20-720K-DISK1.json",
                 "@format": "PC720K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 2.0 (720K Disk 2)",
                 "@diskette": "EXCEL20-720K-DISK2.json",
                 "@format": "PC720K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 2.0 (720K Disk 3)",
                 "@diskette": "EXCEL20-720K-DISK3.json",
                 "@format": "PC720K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 2.0 (720K Disk 4)",
                 "@diskette": "EXCEL20-720K-DISK4.json",
                 "@format": "PC720K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 2.0 (720K Disk 5)",
                 "@diskette": "EXCEL20-720K-DISK5.json",
                 "@format": "PC720K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 2.0 (720K Disk 6)",
                 "@diskette": "EXCEL20-720K-DISK6.json",
                 "@format": "PC720K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 2.0 (720K Disk 7)",
                 "@diskette": "EXCEL20-720K-DISK7.json",
                 "@format": "PC720K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               }
             ]
           },
@@ -232,55 +232,55 @@
                 "@title": "MS Excel 5.0a (Disk 1)",
                 "@diskette": "EXCEL50A-DISK1.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 5.0a (Disk 2)",
                 "@diskette": "EXCEL50A-DISK2.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 5.0a (Disk 3)",
                 "@diskette": "EXCEL50A-DISK3.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 5.0a (Disk 4)",
                 "@diskette": "EXCEL50A-DISK4.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 5.0a (Disk 5)",
                 "@diskette": "EXCEL50A-DISK5.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 5.0a (Disk 6)",
                 "@diskette": "EXCEL50A-DISK6.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 5.0a (Disk 7)",
                 "@diskette": "EXCEL50A-DISK7.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 5.0a (Disk 8)",
                 "@diskette": "EXCEL50A-DISK8.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Excel 5.0a (Disk 9)",
                 "@diskette": "EXCEL50A-DISK9.json",
                 "@format": "PC1440K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               }
             ]
           }
@@ -340,21 +340,21 @@
                 "@title": "MS Multiplan 3.00 (PROGRAM)",
                 "@diskette": "MULTIPLAN300-DISK1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@kryoflux": true
               },
               {
                 "@title": "MS Multiplan 3.00 (INSTALL)",
                 "@diskette": "MULTIPLAN300-DISK2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@kryoflux": true
               },
               {
                 "@title": "MS Multiplan 3.00 (TEMPLATE)",
                 "@diskette": "MULTIPLAN300-DISK3.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@kryoflux": true
               }
             ],
@@ -371,7 +371,7 @@
                 "@title": "MS Multiplan 4.00 (SETUP)",
                 "@diskette": "MULTIPLAN400-DISK1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@source": "PCjs",
                 "@kryoflux": true
               },
@@ -379,7 +379,7 @@
                 "@title": "MS Multiplan 4.00 (PROGRAM1)",
                 "@diskette": "MULTIPLAN400-DISK2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@source": "PCjs",
                 "@kryoflux": true
               },
@@ -387,7 +387,7 @@
                 "@title": "MS Multiplan 4.00 (PROGRAM2)",
                 "@diskette": "MULTIPLAN400-DISK3.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@source": "PCjs",
                 "@kryoflux": true
               },
@@ -395,7 +395,7 @@
                 "@title": "MS Multiplan 4.00 (UTILITIES)",
                 "@diskette": "MULTIPLAN400-DISK4.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@kryoflux": true,
                 "@source": "https://winworldpc.com/product/multiplan/40"
               }
@@ -412,7 +412,7 @@
                 "@title": "MS Multiplan 4.01 (SETUP)",
                 "@diskette": "MULTIPLAN401-DISK1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@source": "PCjs",
                 "@kryoflux": true
               },
@@ -420,7 +420,7 @@
                 "@title": "MS Multiplan 4.01 (PROGRAM1)",
                 "@diskette": "MULTIPLAN401-DISK2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@source": "PCjs",
                 "@kryoflux": true
               },
@@ -428,7 +428,7 @@
                 "@title": "MS Multiplan 4.01 (UTILITIES)",
                 "@diskette": "MULTIPLAN401-DISK3.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@kryoflux": true,
                 "@source": "https://winworldpc.com/product/multiplan/40"
               }
@@ -445,21 +445,21 @@
                 "@title": "MS Multiplan 4.20 (SETUP)",
                 "@diskette": "MULTIPLAN420-DISK1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@kryoflux": true
               },
               {
                 "@title": "MS Multiplan 4.20 (PROGRAM)",
                 "@diskette": "MULTIPLAN420-DISK2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@kryoflux": true
               },
               {
                 "@title": "MS Multiplan 4.20 (UTILITIES)",
                 "@diskette": "MULTIPLAN420-DISK3.json",
                 "@format": "PC360K",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@kryoflux": true
               }
             ],
@@ -609,79 +609,79 @@
                 "@title": "MS Word 5.00 (Program 1)",
                 "@diskette": "WORD50-PROGRAM1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Program 2)",
                 "@diskette": "WORD50-PROGRAM2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Spell)",
                 "@diskette": "WORD50-SPELL.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Thesaurus)",
                 "@diskette": "WORD50-THESAURUS.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Utilities 1)",
                 "@diskette": "WORD50-UTILITIES1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Utilities 2)",
                 "@diskette": "WORD50-UTILITIES2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Utilities 3)",
                 "@diskette": "WORD50-UTILITIES3.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Utilities/Print)",
                 "@diskette": "WORD50-UTILPRINT.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Printers 1)",
                 "@diskette": "WORD50-PRINTERS1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Printers 2)",
                 "@diskette": "WORD50-PRINTERS2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Learning Kbd)",
                 "@diskette": "WORD50-LEARNKBD.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Learning Mouse)",
                 "@diskette": "WORD50-LEARNMOU.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.00 (Learning Adv)",
                 "@diskette": "WORD50-LEARNADV.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               }
             ]
           },
@@ -692,79 +692,79 @@
                 "@title": "MS Word 5.0A (Program 1)",
                 "@diskette": "WORD50A-PROGRAM1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Program 2)",
                 "@diskette": "WORD50A-PROGRAM2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Spell)",
                 "@diskette": "WORD50A-SPELL.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Thesaurus)",
                 "@diskette": "WORD50A-THESAURUS.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Utilities 1)",
                 "@diskette": "WORD50A-UTILITIES1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Utilities 2)",
                 "@diskette": "WORD50A-UTILITIES2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Utilities 3)",
                 "@diskette": "WORD50A-UTILITIES3.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Utilities/Print)",
                 "@diskette": "WORD50A-UTILPRINT.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Printers 1)",
                 "@diskette": "WORD50A-PRINTERS1.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Printers 2)",
                 "@diskette": "WORD50A-PRINTERS2.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Learning Kbd)",
                 "@diskette": "WORD50A-LEARNKBD.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Learning Mouse)",
                 "@diskette": "WORD50A-LEARNMOU.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               },
               {
                 "@title": "MS Word 5.0A (Learning Adv)",
                 "@diskette": "WORD50A-LEARNADV.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               }
             ]
           }
@@ -915,7 +915,7 @@
                 "@diskette": "SC1_V110.json",
                 "@format": "PC160K",
                 "@kryoflux": true,
-                "@photo": ".png"
+                "@photo": "png"
               }
             ],
             "@documents": [
@@ -1029,13 +1029,13 @@
               {
                 "@title": "WordStar 3.20 (Original)",
                 "@diskette": "WS320-ORIG.json",
-                "@photo": ".png",
+                "@photo": "png",
                 "@format": "PC160K"
               },
               {
                 "@title": "WordStar 3.20 (MailMerge)",
                 "@diskette": "MM320-ORIG.json",
-                "@photo": ".png",
+                "@photo": "png",
                 "@format": "PC160K"
               },
               {
@@ -1211,7 +1211,7 @@
               {
                 "@diskette": "EXPLORING-THE-IBM-PC-100-CGA.json",
                 "@format": "PC160K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               }
             ]
           },
@@ -1226,7 +1226,7 @@
               {
                 "@diskette": "EXPLORING-THE-IBM-PC-100-MDA.json",
                 "@format": "PC160K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               }
             ]
           },
@@ -1241,7 +1241,7 @@
               {
                 "@diskette": "EXPLORING-THE-IBM-PC-AT-100.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               }
             ]
           },
@@ -1256,7 +1256,7 @@
               {
                 "@diskette": "EXPLORING-THE-IBM-PC-AT-200.json",
                 "@format": "PC360K",
-                "@photo": ".jpg"
+                "@photo": "jpg"
               }
             ]
           }
@@ -1271,7 +1271,7 @@
               {
                 "@title": "IBM EGA Fantasy Land Demo",
                 "@diskette": "EGA-FLAND.json",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@format": "PC360K"
               },
               {
@@ -1318,7 +1318,7 @@
               {
                 "@title": "Borland Turbo Pascal 3.01A",
                 "@diskette": "TURBO-PASCAL-301A-8087-BCD.json",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@format": "PC360K"
               }
             ]
@@ -1440,7 +1440,7 @@
               {
                 "@title": "DR Pascal/MT+ 3.11 (Disk 1)",
                 "@diskette": "PASCALMT311-DISK1.json",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@format": "PC160K"
               },
               {
@@ -1533,7 +1533,7 @@
               {
                 "@title": "IBM Macro Assembler 2.00",
                 "@diskette": "IBM-MASM-200.json",
-                "@photo": ".jpg",
+                "@photo": "jpg",
                 "@format": "PC320K"
               }
             ]
@@ -2107,7 +2107,7 @@
                 {
                   "@title": "MS QuickBASIC 1.00",
                   "@diskette": "MS-QUICKBASIC-100.json",
-                  "@photo": ".jpg",
+                  "@photo": "jpg",
                   "@format": "PC360K"
                 }
               ]
@@ -2118,7 +2118,7 @@
                 {
                   "@title": "MS QuickBASIC 2.00 (Disk 1)",
                   "@diskette": "MS-QUICKBASIC-200-DISK1.json",
-                  "@photo": ".jpg",
+                  "@photo": "jpg",
                   "@format": "PC360K"
                 },
                 {
@@ -2867,35 +2867,35 @@
                   "@title": "MS QuickPascal 1.00 (360K Disk 1)",
                   "@subtitle": "Setup/Utilities",
                   "@diskette": "QUICKPASCAL-100-DISK1.json",
-                  "@photo": ".jpg",
+                  "@photo": "jpg",
                   "@format": "PC360K"
                 },
                 {
                   "@title": "MS QuickPascal 1.00 (360K Disk 2)",
                   "@subtitle": "Libraries",
                   "@diskette": "QUICKPASCAL-100-DISK2.json",
-                  "@photo": ".jpg",
+                  "@photo": "jpg",
                   "@format": "PC360K"
                 },
                 {
                   "@title": "MS QuickPascal 1.00 (360K Disk 3)",
                   "@subtitle": "Program",
                   "@diskette": "QUICKPASCAL-100-DISK3.json",
-                  "@photo": ".jpg",
+                  "@photo": "jpg",
                   "@format": "PC360K"
                 },
                 {
                   "@title": "MS QuickPascal 1.00 (360K Disk 4)",
                   "@subtitle": "Microsoft QuickPascal Express",
                   "@diskette": "QUICKPASCAL-100-DISK4.json",
-                  "@photo": ".jpg",
+                  "@photo": "jpg",
                   "@format": "PC360K"
                 },
                 {
                   "@title": "MS QuickPascal 1.00 (360K Disk 5)",
                   "@subtitle": "Microsoft QuickPascal Advisor",
                   "@diskette": "QUICKPASCAL-100-DISK5.json",
-                  "@photo": ".jpg",
+                  "@photo": "jpg",
                   "@format": "PC360K"
                 },
                 {
@@ -3157,7 +3157,7 @@
             {
               "@title": "Big Blue Disk #1",
               "@diskette": "BBD01.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@archive": "folder",
               "@source": "https://archive.org/details/bbd01_201608"
             },
@@ -3314,7 +3314,7 @@
             {
               "@title": "Big Blue Disk #33",
               "@diskette": "BBD33.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@archive": "folder",
               "@source": "https://archive.org/details/bbd33"
             },
@@ -3668,67 +3668,67 @@
             {
               "@title": "PC Disk Magazine (Disk 01)",
               "@diskette": "PCDISKMAG-DISK1.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 02)",
               "@diskette": "PCDISKMAG-DISK2.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 03)",
               "@diskette": "PCDISKMAG-DISK3.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 04)",
               "@diskette": "PCDISKMAG-DISK4.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 05)",
               "@diskette": "PCDISKMAG-DISK5.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 06)",
               "@diskette": "PCDISKMAG-DISK6.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 07)",
               "@diskette": "PCDISKMAG-DISK7.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 08)",
               "@diskette": "PCDISKMAG-DISK8.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 08 Demo)",
               "@diskette": "PCDISKMAG-DISK8-DEMO.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC320K"
             },
             {
               "@title": "PC Disk Magazine (Disk 09)",
               "@diskette": "PCDISKMAG-DISK9.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "PC Disk Magazine (Disk 10)",
               "@diskette": "PCDISKMAG-DISK10.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC320K"
             }
           ]
@@ -4919,7 +4919,7 @@
             {
               "@title": "Small Computer Book Club (1990)",
               "@diskette": "SCBC-1990.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC360K"
             }
           ]
@@ -5042,13 +5042,13 @@
             {
               "@title": "Norton Utilities 2.00 (Side A)",
               "@diskette": "NU200-SIDEA.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "Norton Utilities 2.00 (Side B)",
               "@diskette": "NU200-SIDEB.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             }
           ]
@@ -5069,13 +5069,13 @@
             {
               "@title": "Norton Utilities 2.01 (1983-11-03-A)",
               "@diskette": "NU201-1983-11-03-SIDEA.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
               "@title": "Norton Utilities 2.01 (1983-11-03-B)",
               "@diskette": "NU201-1983-11-03-SIDEB.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             }
           ]
@@ -5086,7 +5086,7 @@
             {
               "@title": "Norton Utilities 3.00 (1984-12-07)",
               "@diskette": "NU300-1984-12-07.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC160K"
             },
             {
@@ -5133,13 +5133,13 @@
             {
               "@title": "Norton Utilities 4.00 (1987-05-15 #1)",
               "@diskette": "NU400-1987-05-15-DISK1.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC360K"
             },
             {
               "@title": "Norton Utilities 4.00 (1987-05-15 #2)",
               "@diskette": "NU400-1987-05-15-DISK2.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC360K"
             }
           ]
@@ -5150,13 +5150,13 @@
             {
               "@title": "Norton Utilities 4.00 (Adv 1)",
               "@diskette": "NU400-ADV-DISK1.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC360K"
             },
             {
               "@title": "Norton Utilities 4.00 (Adv 2)",
               "@diskette": "NU400-ADV-DISK2.json",
-              "@photo": ".jpg",
+              "@photo": "jpg",
               "@format": "PC360K"
             }
           ]
