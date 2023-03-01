@@ -608,67 +608,163 @@
               {
                 "@title": "MS Word 5.00 (Program 1)",
                 "@diskette": "WORD50-PROGRAM1.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Program 2)",
                 "@diskette": "WORD50-PROGRAM2.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Spell)",
                 "@diskette": "WORD50-SPELL.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Thesaurus)",
                 "@diskette": "WORD50-THESAURUS.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Utilities 1)",
                 "@diskette": "WORD50-UTILITIES1.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Utilities 2)",
                 "@diskette": "WORD50-UTILITIES2.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Utilities 3)",
                 "@diskette": "WORD50-UTILITIES3.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Utilities/Print)",
                 "@diskette": "WORD50-UTILPRINT.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Printers 1)",
                 "@diskette": "WORD50-PRINTERS1.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Printers 2)",
                 "@diskette": "WORD50-PRINTERS2.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Learning Kbd)",
                 "@diskette": "WORD50-LEARNKBD.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Learning Mouse)",
                 "@diskette": "WORD50-LEARNMOU.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
               },
               {
                 "@title": "MS Word 5.00 (Learning Adv)",
                 "@diskette": "WORD50-LEARNADV.json",
-                "@format": "PC360K"
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              }
+            ]
+          },
+          "5.0A": {
+            "@title": "Microsoft Word 5.0A",
+            "@media": [
+              {
+                "@title": "MS Word 5.0A (Program 1)",
+                "@diskette": "WORD50A-PROGRAM1.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Program 2)",
+                "@diskette": "WORD50A-PROGRAM2.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Spell)",
+                "@diskette": "WORD50A-SPELL.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Thesaurus)",
+                "@diskette": "WORD50A-THESAURUS.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Utilities 1)",
+                "@diskette": "WORD50A-UTILITIES1.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Utilities 2)",
+                "@diskette": "WORD50A-UTILITIES2.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Utilities 3)",
+                "@diskette": "WORD50A-UTILITIES3.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Utilities/Print)",
+                "@diskette": "WORD50A-UTILPRINT.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Printers 1)",
+                "@diskette": "WORD50A-PRINTERS1.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Printers 2)",
+                "@diskette": "WORD50A-PRINTERS2.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Learning Kbd)",
+                "@diskette": "WORD50A-LEARNKBD.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Learning Mouse)",
+                "@diskette": "WORD50A-LEARNMOU.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
+              },
+              {
+                "@title": "MS Word 5.0A (Learning Adv)",
+                "@diskette": "WORD50A-LEARNADV.json",
+                "@format": "PC360K",
+                "@photo": ".jpg"
               }
             ]
           }
