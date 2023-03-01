@@ -469,7 +469,7 @@
                 "@file": "Microsoft_Multiplan_v420_Quick_Reference_Guide-1989.pdf",
                 "@embed": "https://archive.org/embed/microsoft-multiplan-v-420-quick-reference-guide-1989",
                 "@link": "https://archive.org/details/microsoft-multiplan-v-420-quick-reference-guide-1989",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
@@ -477,7 +477,7 @@
                 "@file": "Microsoft_Multiplan_v420_Users_Guide-1989.pdf",
                 "@embed": "https://archive.org/embed/microsoft-multiplan-v-420-users-guide-1989",
                 "@link": "https://archive.org/details/microsoft-multiplan-v-420-users-guide-1989",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               }
             ],
@@ -923,14 +923,14 @@
                 "@title": "SuperCalc 1.10 Manual",
                 "@file": "SuperCalc-1981.png",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9iMMVOsUIxq7s1s6Mog?e=0Nyc1a",
-                "@cover": ".png",
+                "@cover": "png",
                 "@source": "PCjs"
               },
               {
                 "@title": "SuperCalc 1.10 Addendum",
                 "@file": "SuperCalc-Addendum.png",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9iMMWJlszoT0Y5LL21g?e=fgkSWn",
-                "@cover": ".png",
+                "@cover": "png",
                 "@source": "PCjs"
               }
             ]
@@ -1054,42 +1054,42 @@
                 "@title": "WordStar Binder",
                 "@file": "WordStar_3.2_Binder.png",
                 "@link": "https://1drv.ms/u/s!ArcO_mFRe1Z9gqlTMVtF-s8OxtSNpA",
-                "@cover": ".png",
+                "@cover": "png",
                 "@source": "PCjs"
               },
               {
                 "@title": "WordStar 3.0 Training Guide",
                 "@file": "WordStar_3.0_Training_Guide.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqlYINZ_GQ3Y6NVSUA?e=cUZyft",
-                "@cover": ".png",
+                "@cover": "png",
                 "@source": "PCjs"
               },
               {
                 "@title": "WordStar 3.2 General Information",
                 "@file": "WordStar_3.2_General_Information.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqkVkrQ_SzATTmls_Q?e=D3kVDU",
-                "@cover": ".png",
+                "@cover": "png",
                 "@source": "PCjs"
               },
               {
                 "@title": "WordStar 3.2 Reference Manual",
                 "@file": "WordStar_3.2_Reference_Manual.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqkWhsTCHW7gkQ2W7A?e=VLlYyf",
-                "@cover": ".png",
+                "@cover": "png",
                 "@source": "PCjs"
               },
               {
                 "@title": "WordStar 3.2 Technical Information",
                 "@file": "WordStar_3.2_Technical_Information.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqkUQdVG_FL8aYm3fg?e=yffrXl",
-                "@cover": ".png",
+                "@cover": "png",
                 "@source": "PCjs"
               },
               {
                 "@title": "WordStar 3.0 Reference Card",
                 "@file": "WordStar_3.0_Reference_Card.png",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqkTDr8PVob3Mpvnxg?e=XPFAEC",
-                "@cover": ".png",
+                "@cover": "png",
                 "@source": "PCjs"
               }
             ]
@@ -1464,21 +1464,21 @@
                 "@title": "Pascal/MT+ Notices",
                 "@file": "PASCALMT-311-NOTICES.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFwfKz6L5KLLFOXnA?e=AZ6rJu",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
                 "@title": "Pascal/MT+ Programmer's Guide",
                 "@file": "PASCALMT-311-PROGRAMMERS-GUIDE.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFzf2rfPk25Wvnkbg?e=YaU25Z",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
                 "@title": "Pascal/MT+ Reference Manual",
                 "@file": "PASCALMT-311-REFERENCE-MANUAL.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFywvuwHRIOLy9fgA?e=6JWrqA",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               }
             ]
@@ -1522,7 +1522,7 @@
                 "@file": "IBM_Macro_Assembler_100.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heM9R4ZXrrB1ZRzjwA?e=IMhky8",
                 "@embed": "https://onedrive.live.com/embed?cid=7D567B5161FE0EB7&resid=7D567B5161FE0EB7%2194653&authkey=AI7jcPAR_KQyyK0&em=2",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "https://winworldpc.com/product/ibm-macro-assembler/100"
               }
             ]
@@ -1596,7 +1596,7 @@
                 "@file": "IBM_COBOL_Compiler_V1_1982-03.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heNgckNGawAfsQxs-w?e=P9m6LU",
                 "@embed": "https://onedrive.live.com/embed?cid=7D567B5161FE0EB7&resid=7D567B5161FE0EB7%2194688&authkey=ANqaZ9JL50ssPKw&em=2",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "https://winworldpc.com/product/ibm-cobol-compiler/1x"
               }
             ]
@@ -1816,14 +1816,14 @@
                 "@title": "MS Macro Assembler Reference Manual (1984)",
                 "@file": "MASM30_Reference_Manual-1984.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gt4TMtBw579j2buNcw?e=MF2hsa",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "https://winworldpc.com/product/macro-assembler/3x"
               },
               {
                 "@title": "MS Macro Assembler User's Guide (1984)",
                 "@file": "MASM30_Users_Guide-1984.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heM-dT-jTCe_z5Ld6A?e=IVcl3W",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "https://winworldpc.com/product/macro-assembler/3x"
               }
             ]
@@ -1867,56 +1867,56 @@
                 "@title": "MASM 5.00 Reference",
                 "@file": "MASM50-POCKETREF.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFkTtanp1C-Mq0Yug?e=BRbCsV",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
                 "@title": "MASM 5.00 Programmer's Guide",
                 "@file": "MASM50-PROGGUIDE.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBnDrC9pXwVwxYw1A?e=OZkNow",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/masm-5.0-pg-1987.pdf"
               },
               {
                 "@title": "MASM 5.00 Mixed-Language Programming Guide",
                 "@file": "MASM50-MLPROGGUIDE.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFtJNuM0Uh1XIG9zw?e=OH72cR",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
                 "@title": "MASM 5.00 CodeView and Utilities Guide",
                 "@file": "MASM50-UTILGUIDE.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqIKJ6ua82VVg6_sbA?e=eibMfp",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
                 "@title": "MASM 5.00 Box",
                 "@file": "MASM50-BOX.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFd2ImZBX2LOqqivw?e=fxpie0",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
                 "@title": "MASM 5.00 Brochure",
                 "@file": "MASM50-BROCHURE.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFc87PWpzo9W45Huw?e=h5XatC",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
                 "@title": "MASM 5.00 READ THIS FIRST",
                 "@file": "MASM50-READTHISFIRST.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFitllWejDc8P374g?e=z67BRs",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               },
               {
                 "@title": "MASM 5.10 Letters",
                 "@file": "MASM51-LETTERS.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFmfQPP91sz4S6MDQ?e=AkicZR",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "PCjs"
               }
             ]
@@ -2350,35 +2350,35 @@
                 "@title": "About Leaflet",
                 "@file": "MSC400-1986-ABOUT.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFP5vwCuIxIAxJoRQ?e=4n7LG8",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/msc40/ms-c-4.0-about-1986.pdf"
               },
               {
                 "@title": "C Compiler User's Guide",
                 "@file": "MSC400-1986-UGUIDE.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFWpIc8MH4i6ZF_rQ?e=sI7bfC",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/msc40/ms-c-4.0-uguide-1986.pdf"
               },
               {
                 "@title": "CodeView Debugger",
                 "@file": "MSC400-1986-CODEVIEW.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFR869lAzrhBEyvqA?e=R8GTis",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/msc40/ms-c-4.0-codeview-1986.pdf"
               },
               {
                 "@title": "C Language Reference",
                 "@file": "MSC400-1986-CLR.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFQQtXhdBT9dmTdWg?e=ApXnCC",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": ""
               },
               {
                 "@title": "Run-Time Library Reference",
                 "@file": "MSC400-1986-RTLREF.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFTv-HXbZG3BMdQMQ?e=DbCWgk",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/msc40/ms-c-4.0-rtlref-1986.pdf"
               }
             ]
@@ -2446,49 +2446,49 @@
                 "@title": "MS C 5.0 User's Guide (1987 PRE)",
                 "@file": "MSC50-USERGUIDE-PRE-1987.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBfaLiJ-xzV75I_qw?e=QohYIb",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-ug-pre-1987.pdf"
               },
               {
                 "@title": "MS C 5.0 User's Guide (1987 PRE UPD)",
                 "@file": "MSC50-UG-LR-PRE-UPD-1987.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heB0GJAPrVz_cZ7CAA?e=n2c3hG",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-ug-lr-pre-upd-1987.pdf"
               },
               {
                 "@title": "MS C 5.0 User's Guide (1987)",
                 "@file": "MSC50-USERGUIDE-1987.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heB5iaYUjobUab38cg?e=wIMD34",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-ug-1987.pdf"
               },
               {
                 "@title": "MS C 5.0 Language Reference (1987 PRE)",
                 "@file": "MSC50-LANGREF-PRE-1987.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heB1ZSfSgAzKkJE44w?e=DXAADz",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-lr-pre-1987.pdf"
               },
               {
                 "@title": "MS C 5.0 Run-Time Library Reference (1987 PRE)",
                 "@file": "MSC50-RTL-PRE-1987.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBgLW-dwbFUOrnmvg?e=CkwBGO",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-rtl-pre-1987.pdf"
               },
               {
                 "@title": "MS C 5.0 Run-Time Library Reference (1987 PRE UPD)",
                 "@file": "MSC50-RTL-PRE-UPD-1987.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBvuqj2ATEdvqx9IQ?e=krdcbO",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-rtl-pre-upd-1987.pdf"
               },
               {
                 "@title": "MS C 5.0 Run-Time Library Reference for OS/2 (1987 UPD)",
                 "@file": "MSC50-RTL-OS2-UPD-1987.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBz9FKds8vVT21KEw?e=yTBRjV",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.0-rtl-os2-upd-1987.pdf"
               }
             ]
@@ -2632,7 +2632,7 @@
                 "@title": "MS C 5.1 Update for MS OS/2 and MS-DOS (1988)",
                 "@file": "MSC51-UPDATE-1988.pdf",
                 "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9heBuypY9jGc9RdsSRg?e=0QxeVw",
-                "@cover": ".jpg",
+                "@cover": "jpg",
                 "@source": "http://www.os2museum.com/files/docs/os210sdk/ms-c-5.1-update-1988.pdf"
               }
             ]
@@ -2922,14 +2922,14 @@
                   "@title": "Microsoft QuickPascal: Pascal By Example",
                   "@file": "MS_QuickPascal_100_Pascal_by_Example.pdf",
                   "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFVsisy9Gka2J_GxA?e=rNYD3n",
-                  "@cover": ".jpg",
+                  "@cover": "jpg",
                   "@source": "PCjs"
                 },
                 {
                   "@title": "Microsoft QuickPascal: Up and Running",
                   "@file": "MS_QuickPascal_100_Up_and_Running.pdf",
                   "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9gqFOML1HOTUKRFZLEQ?e=f3fHKv",
-                  "@cover": ".jpg",
+                  "@cover": "jpg",
                   "@source": "PCjs"
                 }
               ]
