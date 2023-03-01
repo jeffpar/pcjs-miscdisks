@@ -531,7 +531,8 @@
                 "@format": "PC360K",
                 "@kryoflux": true,
                 "@args": "--suppData=/software/pcx86/app/microsoft/word/2.00/index.md",
-                "@photo": "jpg"
+                "@photo": "jpg",
+                "@source": "https://winworldpc.com/product/microsoft-word/2x-dos"
               },
               {
                 "@title": "MS Word 2.00 (Disk 1 Backup)",
@@ -539,31 +540,33 @@
                 "@format": "PC360K",
                 "@kryoflux": true,
                 "@args": "--suppData=/software/pcx86/app/microsoft/word/2.00/index.md",
-                "@photo": "jpg"
+                "@photo": "jpg",
+                "@source": "https://winworldpc.com/product/microsoft-word/2x-dos"
               },
               {
                 "@title": "MS Word 2.00 (Disk 2)",
                 "@diskette": "WORD20-DISK2.json",
                 "@format": "PC360K",
                 "@kryoflux": true,
-                "@photo": "jpg"
+                "@photo": "jpg",
+                "@source": "https://winworldpc.com/product/microsoft-word/2x-dos"
               },
               {
                 "@title": "MS Word 2.00 (Disk 3)",
                 "@diskette": "WORD20-DISK3.json",
                 "@format": "PC360K",
                 "@kryoflux": true,
-                "@photo": "jpg"
+                "@photo": "jpg",
+                "@source": "https://winworldpc.com/product/microsoft-word/2x-dos"
               },
               {
                 "@title": "MS Word 2.00 (Disk 4)",
                 "@diskette": "WORD20-DISK4.json",
                 "@format": "PC360K",
-                "@kryoflux": true,
-                "@photo": "jpg"
+                "@photo": "jpg",
+                "@source": "PCjs"
               }
-            ],
-            "@source": "https://winworldpc.com/product/microsoft-word/2x-dos"
+            ]
           },
           "3.00": {
             "@title": "Microsoft Word 3.00",
