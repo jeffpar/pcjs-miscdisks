@@ -554,6 +554,13 @@
                 "@format": "PC360K",
                 "@kryoflux": true,
                 "@photo": "jpg"
+              },
+              {
+                "@title": "MS Word 2.00 (Disk 4)",
+                "@diskette": "WORD20-DISK4.json",
+                "@format": "PC360K",
+                "@kryoflux": true,
+                "@photo": "jpg"
               }
             ],
             "@source": "https://winworldpc.com/product/microsoft-word/2x-dos"
