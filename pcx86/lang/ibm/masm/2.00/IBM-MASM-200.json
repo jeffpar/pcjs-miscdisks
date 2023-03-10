@@ -12,8 +12,7 @@
   "diskSize": 327680,
   "bootSector": "[0,235,39,144,3,1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/lang/ibm/masm/2.00/archive/IBM-MASM-200.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

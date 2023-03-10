@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 1228800,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/sw/magazines/pctj/archive/PCTJBEST/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

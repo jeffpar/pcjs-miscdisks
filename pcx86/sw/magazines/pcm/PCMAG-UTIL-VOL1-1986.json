@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/sw/magazines/pcm/archive/PCMAG-UTIL-VOL1-1986.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

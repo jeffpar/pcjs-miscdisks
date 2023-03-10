@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/lang/microsoft/masm/1.25/archive/MASM125/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

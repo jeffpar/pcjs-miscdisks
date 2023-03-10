@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/app/microsoft/multiplan/2.01/archive/MULTIPLAN201-PROGRAM/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

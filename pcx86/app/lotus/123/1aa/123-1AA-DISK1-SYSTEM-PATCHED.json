@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/app/lotus/123/1aa/archive/123-1AA-DISK1-SYSTEM-PATCHED.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

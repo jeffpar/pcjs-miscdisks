@@ -12,8 +12,7 @@
   "diskSize": 368640,
   "bootSector": "[0,235,41,144,73,66,77,32,49,48,46,48,0,2,2,1,0,2,112,0,208,2,253,2,0,9,0,2,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/lang/microsoft/c/5.10-os2/archive/MSC510-DISK11-QCDOS.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

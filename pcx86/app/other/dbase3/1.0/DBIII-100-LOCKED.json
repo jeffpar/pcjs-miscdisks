@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/app/other/dbase3/1.0/archive/DBIII-100-LOCKED.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

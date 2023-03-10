@@ -12,8 +12,7 @@
   "diskSize": 327680,
   "bootSector": "[0,235,42,144,32,78,111,114,116,111,110,32,0,2,2,1,0,2,112,0,128,2,255,1,0,8,0,2,0,0,0,0,0,0,0,0,0]",
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/util/norton/3.10/archive/NU310-1986-01-21.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

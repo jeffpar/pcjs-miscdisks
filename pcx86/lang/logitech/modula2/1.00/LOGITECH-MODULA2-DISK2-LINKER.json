@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/lang/logitech/modula2/1.00/archive/LOGITECH-MODULA2-DISK2-LINKER/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

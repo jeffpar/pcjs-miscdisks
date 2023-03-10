@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/app/other/thinktank/1987/archive/THINKTANK-DOS/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

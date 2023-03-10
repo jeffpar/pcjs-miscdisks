@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 184320,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/util/other/flickerfree/1.0/archive/FLICKERFREE.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

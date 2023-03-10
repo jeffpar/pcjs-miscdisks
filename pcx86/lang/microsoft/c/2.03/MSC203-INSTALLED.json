@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/lang/microsoft/c/2.03/archive/MSC203-INSTALLED.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

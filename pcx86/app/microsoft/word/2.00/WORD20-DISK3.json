@@ -3,7 +3,7 @@
   "type": "CHS",
   "name": "WORD20-DISK3.img",
   "format": "PC360K",
-  "hash": "305cdfb15b4da5accbf255ac1c0f2600",
+  "hash": "bffae70510155be9373c1252a10f958e",
   "checksum": 498453246,
   "cylinders": 40,
   "heads": 2,
@@ -13,7 +13,7 @@
   "bootSector": "[0,235,53,144,67,67,67,32,32,50,46,49,0,2,2,1,0,2,112,0,208,2,253,2,0,9,0,2,0,0,0,223,2,37,2,9,42]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/app/microsoft/word/2.00/archive/WORD20-DISK3.img"
+  "source": "https://winworldpc.com/product/microsoft-word/2x-dos"
 },
 "volTable": [
  {

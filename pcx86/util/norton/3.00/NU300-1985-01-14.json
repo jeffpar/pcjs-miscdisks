@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 163840,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/miscdisks/pcx86/util/norton/3.00/archive/NU30-850114/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {
