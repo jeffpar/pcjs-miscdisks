@@ -44,7 +44,22 @@
   {"hash":"df42f4b5ec5972d5ddcde16a6177a873","path":"/PUTFILE.ZIP","attr":"0x20","date":"1991-10-31 16:28:06","size":603},
   {"hash":"6a91e5cbf2821db0e789d200a5199bf9","path":"/RAND.WK1","attr":"0x20","date":"1991-06-08 12:02:46","size":1924},
   {"hash":"116c3df52c14ea523cd5da86a537828b","path":"/RAND2.WK1","attr":"0x20","date":"1991-06-08 12:02:34","size":2114},
-  {"hash":"d0d95dd652022e4ac12144c98dda8766","path":"/REBOOT.ZIP","attr":"0x20","date":"1991-11-01 16:38:52","size":516}
+  {"hash":"d0d95dd652022e4ac12144c98dda8766","path":"/REBOOT.ZIP","attr":"0x20","date":"1991-11-01 16:38:52","size":516},
+  {"hash":"916a286640d93938432d11ed0a8f98e5","path":"/IACA.ZIP/IACA.H","attr":"0x40","date":"1991-11-01 00:25:22","size":301},
+  {"hash":"a1f38ed0aa38f9fc5b8a0405d6943b1f","path":"/IACA.ZIP/IACA.MAK","attr":"0x40","date":"1991-11-01 00:24:50","size":250},
+  {"hash":"a3dd95795a16a4ebd8c1a373fe3ef434","path":"/IACA.ZIP/IACACHLD.C","attr":"0x40","date":"1991-11-01 00:26:14","size":372},
+  {"hash":"3d4194496cbfb95fbd4c119bd1e3a788","path":"/IACA.ZIP/IACACHLD.EXE","attr":"0x40","date":"1991-08-07 16:24:40","size":6232},
+  {"hash":"485b5aa107698eb20e163419fcd1d868","path":"/IACA.ZIP/IACAMAIN.C","attr":"0x40","date":"1991-11-01 00:26:46","size":1070},
+  {"hash":"dfa9748081d1c4f04282cc88766c47cc","path":"/IACA.ZIP/IACAMAIN.EXE","attr":"0x40","date":"1991-08-07 16:24:38","size":9688},
+  {"hash":"3d30e09ffa38513151bf7c4e65e4a075","path":"/PCTODAY.ZIP/PCCOPY.BAS","attr":"0x40","date":"1991-11-02 00:13:16","size":19636},
+  {"hash":"7f5de5fef659f246a5ddd5df86b426bc","path":"/PCTODAY.ZIP/PCCOPY.EXE","attr":"0x40","date":"1991-09-27 00:16:20","size":8460},
+  {"hash":"aa11e0cce33fd93d6925ab9670fc7d75","path":"/PCTODAY.ZIP/PCTODAY.BAS","attr":"0x40","date":"1991-11-02 00:14:44","size":16367},
+  {"hash":"fe7edf858bd07e0562982e26453ad26b","path":"/PCTODAY.ZIP/PCTODAY.DOC","attr":"0x40","date":"1991-10-31 20:23:30","size":5926},
+  {"hash":"b74a153a216427d36f6f8c11dfe2532f","path":"/PCTODAY.ZIP/PCTODAY.EXE","attr":"0x40","date":"1991-09-26 23:05:02","size":7244},
+  {"hash":"812c70552a788ccf0216cc03921004c2","path":"/PUTFILE.ZIP/M.BAT","attr":"0x40","date":"1991-11-01 00:27:10","size":245},
+  {"hash":"641797921b1a6d93a6257e64755c7d41","path":"/PUTFILE.ZIP/PUTFILE.BAT","attr":"0x40","date":"1991-11-01 00:28:06","size":251},
+  {"hash":"456cd7f6fe778dbcbaa26252afd751b3","path":"/REBOOT.ZIP/BOOT.BAT","attr":"0x40","date":"1991-11-02 00:11:16","size":690},
+  {"hash":"8d0fa7bf71397fc60c16a160bfcb2a16","path":"/REBOOT.ZIP/REBOOT.COM","attr":"0x40","date":"1991-11-02 00:38:52","size":16}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

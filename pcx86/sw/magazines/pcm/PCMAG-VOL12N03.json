@@ -59,7 +59,21 @@
   {"hash":"f3b3e1a0d79ef2750d982dcce3db79a2","path":"/RCLSRC.ZIP","attr":"0x20","date":"1993-01-14 20:45:14","size":20364},
   {"hash":"2312439f94234bfe9ffed73bf9c5e1c0","path":"/SYSICONS.C","attr":"0x20","date":"1993-01-14 22:09:46","size":2497},
   {"hash":"07b7673f57315c530c75a5cafd00be07","path":"/SYSICONS.EXE","attr":"0x20","date":"1992-08-28 07:00:48","size":4315,"module":{"name":"SYSICONS","description":"SysIcons Copyright (c) 1993 by Jeff Prosise","segments":{"1":{"offStart":1200,"offEnd":3521,"ordinals":{"1":{"o":220,"s":"WNDPROC"}}},"2":{"offStart":3792,"offEnd":4314},"254":{"offStart":0,"offEnd":0}}}},
-  {"hash":"5de9bf534a6d0dd4bbdc3423da244f78","path":"/TODAY.BAS","attr":"0x20","date":"1992-07-28 11:29:20","size":178}
+  {"hash":"5de9bf534a6d0dd4bbdc3423da244f78","path":"/TODAY.BAS","attr":"0x20","date":"1992-07-28 11:29:20","size":178},
+  {"hash":"0ce50568fd8a6ef2c1045281862d6469","path":"/RCLSRC.ZIP/RCHOOK.C","attr":"0x40","date":"1992-11-11 19:03:30","size":10486},
+  {"hash":"5d31db4bcd04c46b78e4c6633fee60a9","path":"/RCLSRC.ZIP/RCHOOK.DEF","attr":"0x40","date":"1992-10-30 19:34:28","size":784},
+  {"hash":"6910bb53af0402993b5fc6d50d5a2667","path":"/RCLSRC.ZIP/RCHOOK.H","attr":"0x40","date":"1992-10-30 19:33:24","size":682},
+  {"hash":"86da9e68af4069ef09ba094f827e3ecb","path":"/RCLSRC.ZIP/RCHOOK.MAK","attr":"0x40","date":"1992-10-30 23:42:48","size":605},
+  {"hash":"0c5a680ad4c80def7ab3653dc6696158","path":"/RCLSRC.ZIP/RCHOOK.OBJ","attr":"0x40","date":"1992-11-11 19:03:40","size":10867},
+  {"hash":"982747c0fe33b8cd46f1388e155eeb62","path":"/RCLSRC.ZIP/RCHOOK.RC","attr":"0x40","date":"1992-10-30 19:35:34","size":280},
+  {"hash":"81d5ab98f4f668e444ec1baf4f884192","path":"/RCLSRC.ZIP/RCLICK.C","attr":"0x40","date":"1992-10-30 23:30:16","size":10472},
+  {"hash":"26dcad656fd39273c081fa40f88f7873","path":"/RCLSRC.ZIP/RCLICK.DEF","attr":"0x40","date":"1992-10-30 19:35:10","size":951},
+  {"hash":"28d053ab4d4901524de8bd97ded62199","path":"/RCLSRC.ZIP/RCLICK.H","attr":"0x40","date":"1992-10-30 19:33:44","size":770},
+  {"hash":"384a1c09b02c90ad06bb56b40e08746b","path":"/RCLSRC.ZIP/RCLICK.ICO","attr":"0x40","date":"1992-10-09 05:33:46","size":766},
+  {"hash":"2d08842ae6d48b6682595bb77884baf1","path":"/RCLSRC.ZIP/RCLICK.MAK","attr":"0x40","date":"1992-10-30 23:42:58","size":525},
+  {"hash":"6ea991f90643e294c22f9dc108af47ba","path":"/RCLSRC.ZIP/RCLICK.OBJ","attr":"0x40","date":"1992-10-30 23:43:26","size":10795},
+  {"hash":"c340cc86b78c1f860318484e0d18faaa","path":"/RCLSRC.ZIP/RCLICK.RC","attr":"0x40","date":"1992-11-09 19:07:52","size":3034},
+  {"hash":"e55693f895665acdf0d5c7427016e0ab","path":"/RCLSRC.ZIP/RCLICK.RES","attr":"0x40","date":"1992-11-09 19:08:26","size":1523}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

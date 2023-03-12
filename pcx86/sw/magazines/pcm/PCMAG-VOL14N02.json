@@ -36,7 +36,14 @@
   {"hash":"6f57b5c318407c9c86a5459bf8963011","path":"/ONCEAD.BAT","attr":"0x20","date":"1994-12-29 13:28:16","size":367},
   {"hash":"39bc54f7458fbcc6b5c3c2ee595369c6","path":"/PLICON.ZIP","attr":"0x20","date":"1995-01-05 12:47:22","size":32075},
   {"hash":"a803649e63aa94c938a8c96996a32e1a","path":"/TPCREAD.ME","attr":"0x20","date":"1980-01-01 12:05:48","size":199},
-  {"hash":"a1e67f6fb2eab1e807f7438885837f0f","path":"/WHATCP.ZIP","attr":"0x20","date":"1994-12-29 13:24:14","size":2294}
+  {"hash":"a1e67f6fb2eab1e807f7438885837f0f","path":"/WHATCP.ZIP","attr":"0x20","date":"1994-12-29 13:24:14","size":2294},
+  {"hash":"ecb34fdbff4c150f302084987059cdb7","path":"/plicon.ZIP/PLCODE.ZIP","attr":"0x40","date":"1995-01-05 20:45:50","size":24008},
+  {"hash":"f1ef90e5bef67ea07aac63b80d0d6467","path":"/plicon.ZIP/PLICON.DOC","attr":"0x40","date":"1994-12-29 20:57:18","size":2046},
+  {"hash":"464ea6a1a2fcf2fe3282a95a36cbf857","path":"/plicon.ZIP/PLICON.EXE","attr":"0x40","date":"1995-01-04 06:06:10","size":6352},
+  {"hash":"9ef74c3bb39b6f00d3e571c9fb77e854","path":"/plicon.ZIP/PLIDLL.DLL","attr":"0x40","date":"1995-01-04 06:06:26","size":8768},
+  {"hash":"fb7f92616411017a0a481e3656d2ce5e","path":"/whatcp.ZIP/WHATCPU.ASM","attr":"0x40","date":"1994-12-29 21:24:04","size":6541},
+  {"hash":"4c87f5f75fb8d64ff5d223eb1fc40470","path":"/whatcp.ZIP/WHATCPU.COM","attr":"0x40","date":"1994-10-27 02:09:34","size":285},
+  {"hash":"f995d8af4bf2ddc784afdd119ed17166","path":"/whatcp.ZIP/WHATCPU.SCR","attr":"0x40","date":"1994-12-29 21:23:36","size":1175}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

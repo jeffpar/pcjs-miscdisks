@@ -37,7 +37,18 @@
   {"hash":"615e32eed124ba1916b192b49cf1db85","path":"/FINDFI.BAS","attr":"0x20","date":"1992-06-15 10:35:02","size":2328},
   {"hash":"2cb7bf86282a26dff842cd9950fb5b72","path":"/N2W.ZIP","attr":"0x20","date":"1993-01-26 13:16:22","size":1853},
   {"hash":"334b949145a6ad5e1e62bb857e435be4","path":"/SETVER.ZIP","attr":"0x20","date":"1993-01-26 13:16:50","size":3935},
-  {"hash":"bb4eabe6506b995f516ba9a0448aeca5","path":"/SPLIT.ZIP","attr":"0x20","date":"1993-01-26 13:14:40","size":796}
+  {"hash":"bb4eabe6506b995f516ba9a0448aeca5","path":"/SPLIT.ZIP","attr":"0x20","date":"1993-01-26 13:14:40","size":796},
+  {"hash":"07293417b9d691d9dd3f741bc3365d9a","path":"/DEFRAG.ZIP/DEFRAGR.C","attr":"0x40","date":"1993-01-03 01:06:26","size":112543},
+  {"hash":"8f22ae590eac741ca4b5a3121fde145c","path":"/DEFRAG.ZIP/DEFRAGR.DOC","attr":"0x40","date":"1993-01-26 22:58:22","size":16304},
+  {"hash":"6f86278d8d63a4e5535ec1dae74a669d","path":"/DEFRAG.ZIP/DEFRAGR.EXE","attr":"0x40","date":"1993-01-03 01:12:04","size":38632},
+  {"hash":"7fffd64dbb571e7eed307ce4cd3f3fbc","path":"/ENLAB.ZIP/ENLAB.WK1","attr":"0x40","date":"1992-12-05 02:20:58","size":4668},
+  {"hash":"41ac125731737740fb037449fbe80998","path":"/ENLAB.ZIP/ENLAB2.WK1","attr":"0x40","date":"1992-11-24 05:32:42","size":6168},
+  {"hash":"92dbc9b663356c5bf808251a80d0cfad","path":"/N2W.ZIP/N2W.PRG","attr":"0x40","date":"1992-09-27 00:25:02","size":5805},
+  {"hash":"d6b2dc83fdd595767975f586cb205e40","path":"/SETVER.ZIP/RMSETVER.EXE","attr":"0x40","date":"1992-08-11 22:14:28","size":3056},
+  {"hash":"43b42bf6dff6802047e95dcc9b02e62f","path":"/SETVER.ZIP/RMSETVER.PAS","attr":"0x40","date":"1992-08-11 22:14:24","size":1010},
+  {"hash":"4ac1c5adc31ebec7cb7da5255f32cc57","path":"/SETVER.ZIP/SETVERD.BAT","attr":"0x40","date":"1992-08-12 21:01:58","size":2234},
+  {"hash":"41a455811148ed055fa24eba71e5229f","path":"/SPLIT.ZIP/SPLI2.WPM","attr":"0x40","date":"1992-04-16 01:25:36","size":544},
+  {"hash":"ca3ceea14ab4f4729168d7c4ec9c0da8","path":"/SPLIT.ZIP/SPLIT.WPM","attr":"0x40","date":"1992-04-16 01:24:18","size":616}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

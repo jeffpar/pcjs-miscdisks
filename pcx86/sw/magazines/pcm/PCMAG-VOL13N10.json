@@ -35,7 +35,21 @@
   {"hash":"721935a1db51ed46bda49002317a4f6b","path":"/REVER.ZIP","attr":"0x20","date":"1994-05-01 15:42:48","size":1138},
   {"hash":"7e626ad7cb25291393065765e4fac8fc","path":"/SWITC.ZIP","attr":"0x20","date":"1994-05-01 15:38:10","size":59927},
   {"hash":"dddc3484ab72f5906196fa7125f02143","path":"/VTUTOR.ZIP","attr":"0x20","date":"1994-05-01 15:29:06","size":2871},
-  {"hash":"63e8edbabf8d05477b00a5e797b83262","path":"/XFLT.ZIP","attr":"0x20","date":"1994-05-01 15:28:02","size":1464}
+  {"hash":"63e8edbabf8d05477b00a5e797b83262","path":"/XFLT.ZIP","attr":"0x20","date":"1994-05-01 15:28:02","size":1464},
+  {"hash":"6614e6b0b1f8937520c94754e15a6abc","path":"/REVER.ZIP/REVERSE.BAT","attr":"0x40","date":"1994-05-01 22:39:56","size":327},
+  {"hash":"f08589ba9e26692b90ee92098c6c1f84","path":"/REVER.ZIP/REVERSE1.BAT","attr":"0x40","date":"1994-05-01 22:41:34","size":506},
+  {"hash":"cb3474346d6ee809d3e0dadbfd72ddcc","path":"/REVER.ZIP/REVERSE2.BAT","attr":"0x40","date":"1994-05-01 22:41:56","size":518},
+  {"hash":"73f244d853add9ef6662c1a15b2dab73","path":"/SWITC.ZIP/SWITC.DOC","attr":"0x40","date":"1994-04-27 15:57:50","size":2349},
+  {"hash":"a4c787c872459496e8ad57e26d2ab7c8","path":"/SWITC.ZIP/SWITC.EXE","attr":"0x40","date":"1994-04-30 04:05:42","size":24432},
+  {"hash":"2d253cbad0eb0677bcac69ac001f97d8","path":"/SWITC.ZIP/SWITCC.ZIP","attr":"0x40","date":"1994-05-01 22:36:20","size":46852},
+  {"hash":"d3bb0393a1459687fc86157dd3025b72","path":"/VTUTOR.ZIP/VMCOUNT.COM","attr":"0x40","date":"1994-03-01 18:00:00","size":179},
+  {"hash":"16ba4066a530c2777269e8b8686ef98b","path":"/VTUTOR.ZIP/VMCOUNT.SCR","attr":"0x40","date":"1994-02-24 23:24:24","size":1668},
+  {"hash":"bcbfc2ce349155974b2eabea0b287d9c","path":"/VTUTOR.ZIP/VTUTORD.386","attr":"0x40","date":"1994-03-01 18:00:00","size":630},
+  {"hash":"8e668d0eecd24947d6dbd8017c82ac5c","path":"/VTUTOR.ZIP/VTUTORD.ASM","attr":"0x40","date":"1994-03-01 18:00:00","size":3389},
+  {"hash":"9a13aef7f0b8d92307cf9142f0b3ac21","path":"/VTUTOR.ZIP/VTUTORD.DEF","attr":"0x40","date":"1994-03-01 18:00:00","size":616},
+  {"hash":"b5fd628e8356b17c050e6f4491feb48a","path":"/XFLT.ZIP/XFLT.SCR","attr":"0x40","date":"1994-05-01 22:24:00","size":2571},
+  {"hash":"2b233c13e79ea1646558086dbb2f99cc","path":"/XFLT.ZIP/XFLT1.COM","attr":"0x40","date":"1994-05-01 22:25:30","size":399},
+  {"hash":"4f4a17ab560ed5d2d6062034042ea5c8","path":"/XFLT.ZIP/XFLT2.COM","attr":"0x40","date":"1994-05-01 22:25:30","size":399}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

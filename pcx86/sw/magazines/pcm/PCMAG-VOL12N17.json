@@ -37,7 +37,21 @@
   {"hash":"344958bb494020b7765d8f38bcf9cead","path":"/DATEMA.ZIP","attr":"0x20","date":"1993-09-11 18:32:34","size":6647},
   {"hash":"71212adcaa1dc127cac00b81091ee54a","path":"/HK.ZIP","attr":"0x20","date":"1993-09-11 16:00:40","size":32450},
   {"hash":"95f58c1e00a3e173cfa4c9feeaa90f50","path":"/JKEYDE.PRG","attr":"0x20","date":"1993-09-07 16:08:46","size":696},
-  {"hash":"162666f97d4eefc46a9e9b201fe238be","path":"/SLIM2.WPM","attr":"0x20","date":"1993-01-19 15:33:02","size":1263}
+  {"hash":"162666f97d4eefc46a9e9b201fe238be","path":"/SLIM2.WPM","attr":"0x20","date":"1993-01-19 15:33:02","size":1263},
+  {"hash":"ab8cad6425bb2b339de637ddafed679f","path":"/BIGJOB.ZIP/BIGJOB1.C","attr":"0x40","date":"1993-07-26 22:28:06","size":4414},
+  {"hash":"7e9c5fdb6a76e954fdb0655821dcee9e","path":"/BIGJOB.ZIP/BIGJOB1.EXE","attr":"0x40","date":"1993-07-26 22:30:54","size":38400},
+  {"hash":"116e7c4b5f631ca72edd469fd514237d","path":"/BIGJOB.ZIP/BIGJOB1.MAK","attr":"0x40","date":"1993-07-26 22:27:46","size":268},
+  {"hash":"696f232b926634522799d69ce66fc93d","path":"/BIGJOB.ZIP/BIGJOB2.C","attr":"0x40","date":"1993-07-26 22:31:20","size":4875},
+  {"hash":"d023094c0d0a6372f2bc4878447806cf","path":"/BIGJOB.ZIP/BIGJOB2.EXE","attr":"0x40","date":"1993-07-26 22:35:26","size":38912},
+  {"hash":"7f1fb75dfdc578da6162d9fc55642fd2","path":"/BIGJOB.ZIP/BIGJOB2.MAK","attr":"0x40","date":"1993-07-26 22:30:58","size":268},
+  {"hash":"539c6296b24f691a36d063d75cf703f6","path":"/DATEMA.ZIP/DATEMAC.WK1","attr":"0x40","date":"1993-09-07 22:46:40","size":1893},
+  {"hash":"7255fdfe9be07891b78c4c882bca8ab5","path":"/DATEMA.ZIP/DATEMAC2.WB1","attr":"0x40","date":"1993-09-07 23:01:46","size":5069},
+  {"hash":"46b3257d10d9629c3c263f7becae8968","path":"/DATEMA.ZIP/DATEMAC2.WK1","attr":"0x40","date":"1993-09-07 22:47:36","size":1696},
+  {"hash":"b1fe4f7abd451141b9c962c45ebd516b","path":"/DATEMA.ZIP/DATEMAC2.WQ1","attr":"0x40","date":"1993-09-07 23:04:08","size":2843},
+  {"hash":"07520e1a03d80bba47a670923c62f39b","path":"/DATEMA.ZIP/DATEMAC2.XLM","attr":"0x40","date":"1993-09-07 22:55:00","size":2463},
+  {"hash":"a580d118418dec59c313ed8c37abb610","path":"/HK.ZIP/HK.DOC","attr":"0x40","date":"1993-09-11 22:59:58","size":6530},
+  {"hash":"d7d2a443fe234aef4bcdda7d5d21f679","path":"/HK.ZIP/HK.EXE","attr":"0x40","date":"1993-07-12 22:39:24","size":13536},
+  {"hash":"6d35a3a698145e9713e5401eae4cc9d7","path":"/HK.ZIP/HKSRC.ZIP","attr":"0x40","date":"1993-09-11 22:57:46","size":22171}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

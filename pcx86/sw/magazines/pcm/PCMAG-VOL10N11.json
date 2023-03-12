@@ -47,7 +47,14 @@
   {"hash":"1df4a29171ab18979ba92f08cdbbbefd","path":"/VIDEO.C","attr":"0x20","date":"1991-05-10 11:43:34","size":1574},
   {"hash":"0a438d11c395051169fed04f4454b6d4","path":"/VIDEO.EXE","attr":"0x20","date":"1991-03-04 16:25:48","size":8532},
   {"hash":"79a1cb5034de5600082e6b2162c45510","path":"/WINMEM.C","attr":"0x20","date":"1991-04-13 20:58:10","size":2521},
-  {"hash":"1b31725d38018c645a89f1cc2bdb960f","path":"/WINMEM.EXE","attr":"0x20","date":"1991-04-13 20:51:38","size":8192,"module":{"name":"winmem","description":"winmem.exe","segments":{"1":{"offStart":1024,"offEnd":5235},"2":{"offStart":5632,"offEnd":7705},"254":{"offStart":0,"offEnd":0}}}}
+  {"hash":"1b31725d38018c645a89f1cc2bdb960f","path":"/WINMEM.EXE","attr":"0x20","date":"1991-04-13 20:51:38","size":8192,"module":{"name":"winmem","description":"winmem.exe","segments":{"1":{"offStart":1024,"offEnd":5235},"2":{"offStart":5632,"offEnd":7705},"254":{"offStart":0,"offEnd":0}}}},
+  {"hash":"971240444ab9325580688d5c49e7b11c","path":"/CHKPATH.ZIP/CHKPATH.BAS","attr":"0x40","date":"1991-05-09 18:39:10","size":55129},
+  {"hash":"553d3d985fef8d81103022087b2e7aa6","path":"/CHKPATH.ZIP/CHKPATH.C","attr":"0x40","date":"1991-03-27 16:00:00","size":58883},
+  {"hash":"8d4ef2c1ad8316dc1aaa79c8b75ba163","path":"/CHKPATH.ZIP/CHKPATH.DOC","attr":"0x40","date":"1991-05-10 00:25:26","size":1898},
+  {"hash":"9a6608658ea610c8b2fda68fb76a3eb1","path":"/CHKPATH.ZIP/CHKPATH.EXE","attr":"0x40","date":"1991-03-27 16:00:00","size":10723},
+  {"hash":"a074c65d56a7f348198064f1f6c29510","path":"/CHKPATH.ZIP/DCHKPATH.EXE","attr":"0x40","date":"1991-03-27 16:00:00","size":34580},
+  {"hash":"196dddb61b1bd23025421ae7911c71ce","path":"/CHKPATH.ZIP/EXITS.H","attr":"0x40","date":"1991-03-27 16:00:00","size":515},
+  {"hash":"f570ad985429ce1659e6002967515a0e","path":"/CHKPATH.ZIP/MAKEFILE","attr":"0x40","date":"1991-03-27 16:00:00","size":1264}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

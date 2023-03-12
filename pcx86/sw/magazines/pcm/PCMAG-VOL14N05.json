@@ -42,7 +42,16 @@
   {"hash":"a803649e63aa94c938a8c96996a32e1a","path":"/TPCREAD.ME","attr":"0x20","date":"1980-01-01 12:05:48","size":199},
   {"hash":"6e8f2abb238ca483b02d234c3f738f71","path":"/TRYBOX.PRG","attr":"0x20","date":"1994-11-23 15:29:08","size":2638},
   {"hash":"c705ebc4eed0f20a33d6b1877dfb485c","path":"/ULCASE.ZIP","attr":"0x20","date":"1995-02-11 16:47:56","size":575},
-  {"hash":"a39a822fb7e0e6a426ccf07efff81d2a","path":"/VP.EXE","attr":"0x20","date":"1994-11-03 16:49:06","size":4959,"module":{"name":"VISPAL","description":"VP 1.0 Copyright (c) 1995 Jeff Prosise","segments":{"1":{"offStart":1200,"offEnd":3975,"ordinals":{"1":{"o":218,"s":"WNDPROC"}}},"2":{"offStart":4368,"offEnd":4958},"254":{"offStart":0,"offEnd":0}}}}
+  {"hash":"a39a822fb7e0e6a426ccf07efff81d2a","path":"/VP.EXE","attr":"0x20","date":"1994-11-03 16:49:06","size":4959,"module":{"name":"VISPAL","description":"VP 1.0 Copyright (c) 1995 Jeff Prosise","segments":{"1":{"offStart":1200,"offEnd":3975,"ordinals":{"1":{"o":218,"s":"WNDPROC"}}},"2":{"offStart":4368,"offEnd":4958},"254":{"offStart":0,"offEnd":0}}}},
+  {"hash":"006d1536487c06ebeaefa217700abad5","path":"/defedi.ZIP/DEDLL.DLL","attr":"0x40","date":"1994-12-21 05:46:28","size":5184},
+  {"hash":"a136efc15e2e3ad67121cfff89f53376","path":"/defedi.ZIP/DEFEDIT.DOC","attr":"0x40","date":"1995-02-12 01:24:52","size":2023},
+  {"hash":"413d4d24f0023df5d3a07ab4f9413bc8","path":"/defedi.ZIP/DEFEDIT.EXE","attr":"0x40","date":"1995-02-12 19:31:26","size":12608},
+  {"hash":"55d4ec09d4c0b2f72e92fcb8a15f9ba6","path":"/defedi.ZIP/DEFSCR.ZIP","attr":"0x40","date":"1995-02-12 19:31:26","size":26649},
+  {"hash":"ca138dace7f858a853f9feb90ca587d7","path":"/ppv14n.ZIP/DBTORFT.TXT","attr":"0x40","date":"1995-02-12 01:04:26","size":8028},
+  {"hash":"6bca7cc021dfe3101ccb9fbd28a8d542","path":"/ppv14n.ZIP/RTFGEN.TXT","attr":"0x40","date":"1994-12-14 23:27:58","size":5636},
+  {"hash":"fd0c3fd37de1da1ff9d36fa52e67dcdd","path":"/ppv14n.ZIP/SAMPLE.HPJ","attr":"0x40","date":"1995-02-12 01:04:42","size":357},
+  {"hash":"a4cafc540ea42bdfe6414d6ea9f9a6ec","path":"/ulcase.ZIP/MACRO1.TXT","attr":"0x40","date":"1995-02-12 00:47:12","size":241},
+  {"hash":"76a73568e387b4f364deeb3ab788bce5","path":"/ulcase.ZIP/MACRO2.TXT","attr":"0x40","date":"1995-02-12 00:47:56","size":716}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

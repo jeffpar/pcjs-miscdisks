@@ -36,7 +36,19 @@
   {"hash":"201f81b4d22ab283df401ff730264cbc","path":"/LAPNAP.ZIP","attr":"0x20","date":"1994-07-22 23:36:30","size":815},
   {"hash":"45bdaf0406edd9569b76806938ffac13","path":"/NETMES.ZIP","attr":"0x20","date":"1994-07-22 23:36:26","size":1757},
   {"hash":"aad6ead28be7d7cdb4314f7536e821f1","path":"/QUIKCO.ZIP","attr":"0x20","date":"1994-07-22 23:36:30","size":60901},
-  {"hash":"72f30968790a3a16aa8f984957e3ef9c","path":"/STACKMON.COM","attr":"0x20","date":"1994-03-21 07:37:34","size":1509}
+  {"hash":"72f30968790a3a16aa8f984957e3ef9c","path":"/STACKMON.COM","attr":"0x20","date":"1994-03-21 07:37:34","size":1509},
+  {"hash":"c2a8798cfff3ad1e55c597a0e8920ecd","path":"/EMF1.ZIP/EMF1.C","attr":"0x40","date":"1994-05-17 19:18:26","size":2938},
+  {"hash":"ae9c861811666e0addeb3dd9b2c7a28d","path":"/EMF1.ZIP/EMF1.EXE","attr":"0x40","date":"1994-05-17 19:18:52","size":18432},
+  {"hash":"a522d78da206f14ba5a2dc5074f61b24","path":"/EMF1.ZIP/EMF1.MAK","attr":"0x40","date":"1994-05-17 02:42:26","size":238},
+  {"hash":"d886d71a65356f480101ea34209fc8f8","path":"/LAPNAP.ZIP/LAPNAP.BAT","attr":"0x40","date":"1994-07-05 19:07:04","size":1034},
+  {"hash":"45c1bef33467be2a356ef70678d3ce59","path":"/LAPNAP.ZIP/LAPNAP2.BAT","attr":"0x40","date":"1994-07-05 19:07:46","size":1276},
+  {"hash":"e4eabc3db3bed50ef216cbdcfddc1172","path":"/NETMES.ZIP/IPXFUNCS.TXT","attr":"0x40","date":"1994-07-07 15:33:12","size":1893},
+  {"hash":"36b300febf8f6a89327572862bcec00b","path":"/NETMES.ZIP/IPXTEST.TXT","attr":"0x40","date":"1994-07-19 16:21:14","size":258},
+  {"hash":"e67edff307d45e5964ca7ddcae6c563c","path":"/NETMES.ZIP/NBFUNCS.TXT","attr":"0x40","date":"1994-07-07 15:33:30","size":1405},
+  {"hash":"952989ab0c972eefa12a550272fb1340","path":"/NETMES.ZIP/NBTEST.TXT","attr":"0x40","date":"1994-07-07 15:32:54","size":622},
+  {"hash":"766d270b2e9d432bdb74c27d98a9a84d","path":"/QUIKCO.ZIP/QUIKCO.DOC","attr":"0x40","date":"1994-07-05 19:04:42","size":2559},
+  {"hash":"413ecc4daaea791dc458c9ef74d74bc1","path":"/QUIKCO.ZIP/QUIKCO.EXE","attr":"0x40","date":"1994-07-13 01:02:08","size":59624},
+  {"hash":"b6940ed92bffedfbfe00c03eb5f625dc","path":"/QUIKCO.ZIP/QUIKCOPY.CPP","attr":"0x40","date":"2023-03-02 20:02:48","size":106065}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -47,7 +47,17 @@
   {"hash":"0df04a2f52a49eba53c3edb5a4a6a073","path":"/HD2FLOPY.PRG","attr":"0x20","date":"1989-08-29 12:05:16","size":1372},
   {"hash":"b7db0dae449602a48a19f9d0317fd201","path":"/OS2TERM.C","attr":"0x20","date":"1989-08-29 12:02:50","size":3642},
   {"hash":"85f68d4cde43246709e28351f67e2f1b","path":"/OS2TERM.EXE","attr":"0x20","date":"1989-05-23 19:41:18","size":8281,"module":{"name":"OS2TERM","description":"OS2TERM.EXE","segments":{"1":{"offStart":512,"offEnd":6682},"2":{"offStart":7168,"offEnd":8270},"254":{"offStart":0,"offEnd":0}}}},
-  {"hash":"c9b3d2b122821700235f961cf0ee532b","path":"/PF2.ARC","attr":"0x20","date":"1989-08-16 16:18:38","size":8101}
+  {"hash":"c9b3d2b122821700235f961cf0ee532b","path":"/PF2.ARC","attr":"0x20","date":"1989-08-16 16:18:38","size":8101},
+  {"hash":"00ca422abc3f5cd445b11bc758092210","path":"/COMSET.ARC/COMSET.COM","attr":"0x40","date":"1988-05-04 01:02:46","size":130},
+  {"hash":"f41a65897e4de08cf91e012da32f94a2","path":"/COMSET.ARC/COMSET.DOC","attr":"0x40","date":"1988-06-12 00:48:24","size":2950},
+  {"hash":"22c1f01b8d52f8dae47cbfcf6374557a","path":"/COMSET.ARC/COMSWP13.COM","attr":"0x40","date":"1988-06-02 02:22:36","size":83},
+  {"hash":"f17a13183d2f2514da439837d7fbc99d","path":"/COMSET.ARC/COMSWP14.COM","attr":"0x40","date":"1988-06-02 01:58:48","size":83},
+  {"hash":"cbd508ec71fa67d0fc1e2804ef24874d","path":"/COMSET.ARC/COMSWP23.COM","attr":"0x40","date":"1988-06-02 02:24:58","size":83},
+  {"hash":"f3caff0f63f7002c6652297e57a7b466","path":"/COMSET.ARC/COMSWP24.COM","attr":"0x40","date":"1988-06-02 02:27:44","size":83},
+  {"hash":"9c062c7c70fefe6952b630aea349a828","path":"/PF2.ARC/COMMTEST.BAT","attr":"0x40","date":"1988-08-25 19:58:06","size":1627},
+  {"hash":"ec12ae2b03f314e76f5f95050fa233f9","path":"/PF2.ARC/PF.COM","attr":"0x40","date":"1988-09-08 15:40:54","size":4833},
+  {"hash":"dbc5bcf84c3a564ecc3ddec837ad585e","path":"/PF2.ARC/PF.DOC","attr":"0x40","date":"1988-09-07 17:11:04","size":7369},
+  {"hash":"390700d4d39af226512138b6f013a738","path":"/PF2.ARC/README.DOC","attr":"0x40","date":"1988-09-07 16:37:04","size":1266}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

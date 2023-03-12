@@ -37,7 +37,20 @@
   {"hash":"38e71961a57ddbfce06d569b64d8a9a1","path":"/ALTPAUSE.ZIP","attr":"0x20","date":"1992-01-14 12:18:38","size":693},
   {"hash":"897d03035f478c0ed33f5e782794666b","path":"/MRQUEE.ZIP","attr":"0x20","date":"1991-09-30 09:06:20","size":1305},
   {"hash":"d11d8cde80389186167a5efaabcf810e","path":"/PRREADY.C","attr":"0x20","date":"1992-01-14 12:42:28","size":1782},
-  {"hash":"c1a13743b143d0b6015db3ee5b7dc459","path":"/QBMENU.BAS","attr":"0x20","date":"1992-01-14 12:42:50","size":4083}
+  {"hash":"c1a13743b143d0b6015db3ee5b7dc459","path":"/QBMENU.BAS","attr":"0x20","date":"1992-01-14 12:42:50","size":4083},
+  {"hash":"10d4615e51223631ee6637861b8028dc","path":"/386STEP.ZIP/386STEP.ASM","attr":"0x40","date":"1992-01-14 20:26:18","size":7108},
+  {"hash":"5bde167f7ed09a959f0bee6346d69fab","path":"/386STEP.ZIP/386STEP.COM","attr":"0x40","date":"1991-11-02 05:02:40","size":276},
+  {"hash":"0d739884206678312e366be7c4f8c732","path":"/386STEP.ZIP/386STEP.SCR","attr":"0x40","date":"1991-11-02 20:11:56","size":1142},
+  {"hash":"cadf2979403d189d81adf626e47d99d6","path":"/ADDIT.ZIP/ADDIT.ASM","attr":"0x40","date":"1991-11-14 11:53:54","size":78159},
+  {"hash":"3addee97488691d09247934d8cb574fa","path":"/ADDIT.ZIP/ADDIT.COM","attr":"0x40","date":"1991-11-14 11:54:02","size":3762},
+  {"hash":"51139b9f8a4a466a31184bb76bbdd2f7","path":"/ADDIT.ZIP/ADDIT.DOC","attr":"0x40","date":"1992-01-10 22:14:46","size":4236},
+  {"hash":"4bd6b332c4ec018e703ce0c6c62540d7","path":"/ADDIT.ZIP/ADDIT.ZIF","attr":"0x40","date":"1991-11-14 12:00:12","size":307},
+  {"hash":"63cb32527e268fb43ad263b50ebe9221","path":"/ALTPAUSE.ZIP/ALTPAUS2.COM","attr":"0x40","date":"1991-10-18 18:04:40","size":22},
+  {"hash":"a38fe4ed381df6513806364d0c6f54a7","path":"/ALTPAUSE.ZIP/ALTPAUS2.SCR","attr":"0x40","date":"1991-06-10 17:17:04","size":154},
+  {"hash":"ed4c85683ab00cd35afaf0f63830c1e4","path":"/ALTPAUSE.ZIP/ALTPAUSE.COM","attr":"0x40","date":"1991-10-18 18:01:58","size":17},
+  {"hash":"96a44085af3dbaf15c1cf3a57444bb3b","path":"/ALTPAUSE.ZIP/ALTPAUSE.SCR","attr":"0x40","date":"1991-06-10 16:58:02","size":125},
+  {"hash":"293901b2c9322f46812120362087ced8","path":"/MRQUEE.ZIP/DELAYC.OBJ","attr":"0x40","date":"1991-07-23 21:21:58","size":275},
+  {"hash":"ead6553e366262cc7372a02ede96f0a1","path":"/MRQUEE.ZIP/MRQUEE.PRG","attr":"0x40","date":"1991-09-30 16:04:08","size":2055}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},
