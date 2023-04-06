@@ -1,5 +1,5 @@
 {
-  "@server": "/miscdisks",
+  "@server": "/disks/miscdisks",
   "app": {
     "@title": "Applications",
     "ibm": {
@@ -4969,8 +4969,11 @@
     "misc": {
       "@title": "Miscellaneous",
       "@versions": {
+        "pcsig": {
+          "@title": "PC-SIG Diskette Library"
+        },
         "pcsig08": {
-          "@title": "PC-SIG Library 8th Edition"
+          "@title": "PC-SIG CD-ROM (8th Edition)"
         },
         "scbc": {
           "@title": "Small Computer Book Club",
