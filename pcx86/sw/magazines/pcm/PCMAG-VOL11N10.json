@@ -4,7 +4,7 @@
   "name": "PCMAG-VOL11N10",
   "format": "PC160K",
   "hash": "b321dbba20fc9f5d1d22014215b86de8",
-  "checksum": -81073748,
+  "checksum": 4213893548,
   "cylinders": 40,
   "heads": 1,
   "trackDefault": 8,
@@ -42,17 +42,7 @@
   {"hash":"df542748fa072e8e02c05b3db1ea5414","path":"/SWAP.COM","attr":"0x20","date":"1992-05-04 10:24:02","size":20},
   {"hash":"29af1e13d1faea7bdfba991dc49336a0","path":"/SWAP.SCR","attr":"0x20","date":"1992-04-30 18:36:16","size":123},
   {"hash":"a8e73bcde8f59c1218c8a75b4af43801","path":"/WIN.BAT","attr":"0x20","date":"1991-10-02 15:56:08","size":137},
-  {"hash":"b0195a925c6edfa71d595fd3e02553f6","path":"/WINMOD.ZIP","attr":"0x20","date":"1992-02-26 01:00:00","size":7079},
-  {"hash":"7febcd3dc87ee5dcc2fc4e2310460257","path":"/DLGDEMO.ZIP/DLGDEMO.EXE","attr":"0x40","date":"1992-03-08 17:54:58","size":18299},
-  {"hash":"74472df7959bfe543d4dd4c41dbb0ceb","path":"/DLGDEMO.ZIP/DLGSRC.ZIP","attr":"0x40","date":"1992-05-04 18:53:26","size":6704},
-  {"hash":"3cc4aaa6b6c0059dba2b9edfd605fedc","path":"/SPRINT.ZIP/SPRINT.ASM","attr":"0x40","date":"1992-03-09 18:59:06","size":24972},
-  {"hash":"5e2fe3d6e20d3a8d68612448afaa2204","path":"/SPRINT.ZIP/SPRINT.COM","attr":"0x40","date":"1992-03-09 18:59:28","size":1661},
-  {"hash":"1734cf8338097ffa52dc6affd08dbf80","path":"/SPRINT.ZIP/SPRINT.DOC","attr":"0x40","date":"1992-05-01 01:11:40","size":1898},
-  {"hash":"5861d08889633cf351336db43c9b410f","path":"/STOD.ZIP/STOD.C","attr":"0x40","date":"1991-09-28 01:04:06","size":75},
-  {"hash":"b19f1ac06342701d7081f00af3e9694c","path":"/STOD.ZIP/STOD.OBJ","attr":"0x40","date":"1991-09-30 20:51:14","size":298},
-  {"hash":"aa762fd57693f8802eba8d32ffdd107d","path":"/WINMOD.ZIP/WINMODE","attr":"0x40","date":"1992-02-26 09:00:00","size":297},
-  {"hash":"ed50f53ef1c58c094a5e5ae910ac9a00","path":"/WINMOD.ZIP/WINMODE.C","attr":"0x40","date":"1992-02-26 09:00:00","size":2813},
-  {"hash":"686d2b09f608d935e2f1765e40e712a2","path":"/WINMOD.ZIP/WINMODE.EXE","attr":"0x40","date":"1992-02-26 09:00:00","size":8167}
+  {"hash":"b0195a925c6edfa71d595fd3e02553f6","path":"/WINMOD.ZIP","attr":"0x20","date":"1992-02-26 01:00:00","size":7079}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

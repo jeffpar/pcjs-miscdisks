@@ -4,7 +4,7 @@
   "name": "PCMAG-VOL09N10",
   "format": "PC320K",
   "hash": "377ca4cd9b5f5f983ee1c317889c7644",
-  "checksum": -689828982,
+  "checksum": 3605138314,
   "cylinders": 40,
   "heads": 2,
   "trackDefault": 8,
@@ -41,11 +41,7 @@
   {"hash":"80fd961ed34ef6dae21983d3e6d9fe7e","path":"/NUMBERS.PAS","attr":"0x20","date":"1989-11-04 15:09:56","size":8501},
   {"hash":"0ffcd69d7f787b5e757d16e748030577","path":"/PARAVIEW.EXE","attr":"0x20","date":"1990-03-26 12:11:46","size":109352},
   {"hash":"a88f8bd9217fad736234d8ea7c06c6f7","path":"/PRSTAT.COM","attr":"0x20","date":"1990-04-04 14:46:20","size":77},
-  {"hash":"f7202d629af7036450b233bf865571f6","path":"/THREADS1.ZIP","attr":"0x20","date":"1990-04-27 22:54:26","size":9339},
-  {"hash":"3cb46d3de8d3cb614cb22b5552ea5438","path":"/THREADS1.ZIP/THREADS1.C","attr":"0x40","date":"1990-01-10 07:52:02","size":12379},
-  {"hash":"86f613a5fed4ad1a9b4a833ddeb59478","path":"/THREADS1.ZIP/THREADS1.DEF","attr":"0x40","date":"1990-01-04 22:26:04","size":317},
-  {"hash":"8bbb6fc21f0d1701b7957fee28c7db1c","path":"/THREADS1.ZIP/THREADS1.EXE","attr":"0x40","date":"1990-01-10 07:52:28","size":7855},
-  {"hash":"d01eb5ab0746526f99c1ccf8a3c49abb","path":"/THREADS1.ZIP/THREADS1.MAK","attr":"0x40","date":"1990-01-04 22:25:54","size":244}
+  {"hash":"f7202d629af7036450b233bf865571f6","path":"/THREADS1.ZIP","attr":"0x20","date":"1990-04-27 22:54:26","size":9339}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

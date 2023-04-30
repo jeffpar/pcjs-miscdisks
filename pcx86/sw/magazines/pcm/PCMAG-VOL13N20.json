@@ -4,7 +4,7 @@
   "name": "PCMAG-VOL13N20",
   "format": "PC160K",
   "hash": "96ba944adbf2102862bb4714f737ad42",
-  "checksum": -98654243,
+  "checksum": 4196313053,
   "cylinders": 40,
   "heads": 1,
   "trackDefault": 8,
@@ -36,17 +36,7 @@
   {"hash":"c51b28dbfe6588f5eb997ad0db27dcf1","path":"/FIXPAR.BAT","attr":"0x20","date":"1994-11-02 17:56:00","size":474},
   {"hash":"cc21d7d747bb26a08f8962c65b238c4e","path":"/PCMKEY.COM","attr":"0x20","date":"1994-10-25 12:50:20","size":7796},
   {"hash":"1337496fd9abc38cd8e1cc11d18c37f8","path":"/PCMKEY.ZIP","attr":"0x20","date":"1994-10-25 12:50:20","size":34990},
-  {"hash":"5f8ae3d288864603f241c1f96e797d98","path":"/STACKC.ZIP","attr":"0x20","date":"1994-08-08 07:26:54","size":1556},
-  {"hash":"d1c5aaf1d4c5fd963a1e3a42eec1431b","path":"/contai.ZIP/CODE1.TXT","attr":"0x40","date":"1994-08-11 17:26:00","size":710},
-  {"hash":"addd3c82eb80ae3e79b7060b0a224b41","path":"/contai.ZIP/CODE2.TXT","attr":"0x40","date":"1994-08-11 17:27:02","size":632},
-  {"hash":"5e35134c409f4ddb83a22498dc8f80aa","path":"/contai.ZIP/CODE3.TXT","attr":"0x40","date":"1994-08-25 05:14:18","size":372},
-  {"hash":"f4981062e114e937684caaf7c4b3796e","path":"/contai.ZIP/CODE4.TXT","attr":"0x40","date":"1994-08-25 05:31:26","size":2621},
-  {"hash":"eeaf3b607c48dc6b91cb56915067606f","path":"/contai.ZIP/CODE5.TXT","attr":"0x40","date":"1994-08-11 17:35:46","size":3028},
-  {"hash":"df3ed1f7e6f4c7c7fa13c576acd6b74a","path":"/pcmkey.ZIP/PCMKEY.ASM","attr":"0x40","date":"1994-10-25 20:50:00","size":112874},
-  {"hash":"cc21d7d747bb26a08f8962c65b238c4e","path":"/pcmkey.ZIP/PCMKEY.COM","attr":"0x40","date":"1994-10-25 20:50:20","size":7796},
-  {"hash":"3886c11cdb18bb54fb987029796c8efc","path":"/pcmkey.ZIP/PCMKEY.DOC","attr":"0x40","date":"1994-10-25 17:15:56","size":6154},
-  {"hash":"8b1efa92a4452840889b768fa6ae087d","path":"/stackc.ZIP/STACKCHK.COM","attr":"0x40","date":"1994-08-08 15:26:54","size":560},
-  {"hash":"096875c10b520ab71a56e72b9b9fd736","path":"/stackc.ZIP/STACKCHK.SCR","attr":"0x40","date":"1994-08-08 15:26:20","size":2274}
+  {"hash":"5f8ae3d288864603f241c1f96e797d98","path":"/STACKC.ZIP","attr":"0x20","date":"1994-08-08 07:26:54","size":1556}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

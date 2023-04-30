@@ -49,22 +49,7 @@
   {"hash":"5cf45c3eb73bf49af327fa090b30cc0c","path":"/QUICKFMT.BAT","attr":"0x20","date":"1988-11-21 11:46:56","size":242},
   {"hash":"85f396056ddc7159fb65cba9ed414296","path":"/QWRITE.C","attr":"0x20","date":"1988-07-18 09:33:24","size":1816},
   {"hash":"cbba3afd264b618f80435fb222d1f2fe","path":"/SHOWARGS.ARC","attr":"0x20","date":"1988-10-06 15:02:02","size":3687},
-  {"hash":"8f63aacd30dda44b8a1b00c6211a54c9","path":"/SIDEWRIT.BAS","attr":"0x20","date":"1988-11-21 10:31:46","size":3666},
-  {"hash":"c6b4e2201ee031705f601b62718fd078","path":"/MOUSDEMO.ARC/MOUSDEMO","attr":"0x40","date":"1988-08-21 02:15:26","size":225},
-  {"hash":"2489ac1aa69400360cea06ccbfd4e75d","path":"/MOUSDEMO.ARC/MOUSDEMO.C","attr":"0x40","date":"1988-11-27 13:12:22","size":3769},
-  {"hash":"5f3a558c70006868b962a9733015a0c9","path":"/MOUSDEMO.ARC/MOUSDEMO.DEF","attr":"0x40","date":"1988-08-21 02:29:20","size":321},
-  {"hash":"9bb8e7c0a6aaa5351f9276673ca34d99","path":"/MOUSDEMO.ARC/MOUSDEMO.EXE","attr":"0x40","date":"1988-11-27 13:19:12","size":8117},
-  {"hash":"205d96ff0aff0eff8ec292604c5eb93f","path":"/PP722.ARC/ARGC.ASM","attr":"0x40","date":"1988-10-06 22:01:24","size":2786},
-  {"hash":"c302509a8ee5a209f39a2eb0ca4a5843","path":"/PP722.ARC/ARGV.ASM","attr":"0x40","date":"1988-10-06 22:01:38","size":5067},
-  {"hash":"863356b796298c4d1fb2f11be307e647","path":"/PP722.ARC/SHOWARGS","attr":"0x40","date":"1988-09-15 16:39:42","size":265},
-  {"hash":"cbba3afd264b618f80435fb222d1f2fe","path":"/PP722.ARC/SHOWARGS.ARC","attr":"0x40","date":"1988-10-06 22:02:02","size":3687},
-  {"hash":"fd7e95412a4385f2fdbbfaab447171d6","path":"/PP722.ARC/SHOWARGS.ASM","attr":"0x40","date":"1988-10-06 22:02:02","size":4311},
-  {"hash":"61fe1cfb7ff23b560461cddba3f6ee2b","path":"/PP722.ARC/SHOWARGS.DEF","attr":"0x40","date":"1988-09-15 16:39:42","size":56},
-  {"hash":"a56e5a1d5f4bead8dc9af57a44a29a84","path":"/PP722.ARC/SHOWARGS.EXE","attr":"0x40","date":"1988-09-15 16:39:42","size":2589},
-  {"hash":"863356b796298c4d1fb2f11be307e647","path":"/SHOWARGS.ARC/SHOWARGS","attr":"0x40","date":"1988-09-15 16:39:42","size":265},
-  {"hash":"fd7e95412a4385f2fdbbfaab447171d6","path":"/SHOWARGS.ARC/SHOWARGS.ASM","attr":"0x40","date":"1988-10-06 22:02:02","size":4311},
-  {"hash":"61fe1cfb7ff23b560461cddba3f6ee2b","path":"/SHOWARGS.ARC/SHOWARGS.DEF","attr":"0x40","date":"1988-09-15 16:39:42","size":56},
-  {"hash":"a56e5a1d5f4bead8dc9af57a44a29a84","path":"/SHOWARGS.ARC/SHOWARGS.EXE","attr":"0x40","date":"1988-09-15 16:39:42","size":2589}
+  {"hash":"8f63aacd30dda44b8a1b00c6211a54c9","path":"/SIDEWRIT.BAS","attr":"0x20","date":"1988-11-21 10:31:46","size":3666}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

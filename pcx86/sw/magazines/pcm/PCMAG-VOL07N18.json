@@ -52,18 +52,7 @@
   {"hash":"9a32197dfc3bfb0f9fef550170a0fe60","path":"/XPANDISK.ASM","attr":"0x20","date":"1988-10-31 00:00:00","size":38309},
   {"hash":"0d8f75f9567273d334b7e36c958bd996","path":"/XPANDISK.BAS","attr":"0x20","date":"1988-10-31 00:00:00","size":10335},
   {"hash":"118506d454b67b9d08b3838f9ee09de7","path":"/XPANDISK.DOC","attr":"0x20","date":"1988-09-19 14:45:54","size":2121},
-  {"hash":"11dd1d5985813e3f44c288cb96ca3add","path":"/XPANDISK.SYS","attr":"0x20","date":"1988-10-31 00:00:00","size":1876},
-  {"hash":"5c562cdcf7a54587761c6c53b807dab1","path":"/ASC2PS.ZIP/ASC2PS","attr":"0x40","date":"1988-07-10 21:58:22","size":512},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/ASC2PS.ZIP/ASC2PS.ASM","attr":"0x40","date":"2023-03-02 20:02:40"},
-  {"hash":"3e32fc433ccd7ca8e46f5ac606246155","path":"/ASC2PS.ZIP/ASC2PS.DEF","attr":"0x40","date":"1988-07-03 02:15:16","size":384},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/ASC2PS.ZIP/ASC2PS.EXE","attr":"0x40","date":"2023-03-02 20:02:40"},
-  {"hash":"54dc5211e6dc8414b7452f3d4363b28a","path":"/ASC2PSD.ZIP/ASC2PSD","attr":"0x40","date":"1988-07-03 02:14:26","size":384},
-  {"hash":"a4bce23b684194ff8834fdd6dd216fa1","path":"/ASC2PSD.ZIP/ASC2PSD.EXE","attr":"0x40","date":"1988-07-10 21:58:56","size":1390},
-  {"hash":"a73eedd50e886b1280974acacb613890","path":"/ASC2PSO.ZIP/ASC2PSO","attr":"0x40","date":"1988-07-10 21:03:58","size":384},
-  {"hash":"4265b9efe4052760433f4bd71540c837","path":"/ASC2PSO.ZIP/ASC2PSO.DEF","attr":"0x40","date":"1988-07-03 02:15:32","size":384},
-  {"hash":"67bfee9b67ffe96c031f7cfec7959bf5","path":"/ASC2PSO.ZIP/ASC2PSO.EXE","attr":"0x40","date":"1988-07-10 21:59:14","size":1085},
-  {"hash":"c9473c8ddefc9f90f3ff3083e50c1842","path":"/PP718.ZIP/TRYSTR.C","attr":"0x40","date":"1988-08-03 20:15:56","size":1744},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PP718.ZIP/TRYSTR.EXE","attr":"0x40","date":"2023-03-02 20:02:40"}
+  {"hash":"11dd1d5985813e3f44c288cb96ca3add","path":"/XPANDISK.SYS","attr":"0x20","date":"1988-10-31 00:00:00","size":1876}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

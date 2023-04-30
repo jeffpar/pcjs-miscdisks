@@ -4,7 +4,7 @@
   "name": "PCMAG-VOL12N12",
   "format": "PC160K",
   "hash": "cac51ec5f11268d21caf701eadaef684",
-  "checksum": -1286815843,
+  "checksum": 3008151453,
   "cylinders": 40,
   "heads": 1,
   "trackDefault": 8,
@@ -41,16 +41,7 @@
   {"hash":"81dcf9cc76878c95f52149658b412d71","path":"/PECHO.BAT","attr":"0x20","date":"1992-10-07 15:35:30","size":427},
   {"hash":"4131a5336bc50ddf049bf0dbc3f4b376","path":"/PRNECHO.COM","attr":"0x20","date":"1992-10-07 15:34:00","size":20},
   {"hash":"4c7d07f0eee22da3d84809e7815a328b","path":"/PRNXECHO.COM","attr":"0x20","date":"1992-10-07 15:34:02","size":20},
-  {"hash":"076bbbb154f6be320f02bdf8c30da61c","path":"/PRTSCR.PRG","attr":"0x20","date":"1993-02-20 14:41:58","size":3414},
-  {"hash":"9678494f4eaa0c80354a2ba3ce4ee019","path":"/PCMASM.ZIP/AMICONV.INC","attr":"0x40","date":"1993-05-22 18:45:04","size":8753},
-  {"hash":"13d29288b958c526eb9de7712ef3714f","path":"/PCMASM.ZIP/PCMCVT.ASM","attr":"0x40","date":"1993-05-29 16:53:40","size":26894},
-  {"hash":"2a88173cbec4309bd3516a6b4daa733d","path":"/PCMASM.ZIP/PCMDATA.INC","attr":"0x40","date":"1993-05-29 16:46:58","size":7968},
-  {"hash":"2490d9c0ec32f424aecea341ce0b396c","path":"/PCMASM.ZIP/SEARCH.INC","attr":"0x40","date":"1993-05-22 18:45:54","size":3417},
-  {"hash":"4c489d5d5202844777c33cfbcc1b67c7","path":"/PCMASM.ZIP/W4DCONV.INC","attr":"0x40","date":"1993-05-22 18:46:22","size":3425},
-  {"hash":"387b59f9490227a34e51e75dfcd5089c","path":"/PCMASM.ZIP/W4WCONV.INC","attr":"0x40","date":"1993-05-22 18:50:06","size":5172},
-  {"hash":"b1aa980e148463fc63942e44fa5e30cb","path":"/PCMASM.ZIP/WORDWRAP.INC","attr":"0x40","date":"1993-04-22 17:55:18","size":7456},
-  {"hash":"322a2101ab8958a9cc02a13a795ec8ba","path":"/PCMASM.ZIP/WP51CONV.INC","attr":"0x40","date":"1993-05-29 17:00:06","size":7321},
-  {"hash":"4065cc86a642f38ecad3f66ec649ec53","path":"/PCMASM.ZIP/WRICONV.INC","attr":"0x40","date":"1993-04-22 18:11:06","size":3374}
+  {"hash":"076bbbb154f6be320f02bdf8c30da61c","path":"/PRTSCR.PRG","attr":"0x20","date":"1993-02-20 14:41:58","size":3414}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

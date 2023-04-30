@@ -41,20 +41,7 @@
   {"hash":"f70c70da9223afdf8fe9f9592bc1b83d","path":"/SPEEDSAV.BAS","attr":"0x20","date":"1991-03-04 14:48:10","size":289},
   {"hash":"a18bf39d6829459c63283290d9529280","path":"/TBOOK.SCR","attr":"0x20","date":"1991-03-04 14:48:34","size":649},
   {"hash":"6677df5d644ac6b8d49ffc20c67c92f2","path":"/TILE.XLM","attr":"0x20","date":"1991-01-09 14:36:28","size":2755},
-  {"hash":"0b1602f5178eee9cdf4fe96348840b32","path":"/UNIQUE.ZIP","attr":"0x20","date":"1991-03-04 14:21:08","size":5142},
-  {"hash":"2eecd45f46df91930633c84d47897241","path":"/ENCORE.ZIP/ENCORE.ASM","attr":"0x40","date":"1991-02-28 20:55:14","size":21282},
-  {"hash":"7acc1bfcddf4f717fedaab8f5fa1746e","path":"/ENCORE.ZIP/ENCORE.BAS","attr":"0x40","date":"1991-03-01 21:13:22","size":10497},
-  {"hash":"c106bd09d4724df1a47ad140217c8782","path":"/ENCORE.ZIP/ENCORE.COM","attr":"0x40","date":"1991-01-31 11:19:40","size":1920},
-  {"hash":"8f9975f2e5ce633cace52aad696fddcb","path":"/ENCORE.ZIP/ENCORE.DOC","attr":"0x40","date":"1991-03-04 22:30:44","size":2303},
-  {"hash":"c633e37782c242b7da095eb7a35aaae4","path":"/PALETTE.ZIP/ALLCOLOR.ZIP","attr":"0x40","date":"1991-03-04 22:16:54","size":5558},
-  {"hash":"3bd4ff7acfa5c0974354e913096dd995","path":"/PALETTE.ZIP/FADER.ZIP","attr":"0x40","date":"1991-03-04 22:17:34","size":5154},
-  {"hash":"f3e05c79b22dde1faabbaaf8e0cc55df","path":"/PALETTE.ZIP/PIPES.ZIP","attr":"0x40","date":"1991-03-04 22:17:54","size":6066},
-  {"hash":"fa7584692ff265720492b00064ba9dc7","path":"/PALETTE.ZIP/TUNNEL.ZIP","attr":"0x40","date":"1991-03-04 22:20:40","size":5676},
-  {"hash":"2cb722530f88232520394d71402e9b8d","path":"/UNIQUE.ZIP/UNIQUE.ASM","attr":"0x40","date":"1989-12-02 20:13:04","size":7086},
-  {"hash":"2f1dd55becab4c5d7e193a0dec2d2e85","path":"/UNIQUE.ZIP/UNIQUE.COM","attr":"0x40","date":"1989-12-02 20:13:10","size":1299},
-  {"hash":"a10102952a3d13674996703dad36e49a","path":"/UNIQUE.ZIP/UNIQUESM.ASM","attr":"0x40","date":"1989-12-02 19:56:58","size":723},
-  {"hash":"0ef39bcc9e361833da7c0d57b309c915","path":"/UNIQUE.ZIP/UNIQUESM.COM","attr":"0x40","date":"1989-12-02 19:57:32","size":90},
-  {"hash":"8ae1053fd0b999be47147df61789cdbd","path":"/UNIQUE.ZIP/UNIQUESM.SCR","attr":"0x40","date":"1989-12-02 19:54:50","size":1783}
+  {"hash":"0b1602f5178eee9cdf4fe96348840b32","path":"/UNIQUE.ZIP","attr":"0x20","date":"1991-03-04 14:21:08","size":5142}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

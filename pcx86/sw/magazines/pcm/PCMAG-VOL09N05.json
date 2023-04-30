@@ -38,21 +38,7 @@
   {"hash":"00128eaac86076e0f9bfe2d782616852","path":"/ANSIX.SCR","attr":"0x20","date":"1989-04-25 10:49:46","size":846},
   {"hash":"081780c381615415988a93a5cf533948","path":"/BPB.SCR","attr":"0x20","date":"1990-02-07 10:05:12","size":543},
   {"hash":"ce84294e932f431d04c514919027f4c6","path":"/NEEDANSI.BAT","attr":"0x20","date":"1989-04-27 10:11:44","size":394},
-  {"hash":"9cc84ac6268b5c0282c35a5fde92a86c","path":"/PP905.ARC","attr":"0x20","date":"1990-02-07 10:12:54","size":26189},
-  {"hash":"039134ae0e244ea53224f60e02438244","path":"/PP905.ARC/ATOF.ASM","attr":"0x40","date":"1989-10-26 20:50:10","size":4687},
-  {"hash":"90f52bf02ecba2654c99119ac5e3b929","path":"/PP905.ARC/ATOF.OBJ","attr":"0x40","date":"1989-10-28 18:54:52","size":835},
-  {"hash":"d2fb3b347a5addc421f52370a59aabd4","path":"/PP905.ARC/FALOG.ASM","attr":"0x40","date":"1989-10-26 20:50:02","size":2710},
-  {"hash":"a8c8a1566185e0a9c0c75305c692b001","path":"/PP905.ARC/FALOG.OBJ","attr":"0x40","date":"1989-10-28 18:54:54","size":389},
-  {"hash":"e4d681b1a7eb00634baee9f5c2794ac7","path":"/PP905.ARC/FTOA.ASM","attr":"0x40","date":"1989-10-26 20:50:08","size":10702},
-  {"hash":"decb005d0ab0fa5fc32b3a81889d0783","path":"/PP905.ARC/FTOA.OBJ","attr":"0x40","date":"1989-10-28 18:54:50","size":2439},
-  {"hash":"ff96c12e81d81334bcda7567a0f4f726","path":"/PP905.ARC/FTRIG.ASM","attr":"0x40","date":"1989-10-26 20:50:04","size":10675},
-  {"hash":"1cbe7c3960f8b869d32742c4c3c533b8","path":"/PP905.ARC/FTRIG.OBJ","attr":"0x40","date":"1989-10-28 18:54:56","size":2311},
-  {"hash":"0f7a3596e980414f1e1ad5b874a1062a","path":"/PP905.ARC/INIT87.ASM","attr":"0x40","date":"1989-09-27 00:33:06","size":1505},
-  {"hash":"50c1fbfdaeab0da5a66a8e6aa81060ab","path":"/PP905.ARC/INIT87.OBJ","attr":"0x40","date":"1989-10-28 18:54:58","size":274},
-  {"hash":"5bd92ab8d8513c627bec2453ef016e86","path":"/PP905.ARC/TRYFTRIG","attr":"0x40","date":"1989-10-27 19:28:54","size":405},
-  {"hash":"1ca98beac60ec55a6905c524021ec723","path":"/PP905.ARC/TRYFTRIG.ASM","attr":"0x40","date":"1989-10-28 18:52:16","size":6711},
-  {"hash":"86e3f64a296a5273bc36119620ba0f53","path":"/PP905.ARC/TRYFTRIG.EXE","attr":"0x40","date":"1989-10-28 18:55:04","size":6330},
-  {"hash":"a670bd1cd3e9aea290119bc49c404e1e","path":"/PP905.ARC/TRYFTRIG.OBJ","attr":"0x40","date":"1989-10-28 18:55:00","size":1858}
+  {"hash":"9cc84ac6268b5c0282c35a5fde92a86c","path":"/PP905.ARC","attr":"0x20","date":"1990-02-07 10:12:54","size":26189}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

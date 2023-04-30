@@ -46,20 +46,7 @@
   {"hash":"8d9c5e6382213186db43e00e7de6aab8","path":"/TED.DOC","attr":"0x20","date":"1988-10-11 09:33:48","size":2380},
   {"hash":"50d9e780d736b7084be0308a2715e69f","path":"/USER_LOG.BAT","attr":"0x20","date":"1988-07-18 11:55:50","size":404},
   {"hash":"677a8c9093097b7c1d45337c2e54d04f","path":"/WIPE.BAT","attr":"0x20","date":"1988-10-11 09:41:06","size":334},
-  {"hash":"e7b34530f5d6ec210a16de6d512f66fd","path":"/WIPE2.BAT","attr":"0x20","date":"1988-10-11 09:42:06","size":437},
-  {"hash":"6e32b4bcfc728767e42a383ac83a2414","path":"/ENV719.ZIP/FSHELLO.C","attr":"0x40","date":"1988-07-18 08:04:50","size":1067},
-  {"hash":"5605c1ee3906c32b01a17df2dccc9d86","path":"/ENV719.ZIP/HELLO.C","attr":"0x40","date":"1988-07-18 08:04:58","size":255},
-  {"hash":"dd1e731395f4884c7406997b2a191c49","path":"/ENV719.ZIP/PMHELLO","attr":"0x40","date":"1988-07-17 07:30:44","size":649},
-  {"hash":"978eb048e6f3ee9ef7cd6ef0e4557db4","path":"/ENV719.ZIP/PMHELLO.C","attr":"0x40","date":"1988-07-18 08:17:50","size":1295},
-  {"hash":"ace67734e023cbac2b197697722bc779","path":"/ENV719.ZIP/PMHELLO.DEF","attr":"0x40","date":"1988-07-17 07:20:56","size":284},
-  {"hash":"49ae6e3f2878c664853e8bdf5e2affa0","path":"/ENV719.ZIP/PMHELLO1.C","attr":"0x40","date":"1988-07-18 08:05:16","size":966},
-  {"hash":"0e50759e3f5b37fa2f8e53adbfc68e70","path":"/ENV719.ZIP/PMHELLO2.C","attr":"0x40","date":"1988-07-18 08:05:22","size":1553},
-  {"hash":"1ecacd6712396993589bb7a34d57c386","path":"/ENV719.ZIP/PMHELLO3.C","attr":"0x40","date":"1988-07-18 08:05:28","size":1751},
-  {"hash":"8dc8e3782016a2f03527da0831d95aa4","path":"/PP719.ZIP/ITOH.ASM","attr":"0x40","date":"1988-07-26 20:58:58","size":1517},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PP719.ZIP/STRINGS1.ASM","attr":"0x40","date":"2023-03-02 20:02:40"},
-  {"hash":"1f3a8a0edb20a406a84d055ca00ed89f","path":"/PP719.ZIP/TRYSTR","attr":"0x40","date":"1988-07-25 01:27:52","size":226},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PP719.ZIP/TRYSTR.ASM","attr":"0x40","date":"2023-03-02 20:02:40"},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PP719.ZIP/TRYSTR.EXE","attr":"0x40","date":"2023-03-02 20:02:40"}
+  {"hash":"e7b34530f5d6ec210a16de6d512f66fd","path":"/WIPE2.BAT","attr":"0x20","date":"1988-10-11 09:42:06","size":437}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

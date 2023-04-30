@@ -36,19 +36,7 @@
   {"hash":"63bb352052c222251f74fd2ea1468e4b","path":"/SCHED.ZIP","attr":"0x20","date":"1994-11-30 15:49:18","size":38420},
   {"hash":"4b97f8a8b894849cb04f0bada1473cb3","path":"/SEHDUMP.ZIP","attr":"0x20","date":"1994-08-15 10:18:46","size":4685},
   {"hash":"620f54f34c9cfd0d4184fb13573d17ac","path":"/VPRTSC.ZIP","attr":"0x20","date":"1994-11-30 16:03:52","size":540},
-  {"hash":"78e28c4a31f7ddb075ea83d2c1fb5c46","path":"/WORDSC.ZIP","attr":"0x20","date":"1994-11-30 15:56:18","size":926},
-  {"hash":"1c1dbe256a0f5012181d3c462469bad1","path":"/sched.ZIP/SCHED.DOC","attr":"0x40","date":"1994-10-25 17:16:26","size":2228},
-  {"hash":"2e4a97b917db71c3e01fe256748e5490","path":"/sched.ZIP/SCHED.EXE","attr":"0x40","date":"1994-11-27 18:41:58","size":22432},
-  {"hash":"349033fc35e867c2c9c15aba34506551","path":"/sched.ZIP/SCHEDC.ZIP","attr":"0x40","date":"1994-11-30 23:46:08","size":25678},
-  {"hash":"7e969e8347f1d69ee252c84eb6b0cedb","path":"/sehdump.ZIP/README.TXT","attr":"0x40","date":"1994-08-12 19:38:28","size":144},
-  {"hash":"7b0018050c3dbc1000e6f8c5f65fb864","path":"/sehdump.ZIP/SEHDUMP.CPP","attr":"0x40","date":"1994-08-12 19:36:30","size":3308},
-  {"hash":"68acf1f4195e7bc9685440572c857efb","path":"/sehdump.ZIP/SEHDUMP.EXE","attr":"0x40","date":"1994-08-12 19:37:34","size":4608},
-  {"hash":"3cd238b7701cd50013ca5c9ac8681acb","path":"/sehdump.ZIP/SEHDUMP.MAK","attr":"0x40","date":"1994-08-12 17:18:38","size":4536},
-  {"hash":"f14edfa8c7014248698d912e3d3cb997","path":"/vprtsc.ZIP/VPRTSCD.386","attr":"0x40","date":"1994-08-30 21:15:54","size":4687},
-  {"hash":"4ceff7a144d96f368a801743ae4dece8","path":"/wordsc.ZIP/CLOSE.WCM","attr":"0x40","date":"1994-11-30 23:55:20","size":101},
-  {"hash":"54a821d92a34c11ab5168fd5c8dd3587","path":"/wordsc.ZIP/CLOSE2.WCM","attr":"0x40","date":"1994-11-30 23:55:32","size":190},
-  {"hash":"1ab381141c01ee5a1d68a920b9b8b4d6","path":"/wordsc.ZIP/WORD.WCM","attr":"0x40","date":"1994-11-30 23:55:44","size":155},
-  {"hash":"29f3753c3c5873b853b8dac9bc3c229d","path":"/wordsc.ZIP/WORD2.WCM","attr":"0x40","date":"1994-11-30 23:55:56","size":337}
+  {"hash":"78e28c4a31f7ddb075ea83d2c1fb5c46","path":"/WORDSC.ZIP","attr":"0x20","date":"1994-11-30 15:56:18","size":926}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

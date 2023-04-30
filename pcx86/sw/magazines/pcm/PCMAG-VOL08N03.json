@@ -4,7 +4,7 @@
   "name": "PCMAG-VOL08N03",
   "format": "PC160K",
   "hash": "738b4d611b3b732cc495137f1e33fc59",
-  "checksum": -1550685721,
+  "checksum": 2744281575,
   "cylinders": 40,
   "heads": 1,
   "trackDefault": 8,
@@ -46,16 +46,7 @@
   {"hash":"dbbf78747f65215439de4543f3de450e","path":"/TIMEBOMB.BAT","attr":"0x20","date":"1989-01-09 14:51:00","size":132},
   {"hash":"69930d1483a2867004a3f5d9d959bedd","path":"/TSO.C","attr":"0x20","date":"1988-10-05 14:18:30","size":1682},
   {"hash":"11a731c0085185f5c78da96f12962aab","path":"/WHATEVER.EX1","attr":"0x20","date":"1988-10-06 12:55:40","size":457},
-  {"hash":"7700989050840c6b4d1e3542e3e9bcf1","path":"/WHATEVER.EX2","attr":"0x20","date":"1988-10-06 12:56:06","size":520},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PP803.ZIP/QFN.ASM","attr":"0x40","date":"2023-03-02 20:02:40"},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PP803.ZIP/QFN.C","attr":"0x40","date":"2023-03-02 20:02:40"},
-  {"hash":"bb36e5681b9d2532632930dea9c62feb","path":"/PP803.ZIP/TRYQFN","attr":"0x40","date":"1989-02-14 08:00:00","size":166},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PP803.ZIP/TRYQFN.ASM","attr":"0x40","date":"2023-03-02 20:02:40"},
-  {"hash":"e348c9de4197a3635c1829e6f99949c9","path":"/PP803.ZIP/TRYQFN.C","attr":"0x40","date":"1989-02-14 08:00:00","size":906},
-  {"hash":"62220e8b0e8bcf093cb186c4486d061c","path":"/PP803.ZIP/TRYQFN.DEF","attr":"0x40","date":"1989-02-14 08:00:00","size":54},
-  {"hash":"396dadc8eaae2c66933318edf0ef1690","path":"/PP803.ZIP/TRYQFN.EXE","attr":"0x40","date":"1989-02-14 08:00:00","size":1507},
-  {"hash":"6cfbcd501528fd2822c94b46acb7a698","path":"/PP803.ZIP/TRYQFN.MAP","attr":"0x40","date":"1989-02-14 08:00:00","size":242},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PP803.ZIP/TRYQFN.OBJ","attr":"0x40","date":"2023-03-02 20:02:40"}
+  {"hash":"7700989050840c6b4d1e3542e3e9bcf1","path":"/WHATEVER.EX2","attr":"0x20","date":"1988-10-06 12:56:06","size":520}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

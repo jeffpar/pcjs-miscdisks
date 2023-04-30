@@ -4,7 +4,7 @@
   "name": "PCMAG-VOL12N10",
   "format": "PC160K",
   "hash": "bfbe9c178f6ef849791ef9ba076f7283",
-  "checksum": -157965970,
+  "checksum": 4137001326,
   "cylinders": 40,
   "heads": 1,
   "trackDefault": 8,
@@ -52,18 +52,7 @@
   {"hash":"2b13b54e5603c0a0f2da311a62b5a972","path":"/VERBOSMB.PAS","attr":"0x20","date":"1992-11-27 11:56:04","size":2755},
   {"hash":"a367aca3892d0994581074c1fd8b9e3a","path":"/WCLIB.DOC","attr":"0x20","date":"1993-04-26 00:00:00","size":36447},
   {"hash":"7d7084d7c8418d4ea343fbd92a3502d2","path":"/WCLIB.WCL","attr":"0x20","date":"1993-04-26 23:17:14","size":13232},
-  {"hash":"bf426b4f70bb825243985d874f0c069c","path":"/WCLIBC.ZIP","attr":"0x20","date":"1993-04-26 23:21:52","size":19383},
-  {"hash":"a317d8c66151e4de04f360878baa269c","path":"/WCLIBC.ZIP/MAKELIB.MSC","attr":"0x40","date":"1993-04-27 06:16:44","size":2217},
-  {"hash":"6e1756cf9a69b2e9d5987c4801ed177d","path":"/WCLIBC.ZIP/MCITEST.WCM","attr":"0x40","date":"1993-03-06 22:01:38","size":647},
-  {"hash":"7413dc30fb634bd0d1334aaf824c692b","path":"/WCLIBC.ZIP/WCLIB.C","attr":"0x40","date":"1993-04-22 21:47:46","size":34494},
-  {"hash":"5b8e0f6d4a4ce6a6b5b8b8467a654e09","path":"/WCLIBC.ZIP/WCLIB.DEF","attr":"0x40","date":"1993-04-15 21:11:16","size":793},
-  {"hash":"b3abf19d8698ceee0318e19e5070dbd0","path":"/WCLIBC.ZIP/WCLIB.H","attr":"0x40","date":"1993-04-16 00:21:56","size":759},
-  {"hash":"cc6b6ed4959531de6daf943461760405","path":"/WCLIBC.ZIP/WCLIB.ICO","attr":"0x40","date":"1992-09-22 20:43:56","size":766},
-  {"hash":"249dba28c779b8bab6ace842ccec1ad5","path":"/WCLIBC.ZIP/WCLIB.OBJ","attr":"0x40","date":"1993-04-27 06:17:12","size":8506},
-  {"hash":"9e1864d20d3ddfdf3e8ed6ccd1dbf5aa","path":"/WCLIBC.ZIP/WCLIB.RC","attr":"0x40","date":"1993-04-27 06:13:42","size":5120},
-  {"hash":"dc8f40451cf7fd0012234d0e92093b70","path":"/WCLIBC.ZIP/WCLIB.RES","attr":"0x40","date":"1993-04-27 06:14:10","size":4000},
-  {"hash":"b14c79f95b12ab4a8d8478425bd14668","path":"/WCLIBC.ZIP/WINCMD.H","attr":"0x40","date":"1993-04-16 00:09:22","size":9327},
-  {"hash":"188abc945a740d72cb7c226add4a84ce","path":"/WCLIBC.ZIP/WORDFIX.WCM","attr":"0x40","date":"1993-04-27 06:21:52","size":1590}
+  {"hash":"bf426b4f70bb825243985d874f0c069c","path":"/WCLIBC.ZIP","attr":"0x20","date":"1993-04-26 23:21:52","size":19383}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

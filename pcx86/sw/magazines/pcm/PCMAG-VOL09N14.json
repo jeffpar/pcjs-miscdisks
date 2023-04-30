@@ -4,7 +4,7 @@
   "name": "PCMAG-VOL09N14",
   "format": "PC160K",
   "hash": "dcffbb1d67d058146296a23f64ffbcad",
-  "checksum": -862123070,
+  "checksum": 3432844226,
   "cylinders": 40,
   "heads": 1,
   "trackDefault": 8,
@@ -42,11 +42,7 @@
   {"hash":"60fa3d0643743356a213ea51261ffa86","path":"/WARMBOOT.COM","attr":"0x20","date":"1990-07-03 11:36:02","size":17},
   {"hash":"0b1f86aa9ed4c0019d8779f2b7f13f41","path":"/WC.C","attr":"0x20","date":"1990-07-03 11:02:30","size":4962},
   {"hash":"dff01af36a5f87ec6201536f4af2ee00","path":"/WC.EXE","attr":"0x20","date":"1990-03-27 13:23:20","size":12334},
-  {"hash":"8fcb051b4345e993a24b829f175e4ad0","path":"/ZIPNGO.BAT","attr":"0x20","date":"1990-07-03 10:56:48","size":640},
-  {"hash":"1090c84c7e39ece34978ff68fd06e5c8","path":"/BAT2EXEC.ZIP/BAT2EXEC.ASM","attr":"0x40","date":"1990-05-17 19:46:34","size":108994},
-  {"hash":"73fdacf5f1ef9b72ca3e11513e2a2cfd","path":"/BAT2EXEC.ZIP/BAT2EXEC.BAS","attr":"0x40","date":"1990-07-03 18:43:30","size":30909},
-  {"hash":"9c65cdfa3669b02b0fc2d385f1f6abcf","path":"/BAT2EXEC.ZIP/BAT2EXEC.COM","attr":"0x40","date":"1990-04-23 08:30:52","size":5944},
-  {"hash":"e91586740636c1e55435bbfa2fb98f48","path":"/BAT2EXEC.ZIP/BAT2EXEC.DOC","attr":"0x40","date":"1990-07-03 18:30:36","size":3067}
+  {"hash":"8fcb051b4345e993a24b829f175e4ad0","path":"/ZIPNGO.BAT","attr":"0x20","date":"1990-07-03 10:56:48","size":640}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

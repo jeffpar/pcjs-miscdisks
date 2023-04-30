@@ -42,17 +42,7 @@
   {"hash":"08aca24a1399b96a07047333dbe2ba4f","path":"/PRTRNG.WK1","attr":"0x20","date":"1990-11-06 21:57:22","size":8896},
   {"hash":"ce6c61667b50bfcdb5cf0c8bc227057a","path":"/STAMP.WPM","attr":"0x20","date":"1990-10-02 15:13:30","size":249},
   {"hash":"5d02c04712a8451ba3376bb3333230e1","path":"/XLWSPEC.XLM","attr":"0x20","date":"1990-11-04 22:00:16","size":1530},
-  {"hash":"d61f5533df821adf86e6bd838689e249","path":"/XLWSPEC2.XLM","attr":"0x20","date":"1991-01-03 15:13:22","size":1647},
-  {"hash":"8ee29f1422144a631c2a9f7e4617840a","path":"/CLRCUBE.ZIP/CLRCUBE.C","attr":"0x40","date":"1990-10-29 01:10:32","size":7979},
-  {"hash":"e6c9176f5540b9a909bbcbadcecee70c","path":"/CLRCUBE.ZIP/CLRCUBE.DEF","attr":"0x40","date":"1990-10-28 22:08:36","size":414},
-  {"hash":"9def5ba4c606ff537ea858d119b5f008","path":"/CLRCUBE.ZIP/CLRCUBE.EXE","attr":"0x40","date":"1990-10-31 05:35:34","size":7088},
-  {"hash":"455be2bd64d925bd57cce5485e596185","path":"/CLRCUBE.ZIP/CLRCUBE.H","attr":"0x40","date":"1990-10-31 05:34:30","size":132},
-  {"hash":"784e2617db8d53ddbf23d42ae8881990","path":"/CLRCUBE.ZIP/CLRCUBE.MAK","attr":"0x40","date":"1990-10-28 22:08:16","size":351},
-  {"hash":"94058e89faf91d456fc8e4e195460e0c","path":"/CLRCUBE.ZIP/CLRCUBE.RC","attr":"0x40","date":"1990-10-31 05:34:24","size":304},
-  {"hash":"89cb3f356e889381f6ae4c29932984c6","path":"/JOURNAL.ZIP/JOURNAL.ASM","attr":"0x40","date":"1991-01-03 18:08:56","size":186200},
-  {"hash":"6c44f32de401754087f4f6a2ec320d7d","path":"/JOURNAL.ZIP/JOURNAL.BAS","attr":"0x40","date":"1991-01-03 22:28:32","size":133056},
-  {"hash":"fc734024f31b51539b9cfd0e4efe334b","path":"/JOURNAL.ZIP/JOURNAL.COM","attr":"0x40","date":"1991-01-03 18:29:14","size":25990},
-  {"hash":"44e970b073e3b4b981e8923d297ac3b9","path":"/JOURNAL.ZIP/JOURNAL.DOC","attr":"0x40","date":"1991-01-03 23:02:42","size":4618}
+  {"hash":"d61f5533df821adf86e6bd838689e249","path":"/XLWSPEC2.XLM","attr":"0x20","date":"1991-01-03 15:13:22","size":1647}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

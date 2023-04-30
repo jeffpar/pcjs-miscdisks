@@ -46,16 +46,7 @@
   {"hash":"8520e2188ec1de84b5f798e14e1f0ea6","path":"/WINSRC.ARC","attr":"0x20","date":"1990-11-21 12:48:30","size":22615},
   {"hash":"aa4fb8f8c6151c9fa48417affed849f9","path":"/WINWHERE.C","attr":"0x20","date":"1990-11-22 11:15:30","size":34678},
   {"hash":"358d8d812f14686501494adc2e2f53f7","path":"/WINWHERE.DOC","attr":"0x20","date":"1990-11-21 13:58:46","size":1274},
-  {"hash":"16b9981dff1445d695548439574f1437","path":"/WINWHERE.EXE","attr":"0x20","date":"1990-10-15 08:55:22","size":20992,"module":{"name":"Where","description":"PC Magazine File Moving Utility","segments":{"1":{"offStart":2048,"offEnd":12341,"ordinals":{"1":{"o":91,"s":"WHEREDLGPROC"},"2":{"o":4829,"s":"ADDTYPEDLGPROC"},"3":{"o":3958,"s":"GENCOMMANDDLGPROC"},"4":{"o":5585,"s":"ABOUT"},"5":{"o":0},"6":{"o":3184}}},"2":{"offStart":12800,"offEnd":15457},"254":{"offStart":0,"offEnd":0}}}},
-  {"hash":"a27c71492b62f727f9b0310211c8f09f","path":"/WINSRC.ARC/STYLE.H","attr":"0x40","date":"1990-09-14 18:22:38","size":11204},
-  {"hash":"2088f3314d945cbdffa3391d43e3cef1","path":"/WINSRC.ARC/WINWHERE","attr":"0x40","date":"1990-11-22 19:19:02","size":404},
-  {"hash":"523156d3daf2c62fa9a4f7332105966e","path":"/WINSRC.ARC/WINWHERE.DEF","attr":"0x40","date":"1990-11-22 19:16:46","size":308},
-  {"hash":"8a9fa50765b530e0023bbee2da137580","path":"/WINSRC.ARC/WINWHERE.DLG","attr":"0x40","date":"1990-11-22 19:21:36","size":4994},
-  {"hash":"d9adc4037217ca430979d7a9163086d8","path":"/WINSRC.ARC/WINWHERE.H","attr":"0x40","date":"1990-10-02 23:23:38","size":609},
-  {"hash":"22d3034d679ad07373266d7959b2f13d","path":"/WINSRC.ARC/WINWHERE.ICO","attr":"0x40","date":"1990-09-14 17:09:54","size":766},
-  {"hash":"a8caf52e44617de0f60447e4d6e877ae","path":"/WINSRC.ARC/WINWHERE.OBJ","attr":"0x40","date":"1990-10-07 02:35:26","size":19684},
-  {"hash":"47fff5c5cd96fb21a897dc6af32afc63","path":"/WINSRC.ARC/WINWHERE.RC","attr":"0x40","date":"1990-11-22 19:17:48","size":5228},
-  {"hash":"63ec8624d36661e5830b0488ad9ee51a","path":"/WINSRC.ARC/WINWHERE.RES","attr":"0x40","date":"1990-10-15 15:55:20","size":2151}
+  {"hash":"16b9981dff1445d695548439574f1437","path":"/WINWHERE.EXE","attr":"0x20","date":"1990-10-15 08:55:22","size":20992,"module":{"name":"Where","description":"PC Magazine File Moving Utility","segments":{"1":{"offStart":2048,"offEnd":12341,"ordinals":{"1":{"o":91,"s":"WHEREDLGPROC"},"2":{"o":4829,"s":"ADDTYPEDLGPROC"},"3":{"o":3958,"s":"GENCOMMANDDLGPROC"},"4":{"o":5585,"s":"ABOUT"},"5":{"o":0},"6":{"o":3184}}},"2":{"offStart":12800,"offEnd":15457},"254":{"offStart":0,"offEnd":0}}}}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},
