@@ -3041,14 +3041,29 @@
       "jeffpar": {
         "@media": [
           {
+            "@title": "Jeff's Misc Disk #1",
+            "@diskette": "JEFFPAR-MISCDISK1.json",
+            "@format": "PC1200K"
+          },
+          {
+            "@title": "Jeff's Misc Disk #2",
+            "@diskette": "JEFFPAR-MISCDISK2.json",
+            "@format": "PC360K"
+          },
+          {
+            "@title": "Jeff's Misc Disk #3",
+            "@diskette": "JEFFPAR-MISCDISK3.json",
+            "@format": "PC360K"
+          },
+          {
             "@title": "Jeff's MS-DOS 3.20 Tools",
-            "@diskette": "JEFFPAR1-MSDOS320-TOOLS.json",
+            "@diskette": "JEFFPAR-MSDOS320-TOOLS.json",
             "@format": "PC360K"
           },
           {
             "@title": "Jeff's PC DOS 1.00 with MASM",
-            "@diskette": "JEFFPAR2-PCDOS100-MASM100-160K.img",
-            "@link": "/software/pcjs/JEFFPAR2-PCDOS100-MASM100-160K.img",
+            "@diskette": "JEFFPAR-PCDOS100-MASM100-160K.img",
+            "@link": "/software/pcjs/JEFFPAR-PCDOS100-MASM100-160K.img",
             "@localonly": true,
             "@format": "PC160K"
           }
