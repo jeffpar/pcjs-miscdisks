@@ -567,7 +567,7 @@
                 "@diskette": "MSWORD-110.json",
                 "@format": "PC320K",
                 "@kryoflux": true,
-                "@args": "--suppData=/software/pcx86/app/microsoft/word/1.15/index.md"
+                "@args": "--suppData=/software/pcx86/app/microsoft/word/1.15/README.md"
               }
             ]
           },
@@ -579,7 +579,7 @@
                 "@diskette": "MSWORD-115-PROGRAM-BACKUP.json",
                 "@format": "PC360K",
                 "@kryoflux": true,
-                "@args": "--suppData=/software/pcx86/app/microsoft/word/1.15/index.md"
+                "@args": "--suppData=/software/pcx86/app/microsoft/word/1.15/README.md"
               },
               {
                 "@title": "MS Word 1.15 (Utilities)",
@@ -601,7 +601,7 @@
                 "@diskette": "WORD20-DISK1.json",
                 "@format": "PC360K",
                 "@kryoflux": true,
-                "@args": "--suppData=/software/pcx86/app/microsoft/word/2.00/index.md",
+                "@args": "--suppData=/software/pcx86/app/microsoft/word/2.00/README.md",
                 "@photo": "jpg",
                 "@source": "https://winworldpc.com/product/microsoft-word/2x-dos"
               },
@@ -610,7 +610,7 @@
                 "@diskette": "WORD20-DISK1-BACKUP.json",
                 "@format": "PC360K",
                 "@kryoflux": true,
-                "@args": "--suppData=/software/pcx86/app/microsoft/word/2.00/index.md",
+                "@args": "--suppData=/software/pcx86/app/microsoft/word/2.00/README.md",
                 "@photo": "jpg",
                 "@source": "https://winworldpc.com/product/microsoft-word/2x-dos"
               },
