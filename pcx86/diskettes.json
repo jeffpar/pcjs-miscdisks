@@ -2836,6 +2836,47 @@
               }
             ]
           },
+          "6.00a": {
+            "@title": "Microsoft C Compiler 6.00a",
+            "@media": [
+              {
+                "@title": "MS C 6.00a (DISK 1: COMPILER1)",
+                "@diskette": "MSC600A-DISK1-COMPILER1.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS C 6.00a (DISK 2: COMPILER2)",
+                "@diskette": "MSC600A-DISK2-COMPILER2.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS C 6.00a (DISK 3: LIBRARIES)",
+                "@diskette": "MSC600A-DISK3-LIBRARIES.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS C 6.00a (DISK 4: WBUTILS)",
+                "@diskette": "MSC600A-DISK4-WBUTILS.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS C 6.00a (DISK 5: WBUTILS-OS2)",
+                "@diskette": "MSC600A-DISK5-WBUTILS-OS2.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS C 6.00a (DISK 6: REFERENCE)",
+                "@diskette": "MSC600A-DISK6-REFERENCE.json",
+                "@format": "PC1200K"
+              },
+              {
+                "@title": "MS C 6.00a (DISK 7: LIBS-OS2)",
+                "@diskette": "MSC600A-DISK7-LIBS-OS2.json",
+                "@format": "PC1200K"
+              }
+            ],
+            "@source": "https://winworldpc.com/product/microsoft-c-c/6x"
+          },
           "qcwin": {
             "@title": "Microsoft QuickC for Windows 1.00",
             "@hardware": {
