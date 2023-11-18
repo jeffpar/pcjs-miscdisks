@@ -1,51 +1,124 @@
 {
-    "cSpell.words": [
-        "BASCOM",
-        "bootable",
-        "CODEVIEW",
-        "DEVKIT",
-        "doclink",
-        "harddisks",
-        "IBMPC",
-        "INCLIBS",
-        "JEFFPAR",
-        "kryoflux",
-        "LEARNADV",
-        "learningdos",
-        "LEARNKBD",
-        "LEARNMOU",
-        "LIBL",
-        "LIBLARGE",
-        "LIBMC",
-        "LIBMEDIUM",
-        "LIBSMALL",
-        "localonly",
-        "MAILMRGE",
-        "MISCDISK",
-        "miscdisks",
-        "MLPROGGUIDE",
-        "MSDOS",
-        "MSQCWIN",
-        "MSWORD",
-        "Multiplan",
-        "PCDOS",
-        "PCJR",
-        "pcjs",
-        "POCKETREF",
-        "powerstation",
-        "PROGGUIDE",
-        "QBASIC",
-        "qcwin",
-        "quickbasic",
-        "QUICKC",
-        "QUICKPASCAL",
-        "ratbas",
-        "READTHISFIRST",
-        "RTLREF",
-        "UGUIDE",
-        "USERGUIDE",
-        "UTILGUIDE",
-        "WBUTILS",
-        "winword"
-    ]
+  "files.exclude": {
+    "_site/": true,
+    ".fseventsd": true,
+    ".history": true,
+    ".sass-cache": true,
+    ".Trashes": true,
+    "CNAME": true,
+    "node_modules": true,
+    "out/": true
+  },
+  "editor.wordWrap": "off",
+  "editor.rulers": [
+    127
+  ],
+  "editor.tabSize": 8,
+  "editor.insertSpaces": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.colorCustomizations": {
+    "[Atom One Dark]": {
+      "debugToolBar.background": "#21252B"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "[Atom One Dark]": {
+      "comments": "#47856b"
+    }
+  },
+  "[asm][masm][plaintext]": {
+    "editor.rulers": [
+      80
+    ],
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    }
+  },
+  "eslint.validate": [
+    "javascript"
+  ],
+  "[javascript][c]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true
+  },
+  "[html][json][jsonc][json5][css][scss]": {
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true
+  },
+  "[markdown]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true
+  },
+  "[xml][xsl]": {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true
+  },
+  "css.lint.emptyRules": "ignore",
+  "css.validate": false,
+  "files.autoGuessEncoding": true,
+  "scss.validate": false,
+  "task.allowAutomaticTasks": "on",
+  "explorer.sortOrder": "type",
+  "cSpell.words": [
+    "BASCOM",
+    "bootable",
+    "CODEVIEW",
+    "DEVKIT",
+    "doclink",
+    "harddisks",
+    "IBMPC",
+    "INCLIBS",
+    "JEFFPAR",
+    "kryoflux",
+    "LEARNADV",
+    "learningdos",
+    "LEARNKBD",
+    "LEARNMOU",
+    "LIBL",
+    "LIBLARGE",
+    "LIBMC",
+    "LIBMEDIUM",
+    "LIBSMALL",
+    "localonly",
+    "MAILMRGE",
+    "MISCDISK",
+    "miscdisks",
+    "MLPROGGUIDE",
+    "MSDOS",
+    "MSQCWIN",
+    "MSWORD",
+    "Multiplan",
+    "PCDOS",
+    "PCJR",
+    "pcjs",
+    "POCKETREF",
+    "powerstation",
+    "PROGGUIDE",
+    "QBASIC",
+    "qcwin",
+    "quickbasic",
+    "QUICKC",
+    "QUICKPASCAL",
+    "ratbas",
+    "READTHISFIRST",
+    "RTLREF",
+    "UGUIDE",
+    "USERGUIDE",
+    "UTILGUIDE",
+    "WBUTILS",
+    "winword"
+  ]
 }
