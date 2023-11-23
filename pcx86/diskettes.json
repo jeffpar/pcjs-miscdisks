@@ -2886,47 +2886,47 @@
             "@title": "Microsoft C Compiler 7.00",
             "@media": [
               {
-                "@title": "MS C 7.00 (DISK 01)",
+                "@title": "MS C 7.00 (DISK 01: SETUP)",
                 "@diskette": "MSC700-DISK01.json",
                 "@format": "PC1440K"
               },
               {
-                "@title": "MS C 7.00 (DISK 02)",
+                "@title": "MS C 7.00 (DISK 02: UTILITIES)",
                 "@diskette": "MSC700-DISK02.json",
                 "@format": "PC1440K"
               },
               {
-                "@title": "MS C 7.00 (DISK 03)",
+                "@title": "MS C 7.00 (DISK 03: COMPILERS)",
                 "@diskette": "MSC700-DISK03.json",
                 "@format": "PC1440K"
               },
               {
-                "@title": "MS C 7.00 (DISK 04)",
+                "@title": "MS C 7.00 (DISK 04: HELP)",
                 "@diskette": "MSC700-DISK04.json",
                 "@format": "PC1440K"
               },
               {
-                "@title": "MS C 7.00 (DISK 05)",
+                "@title": "MS C 7.00 (DISK 05: LIBRARIES)",
                 "@diskette": "MSC700-DISK05.json",
                 "@format": "PC1440K"
               },
               {
-                "@title": "MS C 7.00 (DISK 06)",
+                "@title": "MS C 7.00 (DISK 06: CODEVIEW)",
                 "@diskette": "MSC700-DISK06.json",
                 "@format": "PC1440K"
               },
               {
-                "@title": "MS C 7.00 (DISK 07)",
+                "@title": "MS C 7.00 (DISK 07: MFC 1)",
                 "@diskette": "MSC700-DISK07.json",
                 "@format": "PC1440K"
               },
               {
-                "@title": "MS C 7.00 (DISK 08)",
+                "@title": "MS C 7.00 (DISK 08: MFC 2)",
                 "@diskette": "MSC700-DISK08.json",
                 "@format": "PC1440K"
               },
               {
-                "@title": "MS C 7.00 (DISK 09)",
+                "@title": "MS C 7.00 (DISK 09: MFC 3)",
                 "@diskette": "MSC700-DISK09.json",
                 "@format": "PC1440K"
               },
