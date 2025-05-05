@@ -15,7 +15,7 @@
   ],
   "editor.tabSize": 8,
   "editor.insertSpaces": false,
-  "workbench.colorTheme": "Atom One Dark",
+  "workbench.colorTheme": "Default Dark Modern",
   "workbench.colorCustomizations": {
     "[Atom One Dark]": {
       "debugToolBar.background": "#21252B"
